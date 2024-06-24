@@ -1,0 +1,1001 @@
+case_id,Country_Code,open_date,close_date,activation_date,removal_date,product_type,record_type,stage,id,status,create_date,scheduled_date,fulfilled_date,type,vendor,region,cycle_time
+985729483-9,JP,,,,,Locker,Location Locker/Counter,Compliance,905084941-5,Fulfilled,3/5/24,3/7/24,3/24/24,Permit,Redbox,APAC,19
+830895409-X,AT,,,,,Apt Locker,Dobby NA,,983866584-3,Complete,3/23/24,3/28/24,4/9/24,Advertising,NSA,EU,17
+812941297-7,IT,,,,,Apt Locker,Dobby,Install,641952087-8,Scheduled,3/2/24,3/7/24,,Install,Redbox,EU,
+177994528-0,FR,,,,,Apt Locker,Dobby NA,Compliance,293436052-0,Cancelled,1/30/24,2/2/24,,Permit,NSA,EU,
+349328367-9,IT,,,,,Apt Locker,Dobby,Survey,199275832-8,Complete,5/2/24,5/4/24,5/8/24,Survey,Brendamour,EU,6
+112377073-5,DE,,45351,45351,45351,Locker,Location Locker/Counter,Closed,523630715-5,Complete,2/19/24,2/23/24,2/29/24,Removal,Brendamour,EU,10
+738351436-X,US,,,,,Locker,Location Locker/Counter,Compliance,618271999-0,Scheduled,5/29/24,6/2/24,,Permit,Redbox,USA,
+103877409-8,PT,,,,,Locker,Location Locker/Counter NA,Compliance,731685761-7,New,4/22/24,,,Permit,Brendamour,EU,
+612086112-2,PT,,,,,Apt Locker,Dobby NA,Install,148113880-4,Scheduled,4/27/24,4/28/24,,Install,Brendamour,EU,
+690312695-3,US,,,,,Apt Locker,Dobby NA,Compliance,895743362-7,Scheduled,4/25/24,4/29/24,,Permit,Brendamour,USA,
+397451884-3,ES,,,,,Locker,Location Locker/Counter,Survey,009213716-4,Fulfilled,6/1/24,6/6/24,6/21/24,Survey,Brendamour,EU,20
+127063690-1,US,,45344,45344,45344,Apt Locker,Dobby NA,Closed,579098395-2,Complete,2/3/24,2/6/24,2/22/24,Removal,Redbox,USA,19
+249844833-0,DE,,,,,Apt Locker,Dobby NA,,838886668-0,Failure,4/27/24,4/30/24,,Removal,Brendamour,EU,
+798029513-7,CA,,,,,Apt Locker,Dobby,Compliance,073139386-4,New,4/6/24,,,Permit,Brendamour,USA,
+644991318-5,MX,,,,,Apt Locker,Dobby,,368158433-8,Failure,5/5/24,5/9/24,,Advertising,Brendamour,USA,
+670704600-4,DE,,,,,Locker,Location Locker/Counter NA,Install,480710321-0,Scheduled,3/28/24,4/1/24,,Install,Redbox,EU,
+055221823-5,DE,,45419,45419,,Locker,Location Locker/Counter NA,Closed,495474899-2,Complete,4/9/24,4/14/24,5/7/24,Install,NSA,EU,28
+987272213-7,JP,,,,,Locker,Location Locker/Counter NA,Install,134063471-6,Failure,3/25/24,3/28/24,,Install,NSA,APAC,
+975672280-0,MX,,,,,Locker,Location Locker/Counter,,245102374-0,Cancelled,4/25/24,4/28/24,,Decommission,Redbox,USA,
+222156429-4,MX,,,,,Apt Locker,Dobby,Install,253745914-8,Cancelled,5/6/24,5/9/24,,Install,Brendamour,USA,
+890035188-5,CA,,,,,Apt Locker Pro,Location,,596185831-6,Fulfilled,2/6/24,2/9/24,2/21/24,Advertising,Redbox,USA,15
+146057268-8,ES,,,,,Apt Locker,Dobby NA,,695142044-0,Scheduled,2/10/24,2/11/24,,Decommission,NSA,EU,
+785800795-5,JP,,45402,45402,,Locker,Location Locker/Counter,Closed,664602559-2,Fulfilled,4/6/24,4/8/24,4/20/24,Install,Brendamour,APAC,14
+914989354-8,JP,,,,,Apt Locker,Dobby NA,,333708023-5,Cancelled,4/13/24,4/14/24,,Decommission,NSA,APAC,
+689945591-9,IT,,,,,Apt Locker,Dobby,Install,072935764-3,Cancelled,1/26/24,1/27/24,,Install,Redbox,EU,
+874720145-2,PT,,,,,Apt Locker,Dobby,Install,553744005-9,New,5/9/24,,,Install,NSA,EU,
+299652459-4,PT,,,,,Locker,Location Locker/Counter,Survey,220409914-7,Cancelled,5/23/24,5/28/24,,Survey,Redbox,EU,
+201765603-8,AT,,,,,Apt Locker,Dobby,Survey,850283356-1,Failure,1/24/24,1/25/24,,Survey,Brendamour,EU,
+671666621-4,DE,,,,,Locker,Location Locker/Counter,,359726407-7,Scheduled,2/27/24,3/3/24,,Decommission,Redbox,EU,
+150323041-4,FR,,,,,Locker,Location Locker/Counter,Compliance,762919624-5,New,1/15/24,,,Permit,Redbox,EU,
+980699924-X,PT,,,,,Apt Locker,Dobby NA,Survey,534778853-4,Scheduled,3/22/24,3/23/24,,Survey,NSA,EU,
+880919839-5,FR,,,,,Locker,Location Locker/Counter NA,Compliance,780029591-5,New,4/13/24,,,Permit,Redbox,EU,
+572020810-0,IT,,,,,Apt Locker,Dobby,,303911431-X,Cancelled,2/9/24,2/11/24,,Decommission,NSA,EU,
+870570884-2,ES,,,,,Apt Locker Pro,Location,Install,485500654-8,Cancelled,1/27/24,1/31/24,,Install,Redbox,EU,
+185285662-9,US,,,,,Apt Locker Pro,Location,Survey,701270789-5,Fulfilled,3/10/24,3/11/24,3/25/24,Survey,Redbox,USA,15
+990989264-2,FR,,,,,Apt Locker Pro,Location,,225714602-6,Failure,2/7/24,2/11/24,,Removal,NSA,EU,
+961949866-6,MX,,,,,Apt Locker,Dobby,,474772266-1,Complete,2/14/24,2/16/24,2/25/24,Advertising,NSA,USA,11
+572986745-X,AT,,,,,Apt Locker Pro,Location,,890798581-2,Complete,3/31/24,4/2/24,4/18/24,Advertising,Brendamour,EU,18
+728057579-X,DE,,,,,Apt Locker Pro,Location,Install,389804711-3,New,4/16/24,,,Install,Redbox,EU,
+219523886-0,PT,,,,,Locker,Location Locker/Counter,Compliance,912850751-7,Scheduled,4/10/24,4/14/24,,Permit,Brendamour,EU,
+748067001-X,PT,,,,,Apt Locker,Dobby,Install,455309627-7,Scheduled,1/30/24,2/2/24,,Install,NSA,EU,
+815389040-9,AT,,,,,Apt Locker Pro,Location,,950494961-4,Failure,2/20/24,2/23/24,,Decommission,NSA,EU,
+999212189-0,AT,,,,,Locker,Location Locker/Counter NA,,856857367-3,Scheduled,1/3/24,1/5/24,,Advertising,Brendamour,EU,
+560684822-8,DE,,,,,Locker,Location Locker/Counter NA,,383675064-3,Scheduled,3/12/24,3/17/24,,Decommission,Redbox,EU,
+099690893-5,JP,,,,,Apt Locker Pro,Location,Install,883688606-X,Cancelled,1/11/24,1/14/24,,Install,Redbox,APAC,
+474595400-X,IT,,45355,45355,,Apt Locker,Dobby NA,Closed,763954348-7,Fulfilled,2/12/24,2/15/24,3/4/24,Install,NSA,EU,21
+818878660-8,JP,,,,,Apt Locker Pro,Location,,282945985-7,Failure,12/31/23,1/5/24,,Removal,NSA,APAC,
+111685589-5,US,,45357,45357,45357,Locker,Location Locker/Counter NA,Closed,199169138-6,Fulfilled,2/26/24,3/1/24,3/6/24,Removal,Brendamour,USA,9
+348261891-7,CA,,,,,Locker,Location Locker/Counter,,253285579-7,New,5/23/24,,,Advertising,Redbox,USA,
+432932159-9,MX,,,,,Apt Locker,Dobby,Survey,384896218-7,Cancelled,3/28/24,3/30/24,,Survey,Redbox,USA,
+720108865-3,JP,,,,,Locker,Location Locker/Counter,,251849317-4,Cancelled,5/15/24,5/20/24,,Decommission,Brendamour,APAC,
+906615448-9,ES,,,,,Apt Locker,Dobby NA,,527484187-2,Failure,3/12/24,3/16/24,,Removal,Brendamour,EU,
+471470678-0,US,,,,,Locker,Location Locker/Counter,Install,204579726-0,Scheduled,5/8/24,5/9/24,,Install,Brendamour,USA,
+095610419-3,CA,,,,,Locker,Location Locker/Counter,,293102652-2,Cancelled,4/16/24,4/17/24,,Advertising,Redbox,USA,
+097352291-7,PT,,,,,Apt Locker,Dobby NA,,171743774-5,Failure,5/21/24,5/25/24,,Decommission,Redbox,EU,
+477613582-5,MX,,,,,Locker,Location Locker/Counter,,475222745-2,Complete,1/14/24,1/17/24,2/4/24,Advertising,NSA,USA,21
+806171007-2,DE,,,,,Apt Locker Pro,Location,Install,317815092-7,Scheduled,3/8/24,3/12/24,,Install,Redbox,EU,
+406806260-9,US,,45439,45439,,Locker,Location Locker/Counter,Closed,612923091-5,Fulfilled,5/7/24,5/8/24,5/27/24,Install,NSA,USA,20
+994792906-X,JP,,,,,Locker,Location Locker/Counter NA,Survey,954308281-2,New,1/14/24,,,Survey,Brendamour,APAC,
+153128719-0,FR,,,,,Locker,Location Locker/Counter NA,,116122999-X,Scheduled,5/7/24,5/9/24,,Decommission,Redbox,EU,
+374206231-X,MX,,,,,Apt Locker,Dobby NA,,821771965-9,New,2/3/24,,,Removal,Redbox,USA,
+166808640-9,IT,,,,,Apt Locker Pro,Location,Install,437549858-7,New,1/24/24,,,Install,Redbox,EU,
+797613259-8,CA,,,,,Apt Locker Pro,Location,Install,811526240-4,Scheduled,1/15/24,1/19/24,,Install,Redbox,USA,
+387549390-7,MX,,45360,45360,45360,Locker,Location Locker/Counter NA,Closed,397954782-5,Fulfilled,2/25/24,2/26/24,3/9/24,Removal,Brendamour,USA,13
+720227241-5,JP,,,,,Apt Locker,Dobby,,932231286-6,New,4/2/24,,,Removal,NSA,APAC,
+941954799-X,IT,,,,,Locker,Location Locker/Counter,Survey,997301588-6,Cancelled,1/6/24,1/11/24,,Survey,Brendamour,EU,
+782394808-7,AU,,,,,Apt Locker,Dobby NA,,814754319-0,New,5/30/24,,,Advertising,Redbox,APAC,
+870859911-4,ES,,45320,45320,,Apt Locker Pro,Location,Closed,436208727-3,Complete,1/3/24,1/8/24,1/29/24,Install,Redbox,EU,26
+234262245-7,ES,,,,,Locker,Location Locker/Counter NA,Compliance,647579899-1,Scheduled,3/24/24,3/26/24,,Permit,Brendamour,EU,
+111152994-9,PT,,,,,Locker,Location Locker/Counter NA,Compliance,008109255-5,Complete,4/23/24,4/26/24,4/30/24,Permit,Brendamour,EU,7
+536729140-6,MX,,,,,Apt Locker,Dobby,Compliance,977651744-7,Complete,4/3/24,4/8/24,4/13/24,Permit,Brendamour,USA,10
+237209011-9,ES,,,,,Locker,Location Locker/Counter NA,Compliance,377516914-8,Fulfilled,2/20/24,2/25/24,3/12/24,Permit,Brendamour,EU,21
+340526938-5,ES,,,,,Locker,Location Locker/Counter NA,Survey,216262899-6,Fulfilled,1/2/24,1/6/24,1/9/24,Survey,Brendamour,EU,7
+644127025-0,MX,,,,,Apt Locker Pro,Location,Compliance,913363297-9,Complete,4/24/24,4/27/24,5/7/24,Permit,Redbox,USA,13
+792604060-6,CA,,,,,Apt Locker,Dobby,,495204574-9,Cancelled,3/21/24,3/25/24,,Removal,Brendamour,USA,
+986840174-7,US,,,,,Apt Locker,Dobby NA,,302323973-8,Cancelled,1/23/24,1/25/24,,Advertising,Redbox,USA,
+905858426-7,DE,,,,,Apt Locker Pro,Location,Survey,831103596-2,Failure,1/8/24,1/13/24,,Survey,Brendamour,EU,
+039896281-2,US,,,,,Locker,Location Locker/Counter NA,,227898491-8,Scheduled,1/15/24,1/19/24,,Removal,Brendamour,USA,
+013185152-7,AT,,,,,Apt Locker,Dobby NA,,119799537-4,Complete,2/7/24,2/11/24,2/24/24,Advertising,Redbox,EU,17
+797316419-7,AT,,,,,Apt Locker,Dobby NA,Compliance,353273256-4,Failure,4/23/24,4/26/24,,Permit,Redbox,EU,
+628216123-1,ES,,,,,Apt Locker Pro,Location,,011673571-6,New,4/7/24,,,Removal,Brendamour,EU,
+980882431-5,AU,,,,,Locker,Location Locker/Counter NA,Survey,944935840-0,Failure,1/8/24,1/12/24,,Survey,NSA,APAC,
+587516594-4,US,,,,,Apt Locker Pro,Location,Survey,168610162-7,Cancelled,4/15/24,4/19/24,,Survey,Redbox,USA,
+164281410-5,JP,,,,,Apt Locker,Dobby NA,Install,853653977-1,Scheduled,2/3/24,2/4/24,,Install,Redbox,APAC,
+010966046-3,AT,,,,,Locker,Location Locker/Counter,,238006863-1,New,3/12/24,,,Removal,NSA,EU,
+581086130-X,CA,,,,,Apt Locker Pro,Location,,050134636-8,New,3/7/24,,,Decommission,Redbox,USA,
+970164650-9,FR,,45345,45345,45345,Apt Locker,Dobby,Closed,098148204-X,Fulfilled,2/15/24,2/17/24,2/23/24,Decommission,Brendamour,EU,8
+211634593-6,FR,,,,,Apt Locker Pro,Location,Survey,660781301-1,Fulfilled,1/20/24,1/25/24,2/3/24,Survey,Redbox,EU,14
+857076625-4,PT,,,,,Apt Locker Pro,Location,,816282605-X,Failure,5/28/24,6/2/24,,Removal,NSA,EU,
+336706421-1,MX,,,,,Apt Locker,Dobby,Install,802367161-8,New,3/19/24,,,Install,Redbox,USA,
+305470478-5,ES,,45359,45359,45359,Locker,Location Locker/Counter NA,Closed,548253610-6,Fulfilled,2/17/24,2/21/24,3/8/24,Removal,Redbox,EU,20
+324240388-6,CA,,,,,Locker,Location Locker/Counter NA,Compliance,019573883-7,New,5/19/24,,,Permit,NSA,USA,
+678775619-4,JP,,,,,Apt Locker,Dobby,Compliance,570901893-7,Failure,3/26/24,3/28/24,,Permit,Brendamour,APAC,
+076017368-0,DE,,,,,Locker,Location Locker/Counter,Compliance,885140461-5,Fulfilled,5/8/24,5/13/24,5/19/24,Permit,Brendamour,EU,11
+743544111-2,AU,,45368,45368,45368,Locker,Location Locker/Counter NA,Closed,587849839-1,Fulfilled,3/3/24,3/6/24,3/17/24,Removal,Brendamour,APAC,14
+625071088-4,AT,,,,,Apt Locker,Dobby NA,Survey,914561627-2,Fulfilled,1/8/24,1/13/24,1/30/24,Survey,Redbox,EU,22
+414145348-X,IT,,,,,Apt Locker,Dobby NA,Survey,955346340-1,New,3/24/24,,,Survey,Redbox,EU,
+152397807-4,AT,,,,,Locker,Location Locker/Counter NA,,979556922-8,New,1/18/24,,,Removal,Redbox,EU,
+351562174-1,PT,,,,,Apt Locker Pro,Location,,381938591-6,Scheduled,4/29/24,5/4/24,,Decommission,NSA,EU,
+317584489-8,US,,,,,Apt Locker Pro,Location,Compliance,064560886-6,Complete,4/21/24,4/22/24,5/3/24,Permit,Redbox,USA,12
+010196230-4,IT,,,,,Apt Locker,Dobby,Install,228251805-5,Scheduled,5/6/24,5/7/24,,Install,Brendamour,EU,
+291846692-1,PT,,,,,Apt Locker Pro,Location,Compliance,351724854-1,Fulfilled,4/12/24,4/16/24,5/1/24,Permit,NSA,EU,19
+759492947-0,CA,,,,,Locker,Location Locker/Counter,Compliance,390096370-3,New,3/31/24,,,Permit,NSA,USA,
+687280945-0,PT,,45423,45423,45423,Apt Locker,Dobby,Closed,975717110-7,Complete,4/23/24,4/28/24,5/11/24,Decommission,NSA,EU,18
+715048825-0,IT,,,,,Apt Locker,Dobby NA,,108970908-0,Failure,2/27/24,2/28/24,,Removal,NSA,EU,
+885436040-6,US,,,,,Locker,Location Locker/Counter NA,,527336802-2,Failure,1/28/24,1/30/24,,Removal,Redbox,USA,
+651535414-2,IT,,,,,Locker,Location Locker/Counter,,393246937-2,New,5/10/24,,,Removal,Redbox,EU,
+135256775-X,MX,,45415,45415,,Apt Locker,Dobby,Closed,101565747-8,Fulfilled,3/25/24,3/29/24,5/3/24,Install,Redbox,USA,39
+600696116-4,JP,,,,,Locker,Location Locker/Counter,Install,293595450-5,Scheduled,1/4/24,1/7/24,,Install,Brendamour,APAC,
+995054585-4,FR,,,,,Apt Locker,Dobby NA,,059474784-8,Complete,5/30/24,6/3/24,6/9/24,Advertising,Redbox,EU,10
+450210343-8,PT,,,,,Apt Locker Pro,Location,Install,488322174-1,New,5/17/24,,,Install,NSA,EU,
+335226565-8,AT,,,,,Locker,Location Locker/Counter NA,,803135502-9,Scheduled,5/23/24,5/26/24,,Removal,NSA,EU,
+035263405-7,IT,,,,,Apt Locker,Dobby,Compliance,134046106-4,Scheduled,4/7/24,4/10/24,,Permit,NSA,EU,
+381740691-6,IT,,,,,Apt Locker,Dobby,,621365193-4,Scheduled,5/26/24,5/30/24,,Advertising,Brendamour,EU,
+717976355-1,MX,,,,,Apt Locker,Dobby NA,Compliance,735684603-9,Scheduled,2/2/24,2/6/24,,Permit,NSA,USA,
+854469535-3,US,,,,,Apt Locker,Dobby,Install,934091593-3,Scheduled,4/1/24,4/4/24,,Install,Redbox,USA,
+309413081-X,MX,,,,,Apt Locker,Dobby,Install,291985852-1,Scheduled,4/29/24,5/2/24,,Install,Redbox,USA,
+253058209-2,DE,,,,,Locker,Location Locker/Counter,Survey,614371127-5,Complete,4/2/24,4/6/24,4/20/24,Survey,Brendamour,EU,18
+481980933-4,DE,,45429,45429,45429,Apt Locker,Dobby NA,Closed,575644126-3,Fulfilled,5/2/24,5/5/24,5/17/24,Removal,Brendamour,EU,15
+148519172-6,AT,,,,,Locker,Location Locker/Counter NA,,019710264-6,Failure,4/13/24,4/16/24,,Decommission,Brendamour,EU,
+535484146-1,ES,,45454,45454,45454,Locker,Location Locker/Counter NA,Closed,564269222-4,Complete,5/23/24,5/26/24,6/11/24,Removal,Redbox,EU,19
+543251250-5,FR,,,,,Locker,Location Locker/Counter NA,,290648496-2,Fulfilled,5/3/24,5/7/24,5/22/24,Advertising,Brendamour,EU,19
+573813736-1,FR,,,,,Locker,Location Locker/Counter,,961435015-6,Failure,5/11/24,5/15/24,,Advertising,Brendamour,EU,
+095998725-8,CA,,,,,Apt Locker Pro,Location,,441237585-4,Cancelled,2/15/24,2/18/24,,Advertising,NSA,USA,
+085995833-7,MX,,,,,Apt Locker,Dobby NA,Survey,151065517-4,Failure,2/10/24,2/12/24,,Survey,Redbox,USA,
+586710440-0,IT,,45416,45416,,Apt Locker,Dobby NA,Closed,607574653-6,Fulfilled,4/11/24,4/15/24,5/4/24,Install,NSA,EU,23
+527306620-4,US,,,,,Apt Locker,Dobby,,092490716-9,Scheduled,2/22/24,2/27/24,,Decommission,Brendamour,USA,
+867925444-4,FR,,,,,Apt Locker Pro,Location,Compliance,583802808-4,Fulfilled,2/25/24,2/27/24,3/5/24,Permit,Redbox,EU,9
+318684063-5,ES,,,,,Apt Locker,Dobby NA,Survey,212809191-8,Scheduled,3/3/24,3/7/24,,Survey,Redbox,EU,
+371412511-6,ES,,,,,Locker,Location Locker/Counter,,126570050-8,Failure,2/11/24,2/14/24,,Advertising,Brendamour,EU,
+178537138-X,AT,,,,,Apt Locker,Dobby,,660624536-2,Scheduled,1/18/24,1/19/24,,Decommission,Redbox,EU,
+380655346-7,MX,,,,,Apt Locker,Dobby,,591048658-6,Complete,4/25/24,4/27/24,5/12/24,Advertising,Redbox,USA,17
+961918306-1,AT,,,,,Apt Locker,Dobby,Compliance,255309578-3,New,2/25/24,,,Permit,NSA,EU,
+466055261-6,AU,,,,,Locker,Location Locker/Counter NA,Install,716826084-7,New,1/15/24,,,Install,Brendamour,APAC,
+267434233-1,AU,,,,,Apt Locker,Dobby,Survey,500315789-4,Cancelled,4/5/24,4/10/24,,Survey,NSA,APAC,
+566261549-7,CA,,,,,Apt Locker,Dobby NA,Compliance,782492931-0,Fulfilled,2/28/24,3/3/24,3/16/24,Permit,Redbox,USA,17
+724369909-X,FR,,,,,Apt Locker Pro,Location,Survey,316414726-0,Failure,5/5/24,5/6/24,,Survey,Brendamour,EU,
+873324954-7,AU,,,,,Apt Locker,Dobby,Compliance,980729987-X,New,5/19/24,,,Permit,Redbox,APAC,
+143246299-7,DE,,,,,Apt Locker Pro,Location,Survey,380327955-0,Scheduled,3/22/24,3/25/24,,Survey,NSA,EU,
+562060094-7,DE,,,,,Apt Locker Pro,Location,,135943910-2,New,5/27/24,,,Removal,Brendamour,EU,
+592178288-2,AT,,,,,Apt Locker,Dobby,,728984564-1,Complete,4/20/24,4/22/24,5/2/24,Advertising,Brendamour,EU,12
+617706870-7,MX,,45350,45350,,Apt Locker,Dobby,Closed,128994623-X,Complete,1/18/24,1/21/24,2/28/24,Install,NSA,USA,41
+153134138-1,AT,,,,,Locker,Location Locker/Counter,Install,429489624-8,New,2/9/24,,,Install,Brendamour,EU,
+132149220-0,FR,,,,,Apt Locker Pro,Location,Install,160615546-6,Failure,5/14/24,5/19/24,,Install,NSA,EU,
+092066929-8,CA,,,,,Apt Locker Pro,Location,Survey,975471280-8,New,5/30/24,,,Survey,Redbox,USA,
+585692294-8,US,,45449,45449,45449,Locker,Location Locker/Counter,Closed,395769857-X,Complete,5/25/24,5/29/24,6/6/24,Removal,Redbox,USA,12
+580941746-9,AT,,45350,45350,45350,Locker,Location Locker/Counter NA,Closed,263114410-4,Fulfilled,2/15/24,2/18/24,2/28/24,Decommission,Brendamour,EU,13
+277122191-8,AT,,,,,Locker,Location Locker/Counter NA,Survey,032526544-5,Scheduled,5/7/24,5/8/24,,Survey,Brendamour,EU,
+438267771-8,DE,,,,,Locker,Location Locker/Counter,,508807357-7,Failure,1/16/24,1/19/24,,Removal,Redbox,EU,
+522792349-3,FR,,,,,Apt Locker Pro,Location,Survey,619459772-0,Scheduled,1/29/24,2/1/24,,Survey,Redbox,EU,
+100075208-9,AU,,45352,45352,,Apt Locker,Dobby,Closed,893012577-8,Complete,2/12/24,2/14/24,3/1/24,Install,NSA,APAC,18
+897829047-7,US,,,,,Locker,Location Locker/Counter,Survey,355528382-0,New,3/8/24,,,Survey,Brendamour,USA,
+401508049-1,CA,,,,,Apt Locker,Dobby NA,,913189137-3,New,4/5/24,,,Removal,Brendamour,USA,
+208474471-7,MX,,,,,Apt Locker Pro,Location,,385148362-6,Failure,4/30/24,5/3/24,,Decommission,NSA,USA,
+751636532-7,US,,,,,Apt Locker,Dobby NA,,246592202-5,New,2/6/24,,,Decommission,Redbox,USA,
+845039111-3,MX,,,,,Locker,Location Locker/Counter NA,Survey,871116763-7,Complete,5/24/24,5/26/24,6/13/24,Survey,Brendamour,USA,20
+393465824-5,FR,,,,,Apt Locker,Dobby,Compliance,806711979-1,Failure,2/1/24,2/4/24,,Permit,NSA,EU,
+502490927-5,MX,,,,,Apt Locker,Dobby,,629432643-5,Fulfilled,2/23/24,2/28/24,3/8/24,Advertising,Brendamour,USA,14
+195584338-4,AU,,,,,Apt Locker Pro,Location,Survey,079695721-5,Complete,3/22/24,3/24/24,3/29/24,Survey,Brendamour,APAC,7
+894551497-X,JP,,,,,Apt Locker,Dobby NA,Survey,415514071-3,New,5/14/24,,,Survey,NSA,APAC,
+044859799-3,DE,,,,,Locker,Location Locker/Counter,Survey,642107779-X,Failure,5/26/24,5/27/24,,Survey,Brendamour,EU,
+001944961-5,ES,,,,,Locker,Location Locker/Counter,Survey,428521197-1,Complete,3/11/24,3/16/24,3/20/24,Survey,Brendamour,EU,9
+068624169-X,ES,,,,,Locker,Location Locker/Counter,,832117227-X,Scheduled,1/16/24,1/17/24,,Advertising,Redbox,EU,
+649588994-1,US,,,,,Apt Locker,Dobby,Survey,640418762-0,Failure,4/4/24,4/7/24,,Survey,Brendamour,USA,
+257463521-3,IT,,,,,Apt Locker Pro,Location,,626654662-0,Failure,1/9/24,1/10/24,,Decommission,NSA,EU,
+883112670-9,CA,,45392,45392,45392,Locker,Location Locker/Counter,Closed,939035308-4,Complete,3/31/24,4/5/24,4/10/24,Decommission,Brendamour,USA,10
+222361930-4,IT,,,,,Apt Locker,Dobby NA,,303285278-1,Scheduled,4/30/24,5/4/24,,Advertising,Brendamour,EU,
+655005281-5,CA,,,,,Locker,Location Locker/Counter NA,Survey,676825162-7,Scheduled,2/13/24,2/18/24,,Survey,Redbox,USA,
+799457999-X,DE,,,,,Apt Locker,Dobby,Install,286238603-0,Scheduled,2/11/24,2/14/24,,Install,NSA,EU,
+263183022-9,MX,,,,,Apt Locker,Dobby NA,Install,765225336-5,New,5/17/24,,,Install,NSA,USA,
+405147685-5,DE,,,,,Apt Locker,Dobby,Survey,503695517-X,Fulfilled,4/16/24,4/18/24,4/25/24,Survey,Redbox,EU,9
+508018013-7,JP,,,,,Apt Locker,Dobby,,287504346-3,Complete,5/24/24,5/25/24,6/6/24,Advertising,NSA,APAC,13
+686856694-8,US,,,,,Apt Locker Pro,Location,Survey,624527168-1,Fulfilled,1/24/24,1/29/24,2/3/24,Survey,Brendamour,USA,10
+963262537-4,CA,,,,,Apt Locker Pro,Location,,710375669-4,Scheduled,1/19/24,1/20/24,,Removal,NSA,USA,
+381330520-1,IT,,45351,45351,45351,Apt Locker Pro,Location,Closed,280357716-X,Complete,2/19/24,2/24/24,2/29/24,Removal,Redbox,EU,10
+698827737-4,AU,,,,,Apt Locker,Dobby,Compliance,972849579-X,Failure,5/9/24,5/12/24,,Permit,NSA,APAC,
+929040661-5,MX,,,,,Apt Locker Pro,Location,,823150262-9,Fulfilled,3/4/24,3/9/24,3/16/24,Advertising,Redbox,USA,12
+760992635-3,JP,,,,,Apt Locker Pro,Location,,988003793-6,Cancelled,3/16/24,3/17/24,,Advertising,Brendamour,APAC,
+451068210-7,JP,,,,,Apt Locker Pro,Location,Install,321197040-1,Failure,2/17/24,2/18/24,,Install,NSA,APAC,
+483732634-X,AU,,,,,Apt Locker,Dobby,Compliance,615982319-1,Complete,1/3/24,1/6/24,1/9/24,Permit,Brendamour,APAC,6
+520773032-0,AU,,,,,Apt Locker,Dobby NA,,022267695-7,New,2/7/24,,,Removal,Redbox,APAC,
+855651543-6,CA,,45360,45360,,Apt Locker,Dobby NA,Closed,684627476-6,Fulfilled,1/23/24,1/27/24,3/9/24,Install,Brendamour,USA,46
+477515129-0,CA,,,,,Apt Locker Pro,Location,Compliance,186574448-4,Failure,4/11/24,4/15/24,,Permit,Brendamour,USA,
+069717648-7,DE,,,,,Apt Locker,Dobby NA,,915577847-X,Failure,3/5/24,3/8/24,,Advertising,Brendamour,EU,
+002763008-0,MX,,,,,Apt Locker,Dobby,Compliance,861978468-4,Failure,3/22/24,3/23/24,,Permit,Brendamour,USA,
+945478700-4,PT,,,,,Apt Locker,Dobby NA,,332298177-0,New,1/27/24,,,Removal,NSA,EU,
+721895613-0,FR,,,,,Locker,Location Locker/Counter,,354799064-5,New,2/1/24,,,Decommission,Redbox,EU,
+604482970-7,JP,,,,,Apt Locker,Dobby NA,Install,662735354-7,New,1/13/24,,,Install,NSA,APAC,
+332501622-7,AU,,,,,Apt Locker Pro,Location,,355284779-0,Scheduled,2/9/24,2/10/24,,Decommission,NSA,APAC,
+060620720-1,ES,,,,,Apt Locker,Dobby,,834830760-5,Scheduled,3/24/24,3/29/24,,Decommission,NSA,EU,
+335252909-4,MX,,,,,Locker,Location Locker/Counter NA,Install,383150427-X,Cancelled,1/3/24,1/5/24,,Install,Brendamour,USA,
+995169879-4,AT,,,,,Apt Locker,Dobby NA,,871053941-7,Fulfilled,2/1/24,2/4/24,2/18/24,Advertising,NSA,EU,17
+320652902-6,CA,,45406,45406,,Locker,Location Locker/Counter NA,Closed,610560718-0,Complete,4/2/24,4/3/24,4/24/24,Install,NSA,USA,22
+557720305-8,US,,,,,Locker,Location Locker/Counter NA,Compliance,551235941-X,Scheduled,4/30/24,5/2/24,,Permit,Redbox,USA,
+698855858-6,US,,45339,45339,45339,Locker,Location Locker/Counter NA,Closed,136500639-5,Complete,2/2/24,2/7/24,2/17/24,Removal,NSA,USA,15
+082611617-5,MX,,,,,Apt Locker,Dobby NA,,560822661-5,Failure,3/21/24,3/22/24,,Advertising,NSA,USA,
+897516434-9,ES,,,,,Locker,Location Locker/Counter,Compliance,291842015-8,Failure,12/31/23,1/2/24,,Permit,NSA,EU,
+781480583-X,MX,,45436,45436,,Locker,Location Locker/Counter NA,Closed,256621244-9,Complete,5/7/24,5/12/24,5/24/24,Install,Brendamour,USA,17
+974291815-5,MX,,45339,45339,45339,Locker,Location Locker/Counter,Closed,601498221-3,Complete,2/3/24,2/6/24,2/17/24,Removal,NSA,USA,14
+566774472-4,AT,,,,,Apt Locker,Dobby,Compliance,219428621-7,Cancelled,1/26/24,1/27/24,,Permit,NSA,EU,
+516599294-2,FR,,,,,Locker,Location Locker/Counter NA,Survey,217779090-5,Complete,3/11/24,3/14/24,3/30/24,Survey,Redbox,EU,19
+658545324-7,US,,,,,Apt Locker,Dobby,,997927862-5,Cancelled,2/6/24,2/10/24,,Decommission,NSA,USA,
+685657603-X,FR,,45441,45441,45441,Apt Locker Pro,Location,Closed,080380979-4,Fulfilled,5/23/24,5/25/24,5/29/24,Decommission,Brendamour,EU,6
+321599855-6,US,,,,,Apt Locker,Dobby NA,,105058240-3,New,3/31/24,,,Decommission,NSA,USA,
+478272581-7,MX,,,,,Locker,Location Locker/Counter,,625011867-5,New,3/1/24,,,Advertising,NSA,USA,
+833789034-7,US,,,,,Locker,Location Locker/Counter NA,Install,560075274-1,Failure,2/10/24,2/13/24,,Install,NSA,USA,
+992199860-9,DE,,,,,Locker,Location Locker/Counter NA,,550587734-6,Fulfilled,4/28/24,5/3/24,5/11/24,Advertising,Brendamour,EU,13
+418717681-0,ES,,,,,Locker,Location Locker/Counter,Compliance,118846836-7,Cancelled,2/17/24,2/18/24,,Permit,NSA,EU,
+361664470-4,FR,,,,,Locker,Location Locker/Counter NA,,604162692-9,New,4/13/24,,,Decommission,Brendamour,EU,
+578646127-0,DE,,,,,Locker,Location Locker/Counter NA,,841532165-1,Cancelled,3/7/24,3/9/24,,Removal,NSA,EU,
+787949580-0,DE,,,,,Locker,Location Locker/Counter NA,,000576532-3,New,5/27/24,,,Removal,NSA,EU,
+846302063-1,JP,,,,,Locker,Location Locker/Counter NA,Survey,410477276-3,New,2/5/24,,,Survey,Brendamour,APAC,
+361593255-2,CA,,,,,Apt Locker Pro,Location,,838895898-4,New,2/25/24,,,Decommission,NSA,USA,
+702512248-3,MX,,,,,Locker,Location Locker/Counter,,941955289-6,Failure,4/17/24,4/18/24,,Decommission,Redbox,USA,
+420264554-5,IT,,,,,Apt Locker,Dobby,,566693420-1,Cancelled,4/22/24,4/27/24,,Removal,NSA,EU,
+748174061-5,US,,,,,Apt Locker,Dobby,,914426401-1,Failure,3/27/24,3/29/24,,Decommission,NSA,USA,
+802209190-1,DE,,45394,45394,45394,Apt Locker,Dobby,Closed,206279643-9,Complete,4/1/24,4/3/24,4/12/24,Removal,NSA,EU,11
+795393958-4,PT,,,,,Apt Locker Pro,Location,,075900772-1,Fulfilled,1/8/24,1/13/24,1/31/24,Advertising,NSA,EU,23
+043366179-8,IT,,45456,45456,45456,Locker,Location Locker/Counter,Closed,614680905-5,Complete,5/30/24,6/1/24,6/13/24,Decommission,NSA,EU,14
+803031364-0,IT,,,,,Locker,Location Locker/Counter,Survey,132764868-7,New,1/3/24,,,Survey,Brendamour,EU,
+784433625-0,MX,,,,,Apt Locker,Dobby,,854957786-3,New,4/1/24,,,Decommission,Redbox,USA,
+659192433-7,AT,,,,,Apt Locker Pro,Location,Survey,051914940-8,Cancelled,2/26/24,3/1/24,,Survey,Redbox,EU,
+175217572-7,CA,,,,,Locker,Location Locker/Counter,Install,379363838-3,Scheduled,3/2/24,3/4/24,,Install,NSA,USA,
+279674772-7,DE,,,,,Apt Locker,Dobby NA,Compliance,312969615-6,Complete,3/2/24,3/7/24,3/16/24,Permit,Redbox,EU,14
+076970897-8,JP,,,,,Locker,Location Locker/Counter,,772978664-8,Scheduled,3/6/24,3/9/24,,Decommission,Redbox,APAC,
+966651849-X,AT,,,,,Apt Locker Pro,Location,,386366319-5,Scheduled,2/1/24,2/5/24,,Decommission,Redbox,EU,
+042168283-3,MX,,,,,Apt Locker,Dobby,Install,928878100-5,Cancelled,2/13/24,2/17/24,,Install,Redbox,USA,
+749462621-2,IT,,45470,45470,,Apt Locker,Dobby,Closed,287175058-0,Complete,5/14/24,5/18/24,6/27/24,Install,Brendamour,EU,44
+720718280-5,FR,,,,,Locker,Location Locker/Counter,Compliance,202356735-1,Cancelled,5/16/24,5/19/24,,Permit,Brendamour,EU,
+051181682-0,IT,,45347,45347,45347,Locker,Location Locker/Counter NA,Closed,548120719-2,Fulfilled,2/5/24,2/9/24,2/25/24,Removal,NSA,EU,20
+539246901-9,ES,,,,,Apt Locker Pro,Location,,338512720-3,New,3/2/24,,,Removal,NSA,EU,
+818942927-2,JP,,,,,Apt Locker Pro,Location,Survey,641715789-X,Complete,2/8/24,2/12/24,2/27/24,Survey,Redbox,APAC,19
+947971724-7,MX,,,,,Apt Locker,Dobby,,426005006-0,Cancelled,4/21/24,4/22/24,,Removal,Redbox,USA,
+265560640-X,AU,,,,,Apt Locker,Dobby NA,,000085395-X,Scheduled,4/2/24,4/7/24,,Decommission,Brendamour,APAC,
+888322737-9,FR,,,,,Apt Locker Pro,Location,,309800058-9,Cancelled,3/6/24,3/8/24,,Advertising,Brendamour,EU,
+610092106-5,JP,,45333,45333,45333,Apt Locker,Dobby,Closed,654212613-9,Complete,2/1/24,2/2/24,2/11/24,Removal,Brendamour,APAC,10
+893081943-5,FR,,,,,Apt Locker,Dobby,Install,703373514-6,Scheduled,1/22/24,1/26/24,,Install,Redbox,EU,
+930342968-0,AT,,,,,Locker,Location Locker/Counter NA,,059891004-2,New,2/23/24,,,Advertising,NSA,EU,
+799107604-0,DE,,,,,Apt Locker,Dobby NA,Install,645310085-1,Cancelled,2/20/24,2/25/24,,Install,NSA,EU,
+158613697-6,AU,,,,,Apt Locker,Dobby,Compliance,736652765-3,Scheduled,4/2/24,4/5/24,,Permit,Brendamour,APAC,
+527614315-3,AU,,,,,Locker,Location Locker/Counter,Install,755779227-0,Cancelled,5/6/24,5/10/24,,Install,Brendamour,APAC,
+411298281-X,IT,,,,,Locker,Location Locker/Counter,,356132806-7,New,4/1/24,,,Decommission,Brendamour,EU,
+772202760-1,PT,,,,,Locker,Location Locker/Counter,,968026065-8,New,5/17/24,,,Removal,NSA,EU,
+561733796-3,ES,,,,,Apt Locker,Dobby NA,,925855145-1,Cancelled,1/17/24,1/20/24,,Advertising,Redbox,EU,
+430656811-3,DE,,45358,45358,,Apt Locker Pro,Location,Closed,355935796-9,Complete,1/25/24,1/26/24,3/7/24,Install,Brendamour,EU,42
+436367464-4,ES,,,,,Locker,Location Locker/Counter,Survey,887336449-7,Failure,1/7/24,1/9/24,,Survey,NSA,EU,
+249082476-7,MX,,,,,Apt Locker,Dobby NA,,861885643-6,Cancelled,5/20/24,5/25/24,,Removal,Brendamour,USA,
+872167918-5,IT,,,,,Locker,Location Locker/Counter,Survey,850511449-3,Cancelled,1/17/24,1/20/24,,Survey,Redbox,EU,
+264070704-3,AT,,,,,Apt Locker Pro,Location,Compliance,956419416-4,Scheduled,3/8/24,3/10/24,,Permit,Brendamour,EU,
+409767434-X,JP,,,,,Apt Locker,Dobby NA,Install,507739231-5,Failure,4/13/24,4/17/24,,Install,NSA,APAC,
+919754460-4,AT,,,,,Apt Locker,Dobby,Compliance,834833033-X,Complete,1/19/24,1/20/24,2/1/24,Permit,NSA,EU,13
+028861113-6,AU,,,,,Apt Locker,Dobby,,177187464-3,New,4/25/24,,,Removal,NSA,APAC,
+876102657-3,AT,,,,,Apt Locker,Dobby NA,Compliance,392233165-3,Scheduled,2/27/24,2/29/24,,Permit,Brendamour,EU,
+507449956-9,PT,,45395,45395,45395,Locker,Location Locker/Counter,Closed,748779208-0,Fulfilled,4/5/24,4/10/24,4/13/24,Removal,NSA,EU,8
+508245024-7,FR,,,,,Apt Locker,Dobby,Compliance,593036160-6,New,4/10/24,,,Permit,Brendamour,EU,
+898036457-1,PT,,,,,Apt Locker,Dobby,,990241928-3,Scheduled,5/4/24,5/9/24,,Decommission,NSA,EU,
+020464068-7,IT,,,,,Apt Locker,Dobby NA,Survey,125592766-6,New,3/24/24,,,Survey,NSA,EU,
+799356683-5,MX,,,,,Locker,Location Locker/Counter NA,Compliance,779608724-1,Cancelled,5/11/24,5/12/24,,Permit,NSA,USA,
+801622395-8,ES,,,,,Apt Locker,Dobby NA,,051214421-4,Failure,5/2/24,5/6/24,,Decommission,Brendamour,EU,
+553957087-1,IT,,,,,Apt Locker,Dobby,Survey,827576685-0,Scheduled,2/4/24,2/9/24,,Survey,Brendamour,EU,
+978359479-6,US,,45394,45394,,Locker,Location Locker/Counter,Closed,067966949-3,Fulfilled,3/1/24,3/6/24,4/12/24,Install,Redbox,USA,42
+101886160-2,CA,,,,,Apt Locker,Dobby,Survey,446747103-0,Cancelled,2/28/24,3/3/24,,Survey,Redbox,USA,
+891575138-8,ES,,,,,Locker,Location Locker/Counter,Compliance,099754768-5,Complete,2/9/24,2/13/24,2/29/24,Permit,Redbox,EU,20
+108116791-2,IT,,,,,Apt Locker,Dobby NA,,111758016-4,Cancelled,4/12/24,4/16/24,,Advertising,NSA,EU,
+073021230-0,AU,,,,,Apt Locker,Dobby,Survey,641489803-1,Cancelled,5/27/24,5/29/24,,Survey,NSA,APAC,
+336243561-0,FR,,,,,Apt Locker,Dobby,Survey,213249345-6,Complete,3/14/24,3/17/24,3/24/24,Survey,NSA,EU,10
+170061696-X,ES,,,,,Locker,Location Locker/Counter,Survey,183213507-1,Complete,3/8/24,3/10/24,3/17/24,Survey,Redbox,EU,9
+698553866-5,DE,,,,,Apt Locker,Dobby,Survey,797433917-9,Fulfilled,4/16/24,4/18/24,4/24/24,Survey,Redbox,EU,8
+119186137-6,JP,,,,,Locker,Location Locker/Counter,,204027891-5,Failure,3/8/24,3/10/24,,Advertising,NSA,APAC,
+886295250-3,US,,,,,Locker,Location Locker/Counter NA,Compliance,184410160-6,Fulfilled,4/9/24,4/13/24,4/22/24,Permit,Redbox,USA,13
+338087642-9,AU,,,,,Apt Locker Pro,Location,Survey,467740630-8,Fulfilled,1/10/24,1/12/24,1/29/24,Survey,NSA,APAC,19
+894064704-1,FR,,,,,Apt Locker Pro,Location,Survey,564422239-X,Cancelled,3/23/24,3/25/24,,Survey,NSA,EU,
+611953787-2,US,,,,,Apt Locker,Dobby,Compliance,423567929-5,New,4/5/24,,,Permit,Redbox,USA,
+601822742-8,ES,,,,,Apt Locker,Dobby,Survey,783223600-0,New,5/16/24,,,Survey,NSA,EU,
+449746420-2,FR,,,,,Locker,Location Locker/Counter NA,,557103966-3,Failure,1/30/24,1/31/24,,Removal,NSA,EU,
+498121304-2,MX,,,,,Apt Locker,Dobby NA,Survey,042640889-6,Cancelled,2/10/24,2/12/24,,Survey,NSA,USA,
+189344123-7,AT,,,,,Locker,Location Locker/Counter,,380982850-5,New,1/10/24,,,Removal,NSA,EU,
+229055550-9,AT,,45430,45430,45430,Apt Locker Pro,Location,Closed,669576296-1,Complete,5/4/24,5/7/24,5/18/24,Removal,NSA,EU,14
+720308298-9,ES,,,,,Apt Locker Pro,Location,,203736877-1,Cancelled,4/7/24,4/8/24,,Removal,Redbox,EU,
+623822306-5,IT,,,,,Apt Locker,Dobby,Install,792771945-9,New,2/19/24,,,Install,NSA,EU,
+457824811-9,ES,,,,,Apt Locker Pro,Location,Survey,611788092-8,Scheduled,1/30/24,2/1/24,,Survey,Redbox,EU,
+837658475-8,AT,,,,,Apt Locker Pro,Location,Survey,682143173-6,New,1/10/24,,,Survey,NSA,EU,
+928312187-2,PT,,,,,Apt Locker,Dobby NA,Compliance,946008812-0,Complete,2/11/24,2/14/24,2/22/24,Permit,Brendamour,EU,11
+898139221-8,IT,,,,,Apt Locker,Dobby NA,Survey,798461858-5,Scheduled,2/18/24,2/20/24,,Survey,NSA,EU,
+814614066-1,AT,,45356,45356,,Locker,Location Locker/Counter NA,Closed,421478553-3,Complete,2/18/24,2/21/24,3/5/24,Install,NSA,EU,16
+588279033-6,MX,,,,,Apt Locker,Dobby NA,Install,620620474-X,Cancelled,4/26/24,4/29/24,,Install,Brendamour,USA,
+757616680-0,US,,,,,Locker,Location Locker/Counter NA,Install,670779840-5,New,1/8/24,,,Install,Brendamour,USA,
+186630698-7,DE,,,,,Apt Locker,Dobby,,605885228-5,Scheduled,3/8/24,3/9/24,,Advertising,Brendamour,EU,
+646769275-6,AU,,45328,45328,45328,Locker,Location Locker/Counter,Closed,015264799-6,Fulfilled,1/30/24,2/1/24,2/6/24,Removal,Brendamour,APAC,7
+987649716-2,IT,,,,,Apt Locker,Dobby NA,Survey,030092201-9,Scheduled,5/25/24,5/28/24,,Survey,Redbox,EU,
+168648354-6,AU,,,,,Apt Locker,Dobby NA,,210454545-5,Scheduled,2/8/24,2/10/24,,Removal,NSA,APAC,
+553592583-7,DE,,,,,Apt Locker,Dobby,Survey,932896000-2,Complete,3/5/24,3/9/24,3/24/24,Survey,Brendamour,EU,19
+748032873-7,AU,,,,,Apt Locker Pro,Location,,883247206-6,Scheduled,1/22/24,1/23/24,,Advertising,Brendamour,APAC,
+945936635-X,FR,,,,,Apt Locker Pro,Location,,525079087-9,Failure,3/7/24,3/12/24,,Removal,Brendamour,EU,
+368126343-4,JP,,45422,45422,45422,Apt Locker Pro,Location,Closed,968916869-X,Complete,4/29/24,5/3/24,5/10/24,Decommission,NSA,APAC,11
+051370918-5,JP,,,,,Locker,Location Locker/Counter NA,Compliance,859322590-X,Failure,4/25/24,4/27/24,,Permit,Redbox,APAC,
+613190200-3,AT,,,,,Locker,Location Locker/Counter,Survey,121579231-X,Scheduled,4/23/24,4/24/24,,Survey,Brendamour,EU,
+598278117-7,DE,,,,,Locker,Location Locker/Counter NA,Survey,229562105-4,Complete,5/7/24,5/11/24,5/27/24,Survey,NSA,EU,20
+321283764-0,AT,,,,,Apt Locker,Dobby NA,,297130173-7,Scheduled,1/20/24,1/22/24,,Advertising,NSA,EU,
+586787438-9,PT,,,,,Locker,Location Locker/Counter,Survey,039938975-X,Cancelled,3/3/24,3/6/24,,Survey,Redbox,EU,
+752365115-1,FR,,,,,Apt Locker Pro,Location,Install,343830397-3,Cancelled,4/14/24,4/17/24,,Install,Redbox,EU,
+593389250-5,PT,,,,,Apt Locker Pro,Location,,511173679-4,New,4/14/24,,,Decommission,NSA,EU,
+163829120-9,DE,,,,,Locker,Location Locker/Counter,Install,608223599-1,New,12/31/23,,,Install,Redbox,EU,
+303463830-2,MX,,,,,Apt Locker,Dobby NA,Survey,907027417-5,Complete,2/29/24,3/3/24,3/16/24,Survey,NSA,USA,16
+963558592-6,ES,,,,,Apt Locker Pro,Location,Survey,607859223-8,Complete,3/18/24,3/20/24,4/6/24,Survey,Brendamour,EU,19
+783213957-9,AT,,,,,Apt Locker,Dobby NA,Compliance,189573618-8,Scheduled,2/15/24,2/18/24,,Permit,Brendamour,EU,
+390997993-9,AT,,,,,Locker,Location Locker/Counter,,810467300-9,Failure,4/5/24,4/6/24,,Decommission,Brendamour,EU,
+876843396-4,AU,,,,,Locker,Location Locker/Counter,,535012786-1,New,4/23/24,,,Advertising,Brendamour,APAC,
+996329330-1,AU,,,,,Locker,Location Locker/Counter,,248566042-5,Failure,3/17/24,3/22/24,,Advertising,Redbox,APAC,
+141538181-X,US,,,,,Apt Locker,Dobby NA,Install,477053770-0,Scheduled,2/4/24,2/7/24,,Install,Redbox,USA,
+355258263-0,PT,,,,,Apt Locker,Dobby NA,Survey,548602458-4,Failure,1/5/24,1/6/24,,Survey,Redbox,EU,
+471254299-3,PT,,,,,Apt Locker,Dobby,,431897874-5,Failure,1/19/24,1/23/24,,Decommission,Brendamour,EU,
+342627117-6,ES,,,,,Apt Locker Pro,Location,Survey,632156092-8,Failure,3/15/24,3/18/24,,Survey,Brendamour,EU,
+628258502-3,AU,,,,,Apt Locker,Dobby NA,Survey,873499044-5,New,2/14/24,,,Survey,NSA,APAC,
+294913588-9,US,,,,,Apt Locker Pro,Location,Survey,705210982-4,Cancelled,5/23/24,5/26/24,,Survey,Redbox,USA,
+377641044-2,DE,,,,,Locker,Location Locker/Counter,Survey,771633333-X,Complete,3/20/24,3/24/24,4/1/24,Survey,Redbox,EU,12
+949153520-X,CA,,,,,Locker,Location Locker/Counter NA,Survey,051195203-1,Fulfilled,3/12/24,3/13/24,3/30/24,Survey,Brendamour,USA,18
+219995565-6,DE,,,,,Locker,Location Locker/Counter NA,,010109623-2,Failure,4/25/24,4/27/24,,Removal,Brendamour,EU,
+677589427-9,AT,,,,,Locker,Location Locker/Counter NA,Survey,458604145-5,Fulfilled,4/9/24,4/11/24,4/20/24,Survey,Redbox,EU,11
+946850873-0,CA,,,,,Apt Locker,Dobby NA,Install,688652781-9,Cancelled,3/6/24,3/7/24,,Install,Brendamour,USA,
+989078311-8,US,,,,,Locker,Location Locker/Counter NA,Install,006661666-2,Scheduled,3/5/24,3/8/24,,Install,NSA,USA,
+657827607-6,JP,,,,,Locker,Location Locker/Counter NA,Survey,012873473-6,Scheduled,3/10/24,3/11/24,,Survey,Brendamour,APAC,
+701708055-6,PT,,,,,Locker,Location Locker/Counter,,932357945-9,Failure,5/1/24,5/4/24,,Removal,NSA,EU,
+186758939-7,DE,,,,,Apt Locker,Dobby,,323457495-2,Cancelled,5/3/24,5/8/24,,Removal,Brendamour,EU,
+433961962-0,MX,,45373,45373,45373,Locker,Location Locker/Counter NA,Closed,545590714-X,Complete,2/28/24,3/4/24,3/22/24,Decommission,Redbox,USA,23
+383471361-9,PT,,,,,Locker,Location Locker/Counter NA,Install,660499803-7,New,5/23/24,,,Install,Brendamour,EU,
+112376407-7,IT,,,,,Locker,Location Locker/Counter NA,,521538784-2,New,2/25/24,,,Decommission,Redbox,EU,
+391855070-2,FR,,,,,Apt Locker Pro,Location,Install,051052349-8,Cancelled,5/14/24,5/19/24,,Install,Redbox,EU,
+618138649-1,ES,,,,,Apt Locker,Dobby,,346704455-7,Scheduled,2/27/24,3/2/24,,Decommission,Redbox,EU,
+753619784-5,US,,,,,Locker,Location Locker/Counter,Survey,878944756-5,Failure,4/20/24,4/21/24,,Survey,Brendamour,USA,
+796552384-1,AU,,,,,Apt Locker,Dobby NA,Survey,744146542-7,Fulfilled,2/20/24,2/24/24,3/1/24,Survey,NSA,APAC,10
+302756496-X,US,,,,,Apt Locker,Dobby NA,Survey,911667916-4,Failure,5/19/24,5/22/24,,Survey,Redbox,USA,
+649547584-5,JP,,,,,Apt Locker,Dobby NA,Install,033218702-0,New,4/15/24,,,Install,Redbox,APAC,
+547687396-1,PT,,,,,Apt Locker,Dobby,Survey,600510184-6,New,5/29/24,,,Survey,Brendamour,EU,
+243809080-4,PT,,,,,Locker,Location Locker/Counter NA,Survey,964967707-0,Failure,1/24/24,1/25/24,,Survey,Brendamour,EU,
+168852935-7,FR,,,,,Apt Locker,Dobby NA,,502907373-6,Failure,5/27/24,5/29/24,,Removal,Brendamour,EU,
+778507439-9,JP,,,,,Apt Locker,Dobby NA,Install,819731606-6,Cancelled,2/15/24,2/18/24,,Install,NSA,APAC,
+010828294-5,AT,,,,,Apt Locker,Dobby,,119858879-9,Failure,6/1/24,6/3/24,,Removal,Brendamour,EU,
+415830982-4,MX,,45424,45424,45424,Locker,Location Locker/Counter,Closed,083605958-1,Fulfilled,4/19/24,4/24/24,5/12/24,Decommission,Redbox,USA,23
+600307804-9,IT,,,,,Apt Locker,Dobby,Survey,901659146-X,Failure,4/6/24,4/7/24,,Survey,Redbox,EU,
+115001817-8,AU,,,,,Apt Locker,Dobby NA,Install,600537110-X,Scheduled,3/4/24,3/5/24,,Install,NSA,APAC,
+085729823-2,AT,,,,,Apt Locker,Dobby NA,Install,767824959-4,Cancelled,1/5/24,1/8/24,,Install,NSA,EU,
+788120224-6,FR,,45442,45442,,Apt Locker Pro,Location,Closed,269928329-0,Complete,5/5/24,5/9/24,5/30/24,Install,Redbox,EU,25
+737540861-0,DE,,,,,Locker,Location Locker/Counter,,716433524-9,Cancelled,1/10/24,1/15/24,,Decommission,Redbox,EU,
+175741655-2,IT,,,,,Apt Locker Pro,Location,,952731011-3,Scheduled,1/16/24,1/18/24,,Decommission,Redbox,EU,
+753100477-1,CA,,,,,Locker,Location Locker/Counter,Compliance,062333384-8,Cancelled,5/31/24,6/1/24,,Permit,Redbox,USA,
+205679409-8,AU,,,,,Locker,Location Locker/Counter,Survey,323913121-8,Scheduled,4/1/24,4/3/24,,Survey,Brendamour,APAC,
+791376281-0,US,,,,,Locker,Location Locker/Counter,,328707424-5,New,3/27/24,,,Advertising,Redbox,USA,
+376429787-5,ES,,,,,Locker,Location Locker/Counter NA,Survey,010672269-7,Fulfilled,5/12/24,5/15/24,5/21/24,Survey,NSA,EU,9
+839586086-2,ES,,,,,Apt Locker,Dobby NA,,174559655-0,New,3/19/24,,,Decommission,NSA,EU,
+018769114-2,AT,,,,,Apt Locker,Dobby NA,Survey,906440891-2,Complete,3/9/24,3/13/24,3/25/24,Survey,Brendamour,EU,16
+859534312-8,IT,,,,,Apt Locker,Dobby NA,Compliance,807684775-3,Cancelled,3/2/24,3/5/24,,Permit,NSA,EU,
+934613217-5,MX,,,,,Apt Locker,Dobby NA,Install,377713417-1,Cancelled,4/13/24,4/16/24,,Install,Redbox,USA,
+681761098-2,CA,,,,,Locker,Location Locker/Counter NA,,101905838-2,Scheduled,2/27/24,2/29/24,,Advertising,Brendamour,USA,
+433711802-0,MX,,45423,45423,,Locker,Location Locker/Counter,Closed,734157488-7,Complete,4/16/24,4/20/24,5/11/24,Install,Brendamour,USA,25
+731241000-6,PT,,,,,Apt Locker Pro,Location,Install,019238026-5,Cancelled,2/26/24,3/1/24,,Install,Brendamour,EU,
+056420200-2,ES,,,,,Apt Locker,Dobby NA,,292922708-7,Cancelled,3/17/24,3/18/24,,Advertising,NSA,EU,
+981682628-3,FR,,,,,Locker,Location Locker/Counter NA,,939386776-3,Failure,1/28/24,1/29/24,,Advertising,NSA,EU,
+118603577-3,ES,,,,,Locker,Location Locker/Counter,Compliance,501249357-5,Complete,5/12/24,5/13/24,5/21/24,Permit,NSA,EU,9
+103212477-6,CA,,,,,Apt Locker,Dobby NA,Compliance,987879547-0,New,5/25/24,,,Permit,Brendamour,USA,
+384806172-4,US,,,,,Locker,Location Locker/Counter,,353568438-2,Failure,4/1/24,4/2/24,,Advertising,NSA,USA,
+650035055-3,DE,,,,,Apt Locker,Dobby NA,Survey,406459197-6,Complete,1/31/24,2/1/24,2/5/24,Survey,NSA,EU,5
+207535882-6,CA,,,,,Apt Locker,Dobby,,259326279-6,Scheduled,2/6/24,2/8/24,,Removal,NSA,USA,
+123876463-0,DE,,,,,Apt Locker Pro,Location,Survey,798740850-6,New,5/2/24,,,Survey,Brendamour,EU,
+421326775-X,US,,,,,Locker,Location Locker/Counter NA,,044443583-2,Scheduled,2/4/24,2/5/24,,Advertising,NSA,USA,
+046385516-7,US,,,,,Apt Locker,Dobby,,719830429-X,Cancelled,5/14/24,5/17/24,,Advertising,Brendamour,USA,
+923507553-X,JP,,,,,Apt Locker,Dobby,Survey,093304208-6,Cancelled,4/21/24,4/26/24,,Survey,Redbox,APAC,
+644010669-4,AU,,,,,Apt Locker Pro,Location,,288577687-0,Failure,3/4/24,3/5/24,,Removal,Brendamour,APAC,
+578997193-8,AU,,,,,Apt Locker,Dobby,Compliance,080061968-4,Scheduled,3/15/24,3/19/24,,Permit,NSA,APAC,
+755191876-0,FR,,,,,Apt Locker Pro,Location,Install,135802917-2,Cancelled,4/14/24,4/16/24,,Install,NSA,EU,
+811669298-4,IT,,45418,45418,45418,Apt Locker,Dobby,Closed,788772391-4,Complete,4/15/24,4/20/24,5/6/24,Removal,Brendamour,EU,21
+665351317-3,JP,,,,,Locker,Location Locker/Counter NA,,183264475-8,New,5/19/24,,,Decommission,NSA,APAC,
+726824204-2,US,,,,,Apt Locker,Dobby,,867529279-1,Scheduled,2/6/24,2/10/24,,Decommission,Brendamour,USA,
+967698952-5,CA,,,,,Locker,Location Locker/Counter NA,Install,694517025-X,Cancelled,1/19/24,1/20/24,,Install,Redbox,USA,
+688536887-3,US,,,,,Locker,Location Locker/Counter NA,,701694329-1,Fulfilled,5/5/24,5/9/24,5/20/24,Advertising,Brendamour,USA,15
+739828011-4,DE,,45349,45349,45349,Locker,Location Locker/Counter NA,Closed,442749683-0,Complete,2/4/24,2/9/24,2/27/24,Removal,Brendamour,EU,23
+002363341-7,PT,,,,,Locker,Location Locker/Counter,,980037123-0,Cancelled,1/23/24,1/28/24,,Decommission,Redbox,EU,
+954565802-9,DE,,45359,45359,45359,Apt Locker,Dobby,Closed,467073403-2,Complete,2/16/24,2/19/24,3/8/24,Removal,Redbox,EU,21
+568309155-1,US,,,,,Apt Locker Pro,Location,Install,483421178-9,Failure,2/28/24,3/4/24,,Install,Brendamour,USA,
+627761265-4,DE,,45393,45393,45393,Apt Locker,Dobby,Closed,543172766-4,Complete,3/24/24,3/28/24,4/11/24,Removal,NSA,EU,18
+191156697-0,ES,,45405,45405,,Locker,Location Locker/Counter NA,Closed,256922396-4,Complete,3/27/24,3/29/24,4/23/24,Install,Brendamour,EU,27
+414267622-9,IT,,45337,45337,,Apt Locker,Dobby NA,Closed,170931373-0,Fulfilled,1/19/24,1/21/24,2/15/24,Install,NSA,EU,27
+437309220-6,IT,,,,,Apt Locker Pro,Location,,572834955-2,Cancelled,4/17/24,4/18/24,,Decommission,Brendamour,EU,
+447178838-8,CA,,45385,45385,,Locker,Location Locker/Counter NA,Closed,458556464-0,Fulfilled,3/19/24,3/21/24,4/3/24,Install,NSA,USA,15
+800547321-4,FR,,,,,Locker,Location Locker/Counter NA,Install,774427946-8,Scheduled,1/29/24,1/31/24,,Install,NSA,EU,
+977103447-2,JP,,45315,45315,45315,Apt Locker,Dobby NA,Closed,554992879-5,Complete,1/10/24,1/15/24,1/24/24,Decommission,Redbox,APAC,14
+496496729-8,AU,,,,,Apt Locker,Dobby,Survey,537774792-5,Failure,1/13/24,1/16/24,,Survey,Redbox,APAC,
+840960079-X,CA,,,,,Locker,Location Locker/Counter NA,Compliance,947585208-5,Fulfilled,5/16/24,5/18/24,5/23/24,Permit,Brendamour,USA,7
+683450036-7,JP,,,,,Locker,Location Locker/Counter,,783251052-8,Cancelled,1/7/24,1/9/24,,Advertising,NSA,APAC,
+980103410-6,DE,,,,,Locker,Location Locker/Counter NA,Install,754246162-1,Scheduled,5/27/24,5/31/24,,Install,NSA,EU,
+260193356-9,ES,,,,,Locker,Location Locker/Counter,,213884958-9,Failure,4/19/24,4/21/24,,Advertising,Redbox,EU,
+055252742-4,DE,,,,,Locker,Location Locker/Counter NA,Survey,752058445-3,Scheduled,1/16/24,1/19/24,,Survey,Brendamour,EU,
+995151222-4,AT,,,,,Apt Locker,Dobby,,726737446-8,New,3/6/24,,,Removal,Redbox,EU,
+813031661-7,IT,,,,,Apt Locker,Dobby,,683109858-4,Scheduled,5/21/24,5/23/24,,Decommission,Redbox,EU,
+884383477-0,AT,,45330,45330,,Locker,Location Locker/Counter NA,Closed,947139501-1,Complete,1/1/24,1/2/24,2/8/24,Install,NSA,EU,38
+868117137-2,AU,,,,,Apt Locker Pro,Location,Compliance,561843892-5,Fulfilled,5/11/24,5/12/24,5/18/24,Permit,Brendamour,APAC,7
+175494866-9,IT,,,,,Apt Locker,Dobby NA,,065209793-6,Failure,1/9/24,1/14/24,,Decommission,Redbox,EU,
+114173247-5,AT,,,,,Apt Locker Pro,Location,Compliance,569834036-6,Failure,2/10/24,2/15/24,,Permit,Brendamour,EU,
+928536514-0,PT,,,,,Locker,Location Locker/Counter,Install,485945922-9,New,5/28/24,,,Install,Brendamour,EU,
+779638969-8,PT,,,,,Apt Locker Pro,Location,Survey,862708873-X,Failure,2/13/24,2/15/24,,Survey,Brendamour,EU,
+878472481-1,PT,,,,,Apt Locker,Dobby NA,Install,225937721-1,Cancelled,2/16/24,2/17/24,,Install,Brendamour,EU,
+653076751-7,PT,,,,,Locker,Location Locker/Counter NA,,515344793-6,Scheduled,5/2/24,5/6/24,,Decommission,Brendamour,EU,
+728658874-5,ES,,,,,Locker,Location Locker/Counter,,997562120-1,New,4/17/24,,,Advertising,Redbox,EU,
+678462300-2,PT,,45350,45350,45350,Apt Locker Pro,Location,Closed,480039245-4,Complete,2/11/24,2/13/24,2/28/24,Removal,NSA,EU,17
+711939779-6,AT,,,,,Locker,Location Locker/Counter NA,,174580966-X,New,3/15/24,,,Decommission,Redbox,EU,
+532209757-0,MX,,,,,Apt Locker,Dobby,Survey,804980377-5,New,4/13/24,,,Survey,Brendamour,USA,
+330993877-8,ES,,,,,Locker,Location Locker/Counter,Survey,618057300-X,New,3/3/24,,,Survey,Brendamour,EU,
+473377362-5,MX,,,,,Locker,Location Locker/Counter NA,Survey,756738265-2,Complete,1/3/24,1/7/24,1/15/24,Survey,Redbox,USA,12
+732339723-5,AT,,,,,Locker,Location Locker/Counter NA,Install,200150453-5,New,2/6/24,,,Install,Redbox,EU,
+155392792-3,FR,,,,,Apt Locker Pro,Location,Install,580729958-2,Scheduled,2/7/24,2/10/24,,Install,Redbox,EU,
+257728367-9,MX,,,,,Apt Locker Pro,Location,,195284055-4,Scheduled,5/14/24,5/18/24,,Decommission,Redbox,USA,
+668397791-7,IT,,,,,Locker,Location Locker/Counter NA,Install,624878013-7,Scheduled,1/16/24,1/21/24,,Install,Redbox,EU,
+023463498-7,US,,,,,Apt Locker,Dobby NA,,901414277-3,Scheduled,1/25/24,1/26/24,,Advertising,NSA,USA,
+035340788-7,IT,,,,,Apt Locker,Dobby NA,Survey,100548539-9,Cancelled,5/11/24,5/15/24,,Survey,NSA,EU,
+764377883-3,PT,,,,,Apt Locker,Dobby,,548398557-5,Cancelled,2/5/24,2/9/24,,Advertising,Redbox,EU,
+451893928-X,CA,,,,,Apt Locker,Dobby,Compliance,930714398-6,New,4/20/24,,,Permit,NSA,USA,
+872830190-0,CA,,,,,Apt Locker Pro,Location,,688554590-2,Scheduled,3/14/24,3/19/24,,Advertising,Brendamour,USA,
+394110881-6,CA,,,,,Apt Locker,Dobby NA,Compliance,814240668-3,Scheduled,2/20/24,2/22/24,,Permit,NSA,USA,
+843209518-4,ES,,,,,Apt Locker,Dobby,Compliance,414565347-5,Failure,1/30/24,1/31/24,,Permit,NSA,EU,
+219478799-2,US,,,,,Apt Locker,Dobby NA,Install,392784747-X,Scheduled,4/6/24,4/7/24,,Install,Redbox,USA,
+891409189-9,AT,,,,,Apt Locker,Dobby,Compliance,395280339-1,Failure,3/6/24,3/7/24,,Permit,Redbox,EU,
+182380899-9,AU,,,,,Apt Locker Pro,Location,Survey,828415076-X,Complete,4/26/24,4/27/24,5/5/24,Survey,Redbox,APAC,9
+949753500-7,US,,,,,Apt Locker,Dobby,Compliance,233535134-6,Fulfilled,4/9/24,4/10/24,4/18/24,Permit,NSA,USA,9
+041387224-6,FR,,,,,Apt Locker,Dobby NA,Compliance,727702780-9,Fulfilled,4/9/24,4/11/24,4/19/24,Permit,Redbox,EU,10
+671680211-8,IT,,,,,Locker,Location Locker/Counter NA,Compliance,747703912-6,New,1/23/24,,,Permit,Brendamour,EU,
+520120858-4,JP,,,,,Locker,Location Locker/Counter NA,Survey,129794019-9,Failure,2/28/24,3/4/24,,Survey,NSA,APAC,
+048541483-X,PT,,,,,Apt Locker,Dobby NA,Compliance,358466817-4,Failure,4/22/24,4/26/24,,Permit,Brendamour,EU,
+121560317-7,IT,,,,,Apt Locker Pro,Location,Survey,218667936-1,New,2/22/24,,,Survey,Redbox,EU,
+569387567-9,PT,,45370,45370,45370,Apt Locker Pro,Location,Closed,139097568-1,Fulfilled,3/13/24,3/15/24,3/19/24,Removal,Brendamour,EU,6
+514402561-7,PT,,,,,Apt Locker,Dobby NA,Install,660543507-9,New,3/1/24,,,Install,NSA,EU,
+619458207-3,MX,,45363,45363,45363,Locker,Location Locker/Counter NA,Closed,986673090-5,Complete,2/20/24,2/23/24,3/12/24,Removal,Redbox,USA,21
+175368792-6,US,,,,,Locker,Location Locker/Counter NA,Survey,669614987-2,Failure,4/12/24,4/14/24,,Survey,Redbox,USA,
+459597190-7,FR,,,,,Apt Locker Pro,Location,,969663837-X,Cancelled,2/17/24,2/20/24,,Removal,NSA,EU,
+804820937-3,ES,,,,,Apt Locker,Dobby NA,,369548521-3,Cancelled,4/10/24,4/12/24,,Decommission,Redbox,EU,
+229357406-7,IT,,,,,Apt Locker Pro,Location,,732799153-0,New,4/22/24,,,Removal,NSA,EU,
+591487411-4,AU,,,,,Apt Locker,Dobby,Install,913286699-2,New,4/8/24,,,Install,NSA,APAC,
+885559877-5,AT,,45382,45382,,Apt Locker,Dobby NA,Closed,684733319-7,Complete,3/2/24,3/7/24,3/31/24,Install,Redbox,EU,29
+160840191-X,CA,,,,,Apt Locker,Dobby NA,,723632788-3,New,4/4/24,,,Decommission,Redbox,USA,
+730635168-0,MX,,,,,Locker,Location Locker/Counter,Compliance,251609273-3,Scheduled,3/3/24,3/5/24,,Permit,Redbox,USA,
+878619325-2,PT,,45336,45336,45336,Apt Locker Pro,Location,Closed,335498432-5,Fulfilled,1/27/24,2/1/24,2/14/24,Removal,Redbox,EU,18
+359225034-5,ES,,,,,Locker,Location Locker/Counter,,609590909-0,Cancelled,5/30/24,6/2/24,,Removal,Redbox,EU,
+432643023-0,MX,,,,,Apt Locker,Dobby NA,Compliance,385975328-2,New,4/6/24,,,Permit,NSA,USA,
+139956745-4,IT,,,,,Apt Locker Pro,Location,Survey,727550094-9,Failure,5/31/24,6/5/24,,Survey,Brendamour,EU,
+798965169-6,JP,,,,,Apt Locker,Dobby,,246211214-6,Failure,4/29/24,5/3/24,,Advertising,Redbox,APAC,
+872866385-3,JP,,,,,Locker,Location Locker/Counter NA,Compliance,316743424-4,Fulfilled,3/5/24,3/9/24,3/14/24,Permit,Brendamour,APAC,9
+105834624-5,US,,,,,Apt Locker Pro,Location,,831392587-6,Failure,5/4/24,5/7/24,,Removal,Redbox,USA,
+157151806-1,AU,,45328,45328,45328,Apt Locker,Dobby NA,Closed,990202970-1,Fulfilled,1/29/24,2/1/24,2/6/24,Removal,Brendamour,APAC,8
+032829172-2,FR,,,,,Apt Locker,Dobby,,093172689-1,Scheduled,5/11/24,5/13/24,,Removal,Brendamour,EU,
+697639771-X,AT,,,,,Locker,Location Locker/Counter NA,Survey,386172754-4,New,2/19/24,,,Survey,Redbox,EU,
+592151775-5,FR,,,,,Apt Locker Pro,Location,,600453123-5,New,2/24/24,,,Removal,Redbox,EU,
+858876638-8,CA,,,,,Apt Locker,Dobby NA,Compliance,635113119-7,Complete,5/6/24,5/11/24,5/18/24,Permit,Brendamour,USA,12
+220652978-5,CA,,,,,Locker,Location Locker/Counter,Install,588732484-8,Failure,2/29/24,3/1/24,,Install,NSA,USA,
+697622303-7,AU,,45474,45474,,Apt Locker,Dobby,Closed,337562111-6,Complete,5/23/24,5/26/24,7/1/24,Install,NSA,APAC,39
+043055674-8,FR,,,,,Apt Locker,Dobby NA,,771420719-1,New,4/26/24,,,Advertising,Redbox,EU,
+821160884-7,AU,,,,,Locker,Location Locker/Counter,,550699548-2,New,3/22/24,,,Decommission,NSA,APAC,
+274945294-5,MX,,,,,Apt Locker,Dobby,,299623321-2,Scheduled,2/17/24,2/20/24,,Advertising,Redbox,USA,
+789798939-9,AU,,,,,Apt Locker,Dobby,Install,326099938-8,New,4/30/24,,,Install,NSA,APAC,
+679810958-6,DE,,,,,Apt Locker,Dobby,Survey,198216455-7,New,5/15/24,,,Survey,Brendamour,EU,
+623145831-8,AT,,45364,45364,45364,Apt Locker,Dobby NA,Closed,047128841-1,Fulfilled,3/2/24,3/6/24,3/13/24,Decommission,Redbox,EU,11
+407575828-1,CA,,,,,Locker,Location Locker/Counter NA,Survey,466501895-2,Scheduled,1/30/24,1/31/24,,Survey,Redbox,USA,
+186008359-5,MX,,,,,Locker,Location Locker/Counter,Install,327040138-8,Cancelled,4/12/24,4/16/24,,Install,NSA,USA,
+452245561-5,FR,,,,,Apt Locker Pro,Location,Survey,268360614-1,Fulfilled,1/9/24,1/12/24,1/21/24,Survey,Brendamour,EU,12
+420933752-8,JP,,,,,Apt Locker,Dobby NA,,576590127-1,Failure,2/23/24,2/28/24,,Decommission,NSA,APAC,
+251624909-8,JP,,,,,Apt Locker,Dobby NA,Compliance,008446387-2,New,1/27/24,,,Permit,Redbox,APAC,
+871321250-8,CA,,,,,Apt Locker,Dobby NA,,842226385-8,Scheduled,4/11/24,4/14/24,,Removal,Brendamour,USA,
+107440856-X,IT,,,,,Apt Locker,Dobby NA,,416619135-7,Failure,1/4/24,1/8/24,,Removal,Brendamour,EU,
+776313641-3,AU,,,,,Apt Locker,Dobby,Survey,405182592-2,Scheduled,4/19/24,4/23/24,,Survey,Brendamour,APAC,
+988869417-0,MX,,,,,Apt Locker,Dobby,Survey,507593229-0,Scheduled,1/4/24,1/5/24,,Survey,Brendamour,USA,
+734233656-4,PT,,,,,Apt Locker Pro,Location,Survey,856853717-0,Fulfilled,4/2/24,4/7/24,4/19/24,Survey,Brendamour,EU,17
+559719868-8,IT,,45325,45325,45325,Apt Locker Pro,Location,Closed,798030816-6,Complete,1/24/24,1/28/24,2/3/24,Removal,Brendamour,EU,10
+982138106-5,AU,,,,,Apt Locker Pro,Location,,938851839-X,Scheduled,4/6/24,4/8/24,,Advertising,Brendamour,APAC,
+711070126-3,AT,,,,,Locker,Location Locker/Counter,Compliance,782415617-6,Cancelled,4/25/24,4/29/24,,Permit,Redbox,EU,
+192442060-0,AT,,,,,Apt Locker Pro,Location,Compliance,924783481-3,Scheduled,4/4/24,4/8/24,,Permit,Redbox,EU,
+071017134-X,US,,,,,Locker,Location Locker/Counter,,749234580-1,Scheduled,2/13/24,2/17/24,,Removal,Brendamour,USA,
+042913886-5,PT,,,,,Apt Locker Pro,Location,,007613320-6,Scheduled,1/18/24,1/20/24,,Removal,Redbox,EU,
+666987707-2,AT,,,,,Apt Locker Pro,Location,,026412226-7,New,1/5/24,,,Removal,Brendamour,EU,
+537845022-5,MX,,,,,Locker,Location Locker/Counter,Compliance,748295996-3,New,1/13/24,,,Permit,Redbox,USA,
+313418224-6,US,,,,,Locker,Location Locker/Counter NA,Compliance,994343813-4,Complete,2/4/24,2/6/24,2/21/24,Permit,NSA,USA,17
+742805019-7,AT,,,,,Apt Locker,Dobby,Survey,680219123-7,Complete,12/31/23,1/2/24,1/11/24,Survey,Redbox,EU,11
+815039695-0,US,,,,,Apt Locker Pro,Location,Install,382284274-5,Cancelled,5/1/24,5/4/24,,Install,Redbox,USA,
+136673945-0,US,,,,,Apt Locker,Dobby,Compliance,014040164-4,Failure,1/11/24,1/14/24,,Permit,Redbox,USA,
+906355538-5,FR,,,,,Apt Locker,Dobby NA,,533902561-6,Scheduled,3/23/24,3/27/24,,Removal,NSA,EU,
+596927059-8,AU,,,,,Apt Locker Pro,Location,Survey,523874115-4,Complete,4/20/24,4/25/24,5/7/24,Survey,Redbox,APAC,17
+101776141-8,FR,,,,,Locker,Location Locker/Counter,,055041482-7,Cancelled,2/11/24,2/15/24,,Advertising,Redbox,EU,
+004691897-3,MX,,,,,Apt Locker,Dobby NA,,307110331-X,Failure,3/14/24,3/16/24,,Advertising,Redbox,USA,
+397534802-X,FR,,,,,Apt Locker,Dobby,,964153518-8,Failure,5/13/24,5/18/24,,Removal,NSA,EU,
+114291459-3,AT,,,,,Locker,Location Locker/Counter NA,,902449890-2,Cancelled,5/31/24,6/2/24,,Decommission,Brendamour,EU,
+829858531-3,CA,,,,,Apt Locker,Dobby,Install,252435379-6,New,5/16/24,,,Install,NSA,USA,
+816456025-1,MX,,,,,Apt Locker,Dobby,Install,503431851-2,Cancelled,3/24/24,3/25/24,,Install,Redbox,USA,
+710122717-1,ES,,,,,Locker,Location Locker/Counter NA,Install,132721672-8,Cancelled,2/11/24,2/14/24,,Install,Brendamour,EU,
+317841009-0,AT,,,,,Apt Locker,Dobby NA,,382821455-X,Cancelled,2/11/24,2/12/24,,Removal,Redbox,EU,
+901433583-0,JP,,,,,Locker,Location Locker/Counter NA,Compliance,041502985-6,Scheduled,5/31/24,6/4/24,,Permit,NSA,APAC,
+441939870-1,ES,,,,,Apt Locker,Dobby NA,Compliance,524673238-X,Failure,3/18/24,3/21/24,,Permit,NSA,EU,
+306313424-4,FR,,,,,Apt Locker,Dobby NA,,475284853-8,Complete,1/2/24,1/4/24,1/8/24,Advertising,NSA,EU,6
+401844024-3,DE,,,,,Locker,Location Locker/Counter NA,Survey,217503832-7,Scheduled,2/9/24,2/12/24,,Survey,Brendamour,EU,
+295284823-8,MX,,45450,45450,,Apt Locker,Dobby NA,Closed,519923533-8,Complete,5/18/24,5/21/24,6/7/24,Install,Brendamour,USA,20
+280086571-7,US,,,,,Apt Locker,Dobby,,115809746-8,Cancelled,4/13/24,4/15/24,,Removal,NSA,USA,
+970110924-4,CA,,,,,Apt Locker,Dobby,Survey,833552612-5,Cancelled,1/13/24,1/14/24,,Survey,Redbox,USA,
+238892080-9,DE,,,,,Apt Locker Pro,Location,Compliance,141748966-9,Failure,2/11/24,2/15/24,,Permit,Brendamour,EU,
+010671232-2,JP,,,,,Apt Locker,Dobby,Compliance,387270759-0,Cancelled,5/18/24,5/21/24,,Permit,Brendamour,APAC,
+721501852-0,DE,,,,,Locker,Location Locker/Counter,Compliance,874064097-3,Cancelled,2/22/24,2/24/24,,Permit,Redbox,EU,
+778705345-3,PT,,45356,45356,,Apt Locker,Dobby NA,Closed,695728181-7,Complete,1/30/24,2/2/24,3/5/24,Install,NSA,EU,35
+396344698-6,ES,,,,,Locker,Location Locker/Counter,,318770808-0,Scheduled,5/27/24,6/1/24,,Decommission,Brendamour,EU,
+819019061-X,ES,,,,,Locker,Location Locker/Counter NA,Survey,203301100-3,Scheduled,4/1/24,4/3/24,,Survey,Redbox,EU,
+072085683-3,JP,,,,,Apt Locker,Dobby NA,Install,362596700-6,Cancelled,1/22/24,1/25/24,,Install,Brendamour,APAC,
+220001314-0,JP,,,,,Locker,Location Locker/Counter NA,Survey,661361373-8,Complete,3/26/24,3/30/24,4/8/24,Survey,Redbox,APAC,13
+336619963-6,DE,,,,,Apt Locker,Dobby NA,,769265817-X,Scheduled,2/5/24,2/9/24,,Advertising,Redbox,EU,
+311600336-X,DE,,,,,Locker,Location Locker/Counter NA,,312014671-4,New,4/4/24,,,Removal,Redbox,EU,
+785583155-X,US,,,,,Locker,Location Locker/Counter NA,,817469110-3,Failure,2/10/24,2/13/24,,Advertising,Redbox,USA,
+258214502-5,DE,,,,,Locker,Location Locker/Counter,,156421340-4,Scheduled,2/12/24,2/15/24,,Decommission,Brendamour,EU,
+680703286-2,US,,,,,Apt Locker Pro,Location,Survey,351016342-7,Fulfilled,4/8/24,4/12/24,4/16/24,Survey,NSA,USA,8
+188840199-0,IT,,,,,Locker,Location Locker/Counter,,343078986-9,Cancelled,5/24/24,5/28/24,,Advertising,Brendamour,EU,
+710306562-4,JP,,,,,Apt Locker,Dobby,Compliance,339471939-8,Cancelled,3/3/24,3/4/24,,Permit,NSA,APAC,
+028199524-9,FR,,,,,Apt Locker Pro,Location,,603508904-6,Failure,4/23/24,4/24/24,,Removal,Redbox,EU,
+655469237-1,FR,,,,,Apt Locker,Dobby,,246501977-5,New,2/26/24,,,Removal,Brendamour,EU,
+945928008-0,MX,,,,,Apt Locker,Dobby NA,Compliance,020686455-8,Failure,1/20/24,1/22/24,,Permit,Brendamour,USA,
+831232501-8,AT,,,,,Apt Locker Pro,Location,Survey,862127642-9,New,2/12/24,,,Survey,Brendamour,EU,
+272417459-3,AU,,,,,Locker,Location Locker/Counter,,564471148-X,New,2/8/24,,,Decommission,Redbox,APAC,
+046851238-1,DE,,,,,Apt Locker Pro,Location,Survey,823595489-3,New,5/21/24,,,Survey,Redbox,EU,
+712870283-0,FR,,,,,Locker,Location Locker/Counter NA,Compliance,787531772-X,Cancelled,3/30/24,4/4/24,,Permit,Redbox,EU,
+574814003-9,CA,,,,,Apt Locker,Dobby,,109954342-8,Scheduled,1/25/24,1/26/24,,Advertising,Redbox,USA,
+500993060-9,PT,,,,,Apt Locker Pro,Location,,490398011-1,Cancelled,5/16/24,5/18/24,,Advertising,Brendamour,EU,
+903169397-9,JP,,,,,Apt Locker,Dobby,,431415322-9,Fulfilled,1/10/24,1/12/24,1/20/24,Advertising,Redbox,APAC,10
+086678626-0,AT,,,,,Locker,Location Locker/Counter,Compliance,435441838-X,Scheduled,3/20/24,3/25/24,,Permit,Brendamour,EU,
+244714678-7,FR,,,,,Locker,Location Locker/Counter NA,Survey,148928105-3,Cancelled,3/13/24,3/16/24,,Survey,Brendamour,EU,
+693132947-2,AU,,,,,Locker,Location Locker/Counter,,739473107-3,New,5/5/24,,,Decommission,Brendamour,APAC,
+453979853-7,DE,,,,,Apt Locker,Dobby,Install,750672335-2,Scheduled,1/16/24,1/21/24,,Install,NSA,EU,
+819561287-3,US,,,,,Locker,Location Locker/Counter NA,Compliance,172237565-5,Failure,2/16/24,2/21/24,,Permit,NSA,USA,
+095588826-3,AU,,,,,Apt Locker,Dobby,Survey,902353036-5,Cancelled,4/22/24,4/23/24,,Survey,Redbox,APAC,
+453796504-5,MX,,,,,Locker,Location Locker/Counter NA,Compliance,274272589-X,Failure,2/7/24,2/11/24,,Permit,Brendamour,USA,
+932509193-3,PT,,45379,45379,45379,Apt Locker,Dobby NA,Closed,863083927-9,Fulfilled,3/9/24,3/13/24,3/28/24,Removal,Redbox,EU,19
+393435100-X,FR,,,,,Locker,Location Locker/Counter NA,Install,822445822-9,Failure,2/13/24,2/16/24,,Install,Brendamour,EU,
+632991544-X,IT,,,,,Apt Locker,Dobby NA,Compliance,743913121-5,Complete,4/17/24,4/19/24,5/1/24,Permit,Brendamour,EU,14
+874439773-9,PT,,45387,45387,45387,Locker,Location Locker/Counter NA,Closed,449280144-8,Complete,3/26/24,3/28/24,4/5/24,Decommission,NSA,EU,10
+614384358-9,US,,,,,Locker,Location Locker/Counter NA,Install,932264905-4,Cancelled,1/24/24,1/25/24,,Install,Redbox,USA,
+756677294-5,FR,,,,,Apt Locker,Dobby,,459688961-9,New,2/17/24,,,Decommission,Brendamour,EU,
+915957403-8,DE,,,,,Apt Locker Pro,Location,Compliance,920594274-X,Complete,4/27/24,5/1/24,5/19/24,Permit,NSA,EU,22
+900423661-9,MX,,,,,Apt Locker,Dobby NA,Install,677394285-3,Cancelled,1/27/24,2/1/24,,Install,NSA,USA,
+395920293-8,PT,,45315,45315,45315,Locker,Location Locker/Counter NA,Closed,689411398-X,Complete,1/9/24,1/14/24,1/24/24,Decommission,Brendamour,EU,15
+120678704-X,CA,,45418,45418,45418,Apt Locker,Dobby,Closed,404641475-8,Complete,4/15/24,4/18/24,5/6/24,Decommission,NSA,USA,21
+033194100-7,JP,,,,,Apt Locker,Dobby,Compliance,912699342-2,Fulfilled,1/25/24,1/26/24,2/8/24,Permit,Brendamour,APAC,14
+475216488-4,PT,,,,,Apt Locker,Dobby,,695887581-8,Complete,4/22/24,4/26/24,5/14/24,Advertising,Brendamour,EU,22
+483028804-3,DE,,,,,Apt Locker,Dobby NA,,186365992-7,Failure,2/26/24,3/2/24,,Decommission,NSA,EU,
+478733748-3,AT,,,,,Locker,Location Locker/Counter,Compliance,359318725-6,Scheduled,5/1/24,5/3/24,,Permit,NSA,EU,
+732944273-9,AT,,,,,Locker,Location Locker/Counter NA,Compliance,236683355-5,New,5/18/24,,,Permit,Redbox,EU,
+335218982-X,DE,,,,,Locker,Location Locker/Counter,,783980906-5,Cancelled,1/14/24,1/15/24,,Advertising,Redbox,EU,
+607020584-7,ES,,,,,Apt Locker Pro,Location,Survey,830045720-8,Scheduled,2/12/24,2/17/24,,Survey,NSA,EU,
+556386986-5,IT,,,,,Apt Locker,Dobby NA,,961848421-1,Cancelled,2/25/24,2/29/24,,Removal,Redbox,EU,
+488453924-9,IT,,,,,Locker,Location Locker/Counter,Compliance,601252544-3,Cancelled,4/24/24,4/29/24,,Permit,Redbox,EU,
+679580128-4,MX,,45417,45417,45417,Apt Locker,Dobby,Closed,675698546-9,Complete,4/22/24,4/25/24,5/5/24,Decommission,Redbox,USA,13
+831893594-2,ES,,,,,Apt Locker,Dobby,Compliance,137750358-5,Complete,4/20/24,4/21/24,4/28/24,Permit,Redbox,EU,8
+798168636-9,US,,,,,Locker,Location Locker/Counter,,692691715-9,Cancelled,4/13/24,4/18/24,,Removal,Redbox,USA,
+804289401-5,JP,,45425,45425,,Locker,Location Locker/Counter NA,Closed,026429837-3,Complete,4/27/24,5/1/24,5/13/24,Install,NSA,APAC,16
+284522709-4,DE,,45421,45421,,Apt Locker,Dobby NA,Closed,927948026-X,Complete,4/17/24,4/22/24,5/9/24,Install,Redbox,EU,22
+718747626-4,AT,,,,,Apt Locker Pro,Location,,457323642-2,Failure,3/1/24,3/2/24,,Decommission,Brendamour,EU,
+164922924-0,AU,,45397,45397,,Apt Locker Pro,Location,Closed,694456932-9,Complete,3/13/24,3/17/24,4/15/24,Install,NSA,APAC,33
+580905225-8,AU,,,,,Locker,Location Locker/Counter NA,,352990903-3,New,4/24/24,,,Decommission,NSA,APAC,
+831979324-6,AU,,,,,Locker,Location Locker/Counter NA,,758335729-2,Scheduled,2/23/24,2/27/24,,Decommission,Brendamour,APAC,
+318629820-2,JP,,,,,Apt Locker Pro,Location,Compliance,817118372-7,Complete,5/24/24,5/26/24,6/7/24,Permit,Brendamour,APAC,14
+120585461-4,JP,,,,,Apt Locker,Dobby NA,Install,155688741-8,Scheduled,4/19/24,4/23/24,,Install,NSA,APAC,
+324865721-9,JP,,,,,Locker,Location Locker/Counter,Compliance,495696404-8,Fulfilled,5/29/24,6/2/24,6/13/24,Permit,Redbox,APAC,15
+733096479-4,CA,,45461,45461,45461,Apt Locker Pro,Location,Closed,855119916-1,Fulfilled,5/30/24,6/3/24,6/18/24,Decommission,NSA,USA,19
+538966067-6,MX,,45391,45391,45391,Apt Locker Pro,Location,Closed,653267227-0,Complete,3/24/24,3/25/24,4/9/24,Removal,Redbox,USA,16
+784684936-0,CA,,,,,Apt Locker,Dobby,,888997629-2,Fulfilled,2/15/24,2/19/24,3/5/24,Advertising,NSA,USA,19
+834841223-9,FR,,,,,Apt Locker Pro,Location,Survey,313228641-9,Complete,3/24/24,3/27/24,4/5/24,Survey,Brendamour,EU,12
+768843110-7,CA,,45364,45364,45364,Apt Locker,Dobby,Closed,989199456-2,Fulfilled,2/26/24,2/28/24,3/13/24,Decommission,Brendamour,USA,16
+623853887-2,FR,,,,,Locker,Location Locker/Counter,,408881492-4,New,1/24/24,,,Decommission,NSA,EU,
+254600856-0,CA,,,,,Apt Locker,Dobby,Compliance,378792042-0,Cancelled,1/8/24,1/10/24,,Permit,Brendamour,USA,
+804074613-2,MX,,45337,45337,45337,Apt Locker Pro,Location,Closed,384767046-8,Fulfilled,1/29/24,1/31/24,2/15/24,Decommission,Brendamour,USA,17
+137362511-2,ES,,45416,45416,,Apt Locker Pro,Location,Closed,894238599-0,Fulfilled,4/3/24,4/6/24,5/4/24,Install,Redbox,EU,31
+568625273-4,FR,,,,,Apt Locker,Dobby,,007684153-7,New,2/28/24,,,Removal,Redbox,EU,
+166618127-7,US,,45446,45446,45446,Locker,Location Locker/Counter NA,Closed,859427443-2,Complete,5/15/24,5/20/24,6/3/24,Decommission,Redbox,USA,19
+573712975-6,DE,,,,,Apt Locker,Dobby NA,Survey,926322461-7,Failure,4/10/24,4/15/24,,Survey,Brendamour,EU,
+209878671-9,JP,,,,,Locker,Location Locker/Counter,Compliance,936673088-4,Fulfilled,4/15/24,4/19/24,5/2/24,Permit,Redbox,APAC,17
+015707125-1,JP,,,,,Locker,Location Locker/Counter NA,,552169885-X,Scheduled,3/31/24,4/1/24,,Decommission,Brendamour,APAC,
+829378131-9,PT,,,,,Apt Locker Pro,Location,,894832503-5,New,2/28/24,,,Advertising,Brendamour,EU,
+092332523-9,IT,,,,,Apt Locker,Dobby NA,Install,478706259-X,Cancelled,2/14/24,2/15/24,,Install,Redbox,EU,
+338512891-9,JP,,,,,Locker,Location Locker/Counter NA,,842433183-4,Fulfilled,5/1/24,5/2/24,5/17/24,Advertising,Redbox,APAC,16
+364827131-8,JP,,,,,Apt Locker,Dobby,,929850474-8,Scheduled,2/14/24,2/18/24,,Removal,Brendamour,APAC,
+174365697-1,IT,,,,,Apt Locker Pro,Location,,401791929-4,Cancelled,2/7/24,2/10/24,,Removal,NSA,EU,
+820608498-3,ES,,45375,45375,,Locker,Location Locker/Counter NA,Closed,293651469-X,Fulfilled,2/21/24,2/25/24,3/24/24,Install,NSA,EU,32
+899654614-3,PT,,,,,Apt Locker,Dobby NA,Install,443261945-7,Cancelled,2/21/24,2/23/24,,Install,Brendamour,EU,
+040602885-0,AT,,,,,Locker,Location Locker/Counter NA,,897168620-0,Scheduled,3/29/24,4/2/24,,Decommission,NSA,EU,
+779964864-3,AU,,,,,Apt Locker,Dobby NA,Survey,946434981-6,Cancelled,3/6/24,3/7/24,,Survey,Redbox,APAC,
+430366158-9,AT,,,,,Locker,Location Locker/Counter NA,,520450115-0,Fulfilled,4/23/24,4/24/24,5/5/24,Advertising,Redbox,EU,12
+933592562-4,MX,,45425,45425,45425,Apt Locker,Dobby,Closed,918841172-9,Complete,5/4/24,5/8/24,5/13/24,Decommission,Redbox,USA,9
+785901544-7,AT,,,,,Apt Locker Pro,Location,,136425457-3,Scheduled,5/6/24,5/11/24,,Advertising,Redbox,EU,
+460490666-1,US,,,,,Apt Locker Pro,Location,Survey,575573624-3,Failure,3/26/24,3/31/24,,Survey,NSA,USA,
+438897801-9,AU,,,,,Apt Locker,Dobby NA,,223276854-6,New,1/6/24,,,Advertising,Redbox,APAC,
+332410874-8,MX,,,,,Apt Locker,Dobby,Install,631610190-2,Cancelled,4/7/24,4/9/24,,Install,NSA,USA,
+748140638-3,JP,,,,,Locker,Location Locker/Counter,,234584236-9,New,5/21/24,,,Removal,NSA,APAC,
+752303841-7,AT,,,,,Apt Locker Pro,Location,Survey,727742572-3,Failure,5/23/24,5/26/24,,Survey,NSA,EU,
+520736906-7,PT,,45375,45375,,Locker,Location Locker/Counter NA,Closed,229670817-X,Fulfilled,3/4/24,3/7/24,3/24/24,Install,Brendamour,EU,20
+498440339-X,IT,,,,,Apt Locker,Dobby NA,,832779030-7,Cancelled,2/16/24,2/20/24,,Removal,Redbox,EU,
+161931442-8,CA,,45442,45442,,Locker,Location Locker/Counter,Closed,616021394-6,Complete,5/6/24,5/8/24,5/30/24,Install,Brendamour,USA,24
+880077690-6,DE,,,,,Apt Locker Pro,Location,Compliance,436571074-5,New,3/13/24,,,Permit,Brendamour,EU,
+728787679-5,US,,45432,45432,45432,Apt Locker Pro,Location,Closed,559023274-0,Complete,5/15/24,5/16/24,5/20/24,Removal,NSA,USA,5
+747361416-9,JP,,,,,Apt Locker Pro,Location,,204408709-X,Cancelled,2/21/24,2/23/24,,Removal,NSA,APAC,
+495885081-3,MX,,45372,45372,45372,Locker,Location Locker/Counter,Closed,051206449-0,Fulfilled,3/8/24,3/12/24,3/21/24,Removal,Brendamour,USA,13
+181466251-0,IT,,,,,Apt Locker,Dobby NA,,353941012-0,Scheduled,2/29/24,3/5/24,,Advertising,Brendamour,EU,
+644676662-9,DE,,,,,Apt Locker,Dobby NA,,030511523-5,Cancelled,3/22/24,3/25/24,,Removal,NSA,EU,
+430040752-5,FR,,,,,Apt Locker,Dobby NA,,485818513-3,New,1/23/24,,,Removal,Brendamour,EU,
+746691721-6,IT,,,,,Locker,Location Locker/Counter,,520832657-4,Scheduled,4/1/24,4/4/24,,Decommission,Redbox,EU,
+713487165-7,DE,,,,,Apt Locker,Dobby,,036826408-4,Failure,4/13/24,4/18/24,,Advertising,NSA,EU,
+198192509-0,DE,,,,,Apt Locker,Dobby,Survey,355219485-1,New,5/10/24,,,Survey,Redbox,EU,
+196960088-8,PT,,,,,Apt Locker,Dobby NA,,651235129-0,Scheduled,5/29/24,6/1/24,,Decommission,Redbox,EU,
+265434505-X,MX,,,,,Apt Locker,Dobby NA,Survey,566357325-9,Cancelled,1/19/24,1/24/24,,Survey,Brendamour,USA,
+056957928-7,MX,,,,,Locker,Location Locker/Counter NA,Compliance,479915873-2,Scheduled,2/26/24,2/29/24,,Permit,Redbox,USA,
+184597575-8,JP,,,,,Locker,Location Locker/Counter NA,,523550569-7,Cancelled,4/8/24,4/12/24,,Removal,NSA,APAC,
+605457980-0,CA,,,,,Apt Locker Pro,Location,,005334547-9,New,5/15/24,,,Decommission,Redbox,USA,
+280001817-8,PT,,45445,45445,,Locker,Location Locker/Counter NA,Closed,422258470-3,Fulfilled,5/5/24,5/9/24,6/2/24,Install,Redbox,EU,28
+356796056-3,DE,,,,,Apt Locker Pro,Location,,792711042-X,Failure,5/12/24,5/13/24,,Removal,Brendamour,EU,
+566322274-X,AU,,,,,Apt Locker Pro,Location,Compliance,637671742-X,Failure,2/13/24,2/18/24,,Permit,Brendamour,APAC,
+127805682-3,IT,,45340,45340,,Locker,Location Locker/Counter NA,Closed,208176476-8,Complete,1/6/24,1/11/24,2/18/24,Install,NSA,EU,43
+675547842-3,IT,,,,,Apt Locker Pro,Location,,828271009-1,Fulfilled,1/7/24,1/11/24,1/28/24,Advertising,Redbox,EU,21
+448241720-3,MX,,45444,45444,,Locker,Location Locker/Counter NA,Closed,436104001-X,Complete,5/16/24,5/18/24,6/1/24,Install,NSA,USA,16
+312576014-3,ES,,,,,Apt Locker,Dobby,,864653093-0,Cancelled,4/9/24,4/14/24,,Decommission,Redbox,EU,
+763462348-2,DE,,,,,Locker,Location Locker/Counter,,975451835-1,New,5/11/24,,,Advertising,NSA,EU,
+269229805-5,MX,,,,,Apt Locker,Dobby,,560148729-4,New,3/2/24,,,Advertising,NSA,USA,
+765290875-2,PT,,,,,Apt Locker,Dobby,,265846676-5,Cancelled,2/13/24,2/17/24,,Removal,Redbox,EU,
+641186356-3,AT,,,,,Apt Locker,Dobby,,071434204-1,New,4/20/24,,,Removal,NSA,EU,
+809698852-2,PT,,,,,Apt Locker,Dobby,Install,826592058-X,New,5/11/24,,,Install,Brendamour,EU,
+791817227-2,FR,,,,,Locker,Location Locker/Counter,,834886951-4,Scheduled,4/4/24,4/6/24,,Removal,Brendamour,EU,
+741489145-3,FR,,,,,Locker,Location Locker/Counter,,535160945-2,Cancelled,2/9/24,2/11/24,,Decommission,Brendamour,EU,
+260089160-9,CA,,,,,Apt Locker,Dobby,,434710254-2,Scheduled,4/1/24,4/4/24,,Decommission,NSA,USA,
+955844446-4,PT,,,,,Locker,Location Locker/Counter,,795926700-6,Scheduled,2/11/24,2/13/24,,Removal,Redbox,EU,
+588868424-4,AT,,,,,Apt Locker,Dobby NA,,826462140-6,New,2/1/24,,,Removal,Redbox,EU,
+923122848-X,IT,,,,,Apt Locker,Dobby NA,,643434368-X,Complete,4/25/24,4/27/24,5/7/24,Advertising,Redbox,EU,12
+421743234-8,IT,,,,,Apt Locker,Dobby,,059919765-X,Complete,1/9/24,1/11/24,1/15/24,Advertising,Redbox,EU,6
+739648821-4,US,,45369,45369,45369,Locker,Location Locker/Counter,Closed,174560816-8,Fulfilled,3/13/24,3/15/24,3/18/24,Removal,NSA,USA,5
+874817386-X,US,,,,,Locker,Location Locker/Counter NA,Compliance,226932370-X,New,4/11/24,,,Permit,Redbox,USA,
+289990331-4,AT,,,,,Apt Locker,Dobby,,486700132-5,Failure,5/30/24,6/3/24,,Decommission,NSA,EU,
+132770706-3,PT,,,,,Apt Locker Pro,Location,,221214062-2,Scheduled,3/13/24,3/18/24,,Decommission,Redbox,EU,
+082693723-3,CA,,,,,Locker,Location Locker/Counter,Compliance,767426393-2,Cancelled,1/18/24,1/22/24,,Permit,Redbox,USA,
+447960190-2,JP,,45394,45394,,Apt Locker,Dobby NA,Closed,077396788-5,Complete,3/22/24,3/25/24,4/12/24,Install,NSA,APAC,21
+181372849-6,IT,,,,,Locker,Location Locker/Counter NA,Install,451353309-9,New,4/6/24,,,Install,NSA,EU,
+777295981-8,DE,,,,,Apt Locker,Dobby NA,Compliance,515452747-X,Failure,4/2/24,4/7/24,,Permit,Brendamour,EU,
+521391031-9,ES,,,,,Locker,Location Locker/Counter,,733578846-3,Failure,4/14/24,4/18/24,,Removal,NSA,EU,
+807538221-8,CA,,,,,Locker,Location Locker/Counter,,564301512-9,Scheduled,3/14/24,3/19/24,,Removal,Redbox,USA,
+952813848-9,ES,,45334,45334,45334,Locker,Location Locker/Counter NA,Closed,214845813-2,Complete,1/23/24,1/27/24,2/12/24,Decommission,NSA,EU,20
+163036927-6,JP,,45432,45432,45432,Apt Locker,Dobby NA,Closed,348842842-7,Fulfilled,5/16/24,5/17/24,5/20/24,Decommission,Brendamour,APAC,4
+828538755-0,ES,,45444,45444,,Locker,Location Locker/Counter,Closed,497831366-X,Fulfilled,5/2/24,5/3/24,6/1/24,Install,Redbox,EU,30
+772392494-1,AT,,,,,Apt Locker,Dobby NA,Compliance,965404143-X,Complete,4/21/24,4/23/24,5/4/24,Permit,Brendamour,EU,13
+342878396-4,IT,,,,,Locker,Location Locker/Counter,,792120163-6,Cancelled,1/19/24,1/20/24,,Advertising,Brendamour,EU,
+011998731-7,PT,,,,,Apt Locker,Dobby NA,Compliance,930706407-5,Complete,1/24/24,1/28/24,2/5/24,Permit,Redbox,EU,12
+963436647-3,ES,,,,,Apt Locker,Dobby NA,Compliance,784461640-7,Fulfilled,2/6/24,2/8/24,2/23/24,Permit,Redbox,EU,17
+647246627-0,US,,,,,Apt Locker,Dobby,Survey,994218047-8,Complete,6/1/24,6/2/24,6/9/24,Survey,NSA,USA,8
+762108579-7,AT,,,,,Apt Locker Pro,Location,,203633534-9,Cancelled,3/16/24,3/18/24,,Decommission,NSA,EU,
+674414302-6,FR,,45349,45349,45349,Apt Locker Pro,Location,Closed,107822336-X,Fulfilled,2/9/24,2/13/24,2/27/24,Decommission,Redbox,EU,18
+217912749-9,DE,,,,,Apt Locker,Dobby NA,Compliance,153281172-1,Fulfilled,2/2/24,2/5/24,2/18/24,Permit,Redbox,EU,16
+247365561-8,FR,,,,,Locker,Location Locker/Counter NA,Survey,670599014-7,Fulfilled,1/13/24,1/18/24,1/24/24,Survey,NSA,EU,11
+425604303-9,CA,,,,,Apt Locker,Dobby,,777156075-X,Complete,1/16/24,1/17/24,1/27/24,Advertising,Redbox,USA,11
+365611492-7,IT,,,,,Locker,Location Locker/Counter NA,,358064141-7,Cancelled,1/27/24,1/28/24,,Decommission,Brendamour,EU,
+344710844-4,FR,,45396,45396,45396,Locker,Location Locker/Counter,Closed,086647252-5,Fulfilled,4/5/24,4/8/24,4/14/24,Removal,NSA,EU,9
+226706992-X,JP,,,,,Apt Locker,Dobby,Survey,416672162-3,Complete,2/14/24,2/17/24,3/3/24,Survey,Brendamour,APAC,18
+613978652-5,ES,,,,,Apt Locker,Dobby,Survey,769369537-0,Failure,2/14/24,2/15/24,,Survey,Brendamour,EU,
+769573204-4,DE,,,,,Apt Locker,Dobby NA,Survey,977674601-2,Cancelled,5/7/24,5/8/24,,Survey,Brendamour,EU,
+621181855-6,DE,,45374,45374,,Locker,Location Locker/Counter,Closed,489814290-7,Complete,3/4/24,3/9/24,3/23/24,Install,NSA,EU,19
+699252059-8,AU,,,,,Apt Locker,Dobby,,775546548-9,Cancelled,1/19/24,1/23/24,,Advertising,NSA,APAC,
+066500226-2,FR,,,,,Locker,Location Locker/Counter,,841075119-4,Cancelled,1/26/24,1/29/24,,Removal,Redbox,EU,
+149083597-0,DE,,,,,Apt Locker,Dobby,,953541527-1,Failure,3/12/24,3/16/24,,Decommission,Redbox,EU,
+782056661-2,FR,,,,,Locker,Location Locker/Counter,,514084723-X,Scheduled,5/2/24,5/7/24,,Decommission,Redbox,EU,
+622316289-8,FR,,,,,Locker,Location Locker/Counter NA,,711281055-8,Fulfilled,3/1/24,3/2/24,3/7/24,Advertising,Brendamour,EU,6
+332517750-6,AT,,,,,Apt Locker,Dobby NA,,349584380-9,Cancelled,3/6/24,3/7/24,,Advertising,Brendamour,EU,
+112683828-4,ES,,,,,Apt Locker Pro,Location,,904315283-8,Scheduled,12/31/23,1/4/24,,Advertising,NSA,EU,
+458532088-1,ES,,,,,Locker,Location Locker/Counter NA,,164293288-4,New,3/16/24,,,Removal,Redbox,EU,
+172302210-1,PT,,45433,45433,45433,Apt Locker,Dobby NA,Closed,658098650-6,Fulfilled,5/7/24,5/8/24,5/21/24,Decommission,Brendamour,EU,14
+078011692-5,AT,,,,,Locker,Location Locker/Counter NA,,526630789-7,Failure,3/17/24,3/21/24,,Removal,Brendamour,EU,
+810263945-8,ES,,,,,Apt Locker Pro,Location,Compliance,472203542-3,Scheduled,1/22/24,1/24/24,,Permit,Redbox,EU,
+992480688-3,FR,,,,,Apt Locker,Dobby,Install,490122767-X,New,2/22/24,,,Install,Brendamour,EU,
+725435448-X,DE,,,,,Apt Locker Pro,Location,Compliance,726750637-2,Cancelled,4/1/24,4/6/24,,Permit,Brendamour,EU,
+095613664-8,ES,,,,,Locker,Location Locker/Counter NA,Install,409518645-3,New,4/15/24,,,Install,Brendamour,EU,
+519050745-9,IT,,45366,45366,45366,Apt Locker Pro,Location,Closed,915522763-5,Complete,3/3/24,3/4/24,3/15/24,Removal,NSA,EU,12
+593920774-X,ES,,,,,Locker,Location Locker/Counter NA,,515780110-6,Failure,3/23/24,3/26/24,,Advertising,Brendamour,EU,
+374094359-9,DE,,,,,Apt Locker,Dobby NA,,055019048-1,Failure,4/9/24,4/14/24,,Removal,Brendamour,EU,
+855418660-5,IT,,,,,Apt Locker,Dobby,,075351318-8,Cancelled,1/16/24,1/18/24,,Advertising,NSA,EU,
+559537928-6,AU,,,,,Apt Locker,Dobby NA,Compliance,529881199-X,Cancelled,4/19/24,4/20/24,,Permit,NSA,APAC,
+126447800-3,CA,,,,,Apt Locker Pro,Location,Compliance,287057050-3,Fulfilled,2/22/24,2/27/24,3/1/24,Permit,Redbox,USA,8
+184530396-2,ES,,,,,Locker,Location Locker/Counter NA,Install,728718075-8,Scheduled,2/27/24,2/28/24,,Install,NSA,EU,
+240554778-3,ES,,,,,Locker,Location Locker/Counter,Survey,022229443-4,Scheduled,4/25/24,4/30/24,,Survey,Redbox,EU,
+417125976-2,CA,,,,,Apt Locker,Dobby,Install,275144734-1,Failure,2/4/24,2/8/24,,Install,NSA,USA,
+015678898-5,JP,,,,,Locker,Location Locker/Counter,,740218307-6,Cancelled,1/13/24,1/16/24,,Decommission,Redbox,APAC,
+526379104-6,CA,,,,,Apt Locker,Dobby,Install,889650175-X,Scheduled,2/27/24,2/28/24,,Install,Redbox,USA,
+257227038-2,DE,,,,,Apt Locker,Dobby NA,Survey,194338329-4,Scheduled,2/6/24,2/7/24,,Survey,Brendamour,EU,
+062196706-8,AT,,,,,Locker,Location Locker/Counter NA,,096098488-7,Complete,2/15/24,2/16/24,2/24/24,Advertising,NSA,EU,9
+122039907-8,AT,,,,,Locker,Location Locker/Counter NA,,059748043-5,Failure,2/13/24,2/16/24,,Removal,Brendamour,EU,
+967324020-5,AU,,,,,Apt Locker Pro,Location,Compliance,134702158-2,Scheduled,4/1/24,4/4/24,,Permit,Redbox,APAC,
+085354891-9,PT,,,,,Locker,Location Locker/Counter NA,,111352638-6,New,5/4/24,,,Advertising,Brendamour,EU,
+291953975-2,JP,,,,,Apt Locker,Dobby,,293439810-2,New,1/14/24,,,Decommission,Brendamour,APAC,
+280278810-8,DE,,,,,Apt Locker Pro,Location,,370210394-5,Cancelled,1/24/24,1/27/24,,Advertising,Redbox,EU,
+964953967-0,PT,,,,,Locker,Location Locker/Counter NA,,759087891-X,New,5/26/24,,,Decommission,NSA,EU,
+454594622-4,MX,,45428,45428,45428,Apt Locker,Dobby,Closed,183939676-8,Fulfilled,5/6/24,5/8/24,5/16/24,Decommission,Redbox,USA,10
+009702134-2,JP,,45358,45358,,Apt Locker,Dobby,Closed,357524418-9,Complete,2/10/24,2/13/24,3/7/24,Install,Brendamour,APAC,26
+425177255-5,JP,,,,,Apt Locker Pro,Location,,697876461-2,Failure,3/20/24,3/25/24,,Decommission,Brendamour,APAC,
+468973786-X,JP,,,,,Locker,Location Locker/Counter NA,Compliance,742461025-2,New,2/7/24,,,Permit,NSA,APAC,
+669920829-2,MX,,,,,Locker,Location Locker/Counter NA,,161628587-7,Failure,3/9/24,3/14/24,,Decommission,Redbox,USA,
+547025373-2,PT,,45324,45324,45324,Locker,Location Locker/Counter,Closed,551070561-2,Fulfilled,1/15/24,1/16/24,2/2/24,Decommission,Brendamour,EU,18
+201684506-6,DE,,,,,Apt Locker,Dobby NA,,753071402-3,Failure,2/27/24,2/28/24,,Decommission,Brendamour,EU,
+689316568-4,MX,,,,,Apt Locker,Dobby,,364250489-2,Cancelled,1/21/24,1/22/24,,Advertising,Brendamour,USA,
+597009867-1,JP,,,,,Locker,Location Locker/Counter,Install,151210899-5,Failure,1/18/24,1/19/24,,Install,Brendamour,APAC,
+392069526-7,MX,,,,,Locker,Location Locker/Counter NA,Survey,969240175-8,Cancelled,1/18/24,1/19/24,,Survey,Brendamour,USA,
+689853128-X,IT,,,,,Locker,Location Locker/Counter NA,,918809459-6,Fulfilled,4/29/24,5/3/24,5/15/24,Advertising,Redbox,EU,16
+345112484-X,US,,,,,Locker,Location Locker/Counter NA,Survey,606584217-6,Complete,5/8/24,5/12/24,5/28/24,Survey,NSA,USA,20
+827268366-0,DE,,,,,Locker,Location Locker/Counter,,104858290-6,Failure,4/13/24,4/14/24,,Removal,Redbox,EU,
+693843902-8,PT,,,,,Apt Locker Pro,Location,Install,230536023-1,Scheduled,3/21/24,3/25/24,,Install,NSA,EU,
+966148042-7,US,,,,,Locker,Location Locker/Counter NA,Compliance,425920863-2,Failure,2/7/24,2/11/24,,Permit,Redbox,USA,
+380909168-5,JP,,,,,Locker,Location Locker/Counter,,852253765-8,Fulfilled,4/26/24,4/28/24,5/14/24,Advertising,Redbox,APAC,18
+656386589-5,IT,,,,,Apt Locker,Dobby NA,Install,099772132-4,New,2/4/24,,,Install,Redbox,EU,
+508763672-1,MX,,,,,Apt Locker,Dobby,Compliance,237259797-3,Fulfilled,4/13/24,4/18/24,5/6/24,Permit,NSA,USA,23
+658916804-0,PT,,,,,Apt Locker,Dobby,Install,940171564-5,New,3/17/24,,,Install,Brendamour,EU,
+088135744-8,FR,,,,,Apt Locker,Dobby NA,Compliance,796132601-4,Fulfilled,5/14/24,5/18/24,5/25/24,Permit,Redbox,EU,11
+316193613-2,DE,,,,,Apt Locker,Dobby NA,,442331705-2,Scheduled,3/8/24,3/9/24,,Decommission,Redbox,EU,
+517153698-8,AU,,,,,Apt Locker Pro,Location,,766684407-7,Failure,1/20/24,1/22/24,,Removal,Redbox,APAC,
+404028643-X,ES,,,,,Apt Locker,Dobby NA,Survey,722375189-4,Cancelled,2/29/24,3/5/24,,Survey,NSA,EU,
+490706730-5,US,,,,,Locker,Location Locker/Counter,Compliance,314362599-6,Fulfilled,1/27/24,1/29/24,2/4/24,Permit,Brendamour,USA,8
+594698976-6,IT,,,,,Apt Locker Pro,Location,,086863058-6,Complete,3/25/24,3/27/24,4/4/24,Advertising,NSA,EU,10
+045317333-0,FR,,45423,45423,,Apt Locker,Dobby,Closed,665498661-X,Fulfilled,4/17/24,4/20/24,5/11/24,Install,NSA,EU,24
+594772207-0,DE,,,,,Apt Locker Pro,Location,,678321857-0,Cancelled,2/4/24,2/5/24,,Decommission,Brendamour,EU,
+045537441-4,JP,,,,,Apt Locker Pro,Location,Compliance,306474949-8,Cancelled,4/13/24,4/18/24,,Permit,Brendamour,APAC,
+122699651-5,CA,,,,,Apt Locker,Dobby,Compliance,104414788-1,Failure,1/20/24,1/22/24,,Permit,Redbox,USA,
+421254973-5,DE,,,,,Locker,Location Locker/Counter NA,Survey,739642036-9,Cancelled,1/29/24,2/1/24,,Survey,NSA,EU,
+095984109-1,AT,,45439,45439,,Apt Locker Pro,Location,Closed,992250534-7,Complete,4/25/24,4/26/24,5/27/24,Install,Redbox,EU,32
+849383053-4,MX,,45342,45342,45342,Locker,Location Locker/Counter,Closed,188219347-4,Complete,2/9/24,2/14/24,2/20/24,Removal,Brendamour,USA,11
+864315730-9,MX,,,,,Apt Locker,Dobby,Survey,822102403-1,Failure,1/8/24,1/10/24,,Survey,NSA,USA,
+714392917-4,DE,,,,,Apt Locker,Dobby,,788423423-8,New,5/8/24,,,Decommission,Brendamour,EU,
+967378103-6,FR,,45310,45310,45310,Apt Locker Pro,Location,Closed,423414990-X,Fulfilled,1/15/24,1/16/24,1/19/24,Decommission,Redbox,EU,4
+119436091-2,CA,,,,,Apt Locker,Dobby NA,Compliance,299879941-8,Fulfilled,2/24/24,2/29/24,3/12/24,Permit,NSA,USA,17
+435528360-7,AT,,,,,Locker,Location Locker/Counter NA,Survey,466120890-0,Scheduled,1/8/24,1/12/24,,Survey,Brendamour,EU,
+083432912-3,ES,,,,,Apt Locker,Dobby NA,,790227429-1,Complete,5/23/24,5/26/24,6/3/24,Advertising,NSA,EU,11
+879786777-2,ES,,,,,Apt Locker,Dobby,Install,332200134-2,Cancelled,5/29/24,5/31/24,,Install,NSA,EU,
+783567939-6,JP,,,,,Locker,Location Locker/Counter,Survey,723833481-X,Cancelled,5/30/24,6/4/24,,Survey,Redbox,APAC,
+681119619-X,CA,,45438,45438,45438,Locker,Location Locker/Counter,Closed,857173784-3,Complete,5/14/24,5/16/24,5/26/24,Decommission,NSA,USA,12
+238060077-5,PT,,,,,Locker,Location Locker/Counter,,788190905-6,Scheduled,4/1/24,4/3/24,,Decommission,NSA,EU,
+984525913-8,AU,,,,,Apt Locker Pro,Location,,897048415-9,Failure,5/28/24,5/30/24,,Removal,Redbox,APAC,
+543276854-2,ES,,,,,Locker,Location Locker/Counter,Survey,770011075-1,Scheduled,3/4/24,3/8/24,,Survey,Brendamour,EU,
+782139275-8,DE,,,,,Apt Locker,Dobby,,515547774-3,Scheduled,4/7/24,4/11/24,,Removal,Brendamour,EU,
+641654994-8,US,,,,,Locker,Location Locker/Counter NA,Compliance,474937533-0,New,5/20/24,,,Permit,Brendamour,USA,
+950171502-7,MX,,,,,Locker,Location Locker/Counter,,703145821-8,Complete,5/30/24,6/3/24,6/19/24,Advertising,NSA,USA,20
+076179478-6,JP,,,,,Apt Locker,Dobby NA,Compliance,191572267-5,New,5/19/24,,,Permit,Brendamour,APAC,
+445062325-8,ES,,,,,Apt Locker Pro,Location,,585671262-5,New,1/13/24,,,Removal,Brendamour,EU,
+958468374-8,PT,,,,,Locker,Location Locker/Counter NA,,665188680-0,Fulfilled,1/20/24,1/25/24,2/4/24,Advertising,Redbox,EU,15
+617372263-1,PT,,,,,Apt Locker,Dobby NA,,069705218-4,Scheduled,5/9/24,5/14/24,,Decommission,NSA,EU,
+583599688-8,US,,,,,Apt Locker,Dobby,Compliance,936669101-3,Complete,1/29/24,2/1/24,2/11/24,Permit,NSA,USA,13
+575916161-X,CA,,,,,Locker,Location Locker/Counter,Survey,514865105-9,Cancelled,4/6/24,4/9/24,,Survey,NSA,USA,
+507031577-3,FR,,,,,Apt Locker Pro,Location,Install,857363399-9,Failure,2/11/24,2/16/24,,Install,NSA,EU,
+759887509-X,PT,,,,,Locker,Location Locker/Counter,Survey,801013353-1,New,3/27/24,,,Survey,NSA,EU,
+637454998-8,DE,,,,,Locker,Location Locker/Counter NA,,456750255-8,Scheduled,2/29/24,3/4/24,,Removal,Redbox,EU,
+544847571-X,PT,,,,,Apt Locker Pro,Location,,497171125-2,Failure,1/30/24,2/3/24,,Removal,Brendamour,EU,
+059962479-5,DE,,,,,Locker,Location Locker/Counter,,010889167-4,Scheduled,5/24/24,5/27/24,,Advertising,Redbox,EU,
+011070336-7,CA,,,,,Locker,Location Locker/Counter,,252335189-7,Complete,3/23/24,3/24/24,4/3/24,Advertising,Brendamour,USA,11
+833662228-4,FR,,,,,Apt Locker Pro,Location,Survey,545644413-5,Cancelled,2/22/24,2/25/24,,Survey,NSA,EU,
+596502448-7,IT,,,,,Locker,Location Locker/Counter,Compliance,392031590-1,Failure,2/12/24,2/17/24,,Permit,Brendamour,EU,
+793381599-5,PT,,,,,Locker,Location Locker/Counter,,476407629-2,New,4/17/24,,,Removal,Redbox,EU,
+211743287-5,DE,,45416,45416,,Apt Locker Pro,Location,Closed,758549334-7,Complete,4/5/24,4/7/24,5/4/24,Install,NSA,EU,29
+784731481-9,FR,,,,,Apt Locker,Dobby NA,Survey,954075034-2,Failure,5/29/24,5/30/24,,Survey,Redbox,EU,
+567210854-7,DE,,,,,Locker,Location Locker/Counter NA,,224126135-1,New,4/21/24,,,Removal,Redbox,EU,
+584733348-X,JP,,,,,Apt Locker,Dobby NA,,866129726-5,New,3/1/24,,,Advertising,Brendamour,APAC,
+145607366-4,AU,,45374,45374,,Apt Locker,Dobby,Closed,610470306-2,Complete,2/14/24,2/16/24,3/23/24,Install,Redbox,APAC,38
+517220780-5,IT,,,,,Apt Locker,Dobby NA,Compliance,098967709-5,Cancelled,3/1/24,3/3/24,,Permit,NSA,EU,
+200968128-2,FR,,,,,Apt Locker,Dobby NA,Install,835571913-1,Cancelled,3/19/24,3/20/24,,Install,Brendamour,EU,
+072030340-0,FR,,,,,Locker,Location Locker/Counter NA,,292898722-3,Failure,5/12/24,5/17/24,,Decommission,Redbox,EU,
+517517774-5,PT,,,,,Locker,Location Locker/Counter NA,Compliance,391299669-5,Fulfilled,5/25/24,5/27/24,6/5/24,Permit,Redbox,EU,11
+418880599-4,US,,,,,Apt Locker,Dobby NA,Survey,706811809-7,Cancelled,4/11/24,4/14/24,,Survey,Redbox,USA,
+859979883-9,ES,,,,,Apt Locker Pro,Location,Survey,770244651-X,Complete,5/10/24,5/11/24,5/15/24,Survey,Redbox,EU,5
+799206157-8,PT,,,,,Apt Locker,Dobby,Compliance,100104425-8,New,3/2/24,,,Permit,Redbox,EU,
+258264354-8,IT,,45435,45435,45435,Apt Locker Pro,Location,Closed,514993773-8,Fulfilled,5/8/24,5/13/24,5/23/24,Decommission,Redbox,EU,15
+630290784-5,AU,,,,,Locker,Location Locker/Counter NA,Install,702552362-3,Cancelled,4/7/24,4/11/24,,Install,Redbox,APAC,
+177631960-5,ES,,,,,Locker,Location Locker/Counter,Survey,981634742-3,Failure,5/1/24,5/4/24,,Survey,Brendamour,EU,
+713637734-X,CA,,,,,Apt Locker,Dobby NA,Compliance,362870389-1,Complete,5/18/24,5/20/24,6/7/24,Permit,Redbox,USA,20
+444152808-6,AU,,,,,Apt Locker Pro,Location,,715597530-3,Cancelled,1/17/24,1/21/24,,Decommission,NSA,APAC,
+533231409-4,AU,,,,,Locker,Location Locker/Counter,Install,397615852-6,Scheduled,4/25/24,4/30/24,,Install,NSA,APAC,
+344288900-6,PT,,,,,Apt Locker,Dobby NA,,611083060-7,Cancelled,1/7/24,1/9/24,,Advertising,Brendamour,EU,
+167032872-4,ES,,45368,45368,45368,Apt Locker,Dobby NA,Closed,883908885-7,Fulfilled,2/25/24,3/1/24,3/17/24,Decommission,Brendamour,EU,21
+161419410-6,FR,,,,,Apt Locker,Dobby,Compliance,334368153-9,Cancelled,1/9/24,1/11/24,,Permit,NSA,EU,
+968281566-5,FR,,,,,Apt Locker,Dobby NA,,691065579-6,Failure,1/14/24,1/17/24,,Advertising,Brendamour,EU,
+986166298-7,AU,,,,,Locker,Location Locker/Counter,Survey,459528805-0,Scheduled,2/10/24,2/13/24,,Survey,NSA,APAC,
+144071818-0,DE,,,,,Apt Locker,Dobby NA,,238518252-1,Failure,5/14/24,5/19/24,,Decommission,NSA,EU,
+552505327-6,AU,,,,,Apt Locker,Dobby NA,,918739246-1,Scheduled,3/16/24,3/19/24,,Advertising,Brendamour,APAC,
+996094519-7,JP,,,,,Apt Locker,Dobby,,302148140-X,Failure,2/13/24,2/18/24,,Removal,Redbox,APAC,
+635778157-6,AU,,,,,Locker,Location Locker/Counter NA,Survey,903688350-4,New,4/6/24,,,Survey,Redbox,APAC,
+238159029-3,IT,,,,,Locker,Location Locker/Counter,,616533916-6,Cancelled,5/31/24,6/1/24,,Decommission,Brendamour,EU,
+114198353-2,US,,,,,Apt Locker Pro,Location,Compliance,398232125-5,Complete,2/26/24,2/29/24,3/17/24,Permit,NSA,USA,20
+059368416-8,ES,,,,,Locker,Location Locker/Counter,Install,207743441-4,Cancelled,2/1/24,2/5/24,,Install,Brendamour,EU,
+051374451-7,CA,,,,,Apt Locker,Dobby NA,,339961202-8,Failure,3/15/24,3/19/24,,Removal,Brendamour,USA,
+651657103-1,US,,,,,Apt Locker Pro,Location,Compliance,291223582-0,Scheduled,3/17/24,3/19/24,,Permit,Redbox,USA,
+066483262-8,CA,,,,,Locker,Location Locker/Counter NA,Survey,763260621-1,Cancelled,1/3/24,1/7/24,,Survey,NSA,USA,
+947312210-1,ES,,,,,Apt Locker Pro,Location,Survey,866710377-2,Scheduled,1/17/24,1/18/24,,Survey,NSA,EU,
+727586581-5,JP,,,,,Apt Locker Pro,Location,,055489243-X,Fulfilled,2/6/24,2/11/24,2/18/24,Advertising,Brendamour,APAC,12
+326820297-7,CA,,,,,Apt Locker,Dobby NA,Compliance,119545900-9,Complete,2/10/24,2/11/24,2/15/24,Permit,NSA,USA,5
+284196875-8,US,,,,,Apt Locker Pro,Location,,479426890-4,Cancelled,1/17/24,1/22/24,,Decommission,Brendamour,USA,
+778921270-2,FR,,,,,Apt Locker Pro,Location,,040951833-6,New,5/16/24,,,Decommission,NSA,EU,
+596894342-4,FR,,,,,Apt Locker,Dobby,Survey,824904555-6,Complete,4/30/24,5/5/24,5/16/24,Survey,NSA,EU,16
+805248142-2,DE,,,,,Apt Locker,Dobby,Compliance,746556497-2,New,2/15/24,,,Permit,NSA,EU,
+038662909-9,AU,,45381,45381,45381,Apt Locker Pro,Location,Closed,577271951-3,Fulfilled,3/16/24,3/18/24,3/30/24,Removal,NSA,APAC,14
+997114667-3,IT,,,,,Locker,Location Locker/Counter,Survey,253638822-0,Cancelled,5/23/24,5/26/24,,Survey,NSA,EU,
+966956193-0,AU,,,,,Apt Locker,Dobby,Install,800517717-8,Cancelled,5/13/24,5/17/24,,Install,NSA,APAC,
+623621719-X,ES,,,,,Locker,Location Locker/Counter,Install,580492232-7,Cancelled,5/1/24,5/2/24,,Install,Redbox,EU,
+127842985-9,US,,,,,Locker,Location Locker/Counter,,783863800-3,Cancelled,1/5/24,1/7/24,,Decommission,Brendamour,USA,
+487753188-2,MX,,,,,Locker,Location Locker/Counter,Survey,103682183-8,Cancelled,3/8/24,3/9/24,,Survey,NSA,USA,
+051739612-2,US,,,,,Apt Locker,Dobby NA,,384739899-7,New,5/15/24,,,Removal,Redbox,USA,
+086794310-6,ES,,,,,Apt Locker,Dobby NA,Compliance,676416377-4,Complete,2/21/24,2/22/24,3/8/24,Permit,Brendamour,EU,16
+832294027-0,AT,,,,,Locker,Location Locker/Counter NA,Install,185293493-X,Cancelled,3/15/24,3/20/24,,Install,Brendamour,EU,
+925745141-0,JP,,,,,Locker,Location Locker/Counter,,196606355-5,Scheduled,1/23/24,1/26/24,,Removal,Redbox,APAC,
+379626727-0,DE,,,,,Locker,Location Locker/Counter NA,,325287535-7,Failure,4/14/24,4/16/24,,Decommission,Redbox,EU,
+245454576-4,AU,,,,,Apt Locker,Dobby,Compliance,476872582-1,Failure,4/7/24,4/11/24,,Permit,Brendamour,APAC,
+584222459-3,DE,,,,,Locker,Location Locker/Counter NA,Install,042556632-3,Cancelled,2/2/24,2/3/24,,Install,Redbox,EU,
+358981027-0,AT,,,,,Locker,Location Locker/Counter NA,Install,886501926-3,Scheduled,5/6/24,5/10/24,,Install,Redbox,EU,
+381391354-6,AU,,,,,Locker,Location Locker/Counter,Survey,577699221-4,Complete,2/9/24,2/11/24,2/26/24,Survey,NSA,APAC,17
+709428918-9,DE,,,,,Apt Locker,Dobby NA,Install,627819449-X,New,1/31/24,,,Install,NSA,EU,
+118582293-3,PT,,45477,45477,,Apt Locker Pro,Location,Closed,613173523-9,Complete,6/1/24,6/4/24,7/4/24,Install,Brendamour,EU,33
+767030894-X,ES,,,,,Apt Locker Pro,Location,,069580741-2,Cancelled,4/3/24,4/8/24,,Decommission,Redbox,EU,
+672906565-6,FR,,,,,Apt Locker Pro,Location,,569318249-5,Cancelled,2/26/24,3/2/24,,Removal,Redbox,EU,
+936430307-5,US,,,,,Apt Locker,Dobby,Compliance,486696369-7,Complete,5/23/24,5/28/24,6/3/24,Permit,Redbox,USA,11
+561552810-9,IT,,45385,45385,45385,Locker,Location Locker/Counter NA,Closed,677351909-8,Fulfilled,3/23/24,3/27/24,4/3/24,Removal,Brendamour,EU,11
+803890659-4,DE,,,,,Apt Locker,Dobby NA,Survey,068890732-6,Fulfilled,4/11/24,4/16/24,4/28/24,Survey,Brendamour,EU,17
+324507315-1,AT,,,,,Apt Locker Pro,Location,Compliance,207854047-1,Cancelled,2/18/24,2/19/24,,Permit,Redbox,EU,
+386942714-0,AU,,,,,Locker,Location Locker/Counter NA,Compliance,150678923-4,Failure,2/23/24,2/24/24,,Permit,NSA,APAC,
+621996798-4,JP,,,,,Locker,Location Locker/Counter,,583291532-1,Cancelled,1/11/24,1/13/24,,Advertising,Brendamour,APAC,
+976644972-4,MX,,,,,Apt Locker,Dobby NA,,404777764-1,Cancelled,3/22/24,3/27/24,,Advertising,Redbox,USA,
+946704243-6,JP,,,,,Apt Locker,Dobby NA,Install,774405574-8,Scheduled,4/27/24,5/1/24,,Install,NSA,APAC,
+233796485-X,JP,,,,,Apt Locker,Dobby,Compliance,309624612-2,New,4/29/24,,,Permit,Brendamour,APAC,
+598222218-6,FR,,,,,Apt Locker Pro,Location,,324060302-0,New,5/10/24,,,Removal,Brendamour,EU,
+627385146-8,PT,,,,,Apt Locker,Dobby NA,Install,044365590-1,Failure,1/30/24,2/3/24,,Install,Redbox,EU,
+105403003-0,JP,,,,,Locker,Location Locker/Counter NA,,101402694-6,Complete,2/27/24,3/2/24,3/20/24,Advertising,Brendamour,APAC,22
+445698274-8,AT,,,,,Apt Locker,Dobby NA,,222750171-5,Failure,4/24/24,4/28/24,,Advertising,NSA,EU,
+782202908-8,AU,,,,,Locker,Location Locker/Counter NA,Survey,244750691-0,Fulfilled,3/21/24,3/25/24,4/11/24,Survey,Brendamour,APAC,21
+948163095-1,PT,,45357,45357,45357,Apt Locker,Dobby NA,Closed,903517905-6,Fulfilled,2/17/24,2/21/24,3/6/24,Decommission,NSA,EU,18
+169964757-7,JP,,45472,45472,,Locker,Location Locker/Counter NA,Closed,923439651-0,Fulfilled,5/25/24,5/28/24,6/29/24,Install,Brendamour,APAC,35
+486379489-4,FR,,,,,Apt Locker Pro,Location,,900507867-7,Failure,4/28/24,4/29/24,,Decommission,NSA,EU,
+077012421-6,AT,,,,,Apt Locker,Dobby,Compliance,330511045-7,Fulfilled,4/19/24,4/20/24,5/3/24,Permit,Redbox,EU,14
+416330657-9,DE,,,,,Apt Locker,Dobby,Compliance,196150063-9,New,3/11/24,,,Permit,NSA,EU,
+961391826-4,MX,,,,,Apt Locker,Dobby NA,Install,217969651-5,Scheduled,1/20/24,1/23/24,,Install,Redbox,USA,
+480267675-1,MX,,,,,Apt Locker,Dobby,Compliance,594105370-3,Failure,3/8/24,3/13/24,,Permit,Brendamour,USA,
+236647421-0,IT,,,,,Locker,Location Locker/Counter,Survey,406486409-3,Fulfilled,1/18/24,1/20/24,1/26/24,Survey,Brendamour,EU,8
+814132745-3,ES,,,,,Locker,Location Locker/Counter NA,Survey,738789924-X,Scheduled,3/29/24,3/31/24,,Survey,Brendamour,EU,
+092780858-7,MX,,,,,Apt Locker,Dobby,Survey,167043817-1,Cancelled,3/28/24,3/31/24,,Survey,Redbox,USA,
+071658814-5,PT,,,,,Apt Locker,Dobby NA,Survey,165190330-1,Complete,2/9/24,2/10/24,2/15/24,Survey,Redbox,EU,6
+363811718-9,JP,,,,,Apt Locker Pro,Location,,924951524-3,Complete,4/4/24,4/9/24,4/19/24,Advertising,Brendamour,APAC,15
+326123080-0,MX,,45431,45431,45431,Apt Locker,Dobby,Closed,594123510-0,Fulfilled,5/8/24,5/13/24,5/19/24,Removal,Brendamour,USA,11
+700433654-9,AT,,,,,Locker,Location Locker/Counter,Install,983037038-0,Failure,4/8/24,4/13/24,,Install,NSA,EU,
+773654216-3,DE,,,,,Apt Locker Pro,Location,,758604753-7,Scheduled,4/4/24,4/5/24,,Decommission,Redbox,EU,
+477213004-7,DE,,,,,Locker,Location Locker/Counter,Survey,817685964-8,Scheduled,2/14/24,2/18/24,,Survey,Brendamour,EU,
+906707513-2,US,,,,,Locker,Location Locker/Counter,Compliance,048445136-7,Fulfilled,4/3/24,4/5/24,4/8/24,Permit,Redbox,USA,5
+393257661-6,IT,,45445,45445,,Locker,Location Locker/Counter,Closed,512651574-8,Complete,5/15/24,5/20/24,6/2/24,Install,Redbox,EU,18
+858868713-5,FR,,,,,Locker,Location Locker/Counter NA,,361177707-2,New,2/26/24,,,Removal,Redbox,EU,
+938482101-2,MX,,,,,Apt Locker Pro,Location,Install,486186015-6,New,2/25/24,,,Install,Brendamour,USA,
+775549812-3,PT,,45346,45346,45346,Locker,Location Locker/Counter,Closed,222957035-8,Fulfilled,2/11/24,2/12/24,2/24/24,Removal,Brendamour,EU,13
+232619412-8,AU,,45355,45355,45355,Apt Locker,Dobby,Closed,694039746-9,Fulfilled,2/22/24,2/27/24,3/4/24,Decommission,NSA,APAC,11
+023810843-0,IT,,,,,Apt Locker,Dobby NA,,125625510-6,Cancelled,1/8/24,1/10/24,,Advertising,Brendamour,EU,
+214755877-X,MX,,,,,Apt Locker Pro,Location,,304634078-8,Cancelled,2/1/24,2/3/24,,Advertising,Redbox,USA,
+122767956-4,ES,,,,,Apt Locker Pro,Location,,302968780-5,Failure,2/25/24,2/28/24,,Removal,NSA,EU,
+405077780-0,FR,,,,,Apt Locker Pro,Location,,093686924-0,Scheduled,1/30/24,2/1/24,,Removal,Brendamour,EU,
+678734022-2,PT,,45368,45368,45368,Apt Locker,Dobby NA,Closed,854736647-4,Complete,2/29/24,3/1/24,3/17/24,Decommission,Brendamour,EU,17
+241625744-7,AT,,,,,Locker,Location Locker/Counter NA,,812423753-0,Scheduled,4/21/24,4/26/24,,Removal,Brendamour,EU,
+357518316-3,AT,,,,,Apt Locker,Dobby NA,,225249804-8,Failure,1/14/24,1/18/24,,Advertising,Redbox,EU,
+284529603-7,CA,,,,,Locker,Location Locker/Counter,Install,475562860-1,Cancelled,2/16/24,2/17/24,,Install,Redbox,USA,
+481756540-3,ES,,45295,45295,45295,Apt Locker,Dobby NA,Closed,406185358-9,Complete,12/31/23,1/1/24,1/4/24,Removal,Brendamour,EU,4
+300612167-8,IT,,,,,Locker,Location Locker/Counter NA,,966657609-0,Fulfilled,5/30/24,6/4/24,6/15/24,Advertising,Brendamour,EU,16
+851215061-0,MX,,,,,Apt Locker Pro,Location,,849663465-5,Cancelled,3/7/24,3/9/24,,Decommission,Redbox,USA,
+336292228-7,PT,,,,,Apt Locker,Dobby NA,,226986837-4,Failure,5/18/24,5/23/24,,Removal,Brendamour,EU,
+129208161-9,US,,,,,Apt Locker,Dobby NA,,096866245-5,New,1/26/24,,,Removal,NSA,USA,
+891813766-4,FR,,,,,Apt Locker,Dobby,Install,489857448-3,Scheduled,5/19/24,5/22/24,,Install,NSA,EU,
+922436482-9,PT,,,,,Locker,Location Locker/Counter NA,Install,386064952-3,Cancelled,5/28/24,5/29/24,,Install,Redbox,EU,
+609616403-X,ES,,,,,Locker,Location Locker/Counter NA,,780836189-5,Scheduled,4/3/24,4/6/24,,Removal,NSA,EU,
+398478156-3,IT,,,,,Apt Locker Pro,Location,Survey,353744691-8,Fulfilled,5/26/24,5/29/24,6/4/24,Survey,Redbox,EU,9
+659839216-0,AT,,45447,45447,45447,Apt Locker,Dobby,Closed,466770001-7,Complete,5/23/24,5/28/24,6/4/24,Decommission,NSA,EU,12
+181265241-0,AT,,,,,Apt Locker,Dobby NA,Install,765551474-7,Scheduled,3/11/24,3/15/24,,Install,Brendamour,EU,
+302248264-7,FR,,,,,Apt Locker,Dobby,,716872556-4,Failure,4/7/24,4/12/24,,Advertising,NSA,EU,
+659857228-2,AT,,,,,Apt Locker Pro,Location,Survey,173119288-6,Cancelled,5/22/24,5/26/24,,Survey,Brendamour,EU,
+243006827-3,JP,,,,,Apt Locker,Dobby,Install,801595942-X,New,4/16/24,,,Install,Redbox,APAC,
+428118878-9,AU,,,,,Apt Locker,Dobby NA,Compliance,020415022-1,New,4/28/24,,,Permit,Brendamour,APAC,
+490657419-X,PT,,45323,45323,45323,Apt Locker,Dobby,Closed,959475285-8,Fulfilled,1/15/24,1/16/24,2/1/24,Removal,Brendamour,EU,17
+025490363-0,AT,,,,,Apt Locker,Dobby,Compliance,717792212-1,Cancelled,3/31/24,4/1/24,,Permit,Redbox,EU,
+635838539-9,PT,,,,,Apt Locker Pro,Location,,237349153-2,Cancelled,3/31/24,4/5/24,,Decommission,Redbox,EU,
+245348462-1,CA,,,,,Apt Locker,Dobby,Install,320700466-0,Failure,2/28/24,2/29/24,,Install,Brendamour,USA,
+020966770-2,DE,,,,,Apt Locker Pro,Location,,185169085-9,Cancelled,3/28/24,3/30/24,,Advertising,Redbox,EU,
+252752169-X,PT,,,,,Apt Locker,Dobby NA,,533157025-9,Scheduled,3/19/24,3/24/24,,Decommission,NSA,EU,
+836794851-3,CA,,,,,Apt Locker Pro,Location,,569914782-9,Cancelled,3/23/24,3/28/24,,Advertising,Redbox,USA,
+187209472-4,PT,,,,,Locker,Location Locker/Counter,,654269326-2,Failure,2/20/24,2/24/24,,Decommission,NSA,EU,
+634754871-2,AT,,,,,Locker,Location Locker/Counter,,395121753-7,Scheduled,3/27/24,3/30/24,,Removal,NSA,EU,
+333203315-8,ES,,,,,Apt Locker,Dobby,,096375752-0,Cancelled,2/5/24,2/8/24,,Removal,Brendamour,EU,
+954037128-7,AU,,45369,45369,45369,Apt Locker,Dobby NA,Closed,118446432-4,Complete,2/27/24,3/1/24,3/18/24,Removal,Brendamour,APAC,20
+612271951-X,PT,,45433,45433,45433,Apt Locker,Dobby NA,Closed,404287214-X,Complete,5/9/24,5/10/24,5/21/24,Decommission,NSA,EU,12
+800626008-7,FR,,,,,Locker,Location Locker/Counter NA,Compliance,870611838-0,Cancelled,5/5/24,5/10/24,,Permit,Redbox,EU,
+477758737-1,US,,,,,Locker,Location Locker/Counter NA,,318127337-6,Scheduled,2/27/24,2/29/24,,Advertising,Redbox,USA,
+028056711-1,FR,,45447,45447,45447,Apt Locker,Dobby,Closed,420094155-4,Fulfilled,5/23/24,5/28/24,6/4/24,Removal,NSA,EU,12
+489464702-8,AT,,,,,Apt Locker,Dobby,,446189853-9,Cancelled,1/7/24,1/10/24,,Decommission,NSA,EU,
+642602283-7,IT,,,,,Apt Locker,Dobby NA,Compliance,254735610-4,Fulfilled,2/10/24,2/12/24,3/1/24,Permit,Redbox,EU,20
+150294854-0,DE,,,,,Locker,Location Locker/Counter NA,,995217818-2,Cancelled,1/11/24,1/15/24,,Removal,NSA,EU,
+575600268-5,ES,,45316,45316,45316,Apt Locker Pro,Location,Closed,157953141-5,Fulfilled,1/5/24,1/10/24,1/25/24,Removal,Brendamour,EU,20
+755710050-6,IT,,,,,Locker,Location Locker/Counter,Compliance,640721494-7,New,3/9/24,,,Permit,NSA,EU,
+581052576-8,US,,,,,Apt Locker,Dobby,,564128957-4,Failure,1/11/24,1/13/24,,Removal,Redbox,USA,
+987227179-8,ES,,,,,Apt Locker,Dobby NA,,747732966-3,Scheduled,4/3/24,4/4/24,,Advertising,Brendamour,EU,
+119325226-1,PT,,,,,Locker,Location Locker/Counter NA,Compliance,361225167-8,Fulfilled,5/5/24,5/10/24,5/15/24,Permit,Redbox,EU,10
+627992236-7,MX,,,,,Locker,Location Locker/Counter,,286060008-6,New,4/7/24,,,Advertising,Redbox,USA,
+417125273-3,ES,,,,,Apt Locker Pro,Location,,187322906-2,Complete,2/22/24,2/26/24,3/14/24,Advertising,Redbox,EU,21
+731587965-X,US,,,,,Apt Locker,Dobby NA,Install,035819368-0,Cancelled,1/23/24,1/26/24,,Install,Redbox,USA,
+900411704-0,AU,,45320,45320,,Apt Locker,Dobby NA,Closed,568260347-8,Complete,1/5/24,1/6/24,1/29/24,Install,Redbox,APAC,24
+837466376-6,IT,,,,,Apt Locker,Dobby,,152007899-4,New,4/25/24,,,Removal,NSA,EU,
+988714422-3,IT,,,,,Apt Locker,Dobby,Compliance,615627624-6,Fulfilled,5/23/24,5/26/24,6/1/24,Permit,Redbox,EU,9
+201467788-3,PT,,45389,45389,,Apt Locker,Dobby NA,Closed,049775086-4,Complete,2/24/24,2/25/24,4/7/24,Install,Redbox,EU,43
+938818829-2,IT,,,,,Apt Locker,Dobby NA,,821767192-3,New,5/19/24,,,Decommission,Redbox,EU,
+567975339-1,FR,,,,,Apt Locker Pro,Location,Compliance,495869463-3,Cancelled,3/4/24,3/8/24,,Permit,Redbox,EU,
+878479180-2,IT,,,,,Apt Locker,Dobby NA,Compliance,832456142-0,Fulfilled,5/13/24,5/16/24,6/2/24,Permit,Brendamour,EU,20
+494080504-2,PT,,,,,Locker,Location Locker/Counter,,292311916-9,Scheduled,3/23/24,3/24/24,,Decommission,Brendamour,EU,
+428159269-5,MX,,,,,Apt Locker,Dobby,Install,711843873-1,Scheduled,5/6/24,5/7/24,,Install,Redbox,USA,
+133317187-0,AT,,45354,45354,45354,Apt Locker,Dobby,Closed,328614357-X,Fulfilled,2/14/24,2/16/24,3/3/24,Removal,Brendamour,EU,18
+055044729-6,AT,,,,,Apt Locker,Dobby NA,Survey,478597421-4,Failure,1/11/24,1/14/24,,Survey,Redbox,EU,
+305301831-4,US,,,,,Apt Locker Pro,Location,,391701807-1,Cancelled,5/2/24,5/4/24,,Removal,Redbox,USA,
+881583237-8,US,,,,,Apt Locker Pro,Location,Install,419938410-3,New,4/13/24,,,Install,NSA,USA,
+528170806-6,PT,,,,,Apt Locker,Dobby,Survey,935583980-4,Scheduled,1/14/24,1/15/24,,Survey,NSA,EU,
+740771604-8,PT,,,,,Locker,Location Locker/Counter NA,,071559389-7,New,5/13/24,,,Advertising,Brendamour,EU,
+087722320-3,PT,,45429,45429,45429,Apt Locker Pro,Location,Closed,040903440-1,Complete,5/6/24,5/10/24,5/17/24,Removal,NSA,EU,11
+226124731-1,DE,,,,,Apt Locker Pro,Location,Survey,015205558-4,Failure,4/22/24,4/27/24,,Survey,Brendamour,EU,
+465215313-9,AU,,,,,Locker,Location Locker/Counter NA,Install,388229837-5,Scheduled,2/13/24,2/16/24,,Install,Redbox,APAC,
+718111925-7,MX,,,,,Apt Locker,Dobby NA,Compliance,268032959-7,Cancelled,2/3/24,2/5/24,,Permit,Redbox,USA,
+230735857-9,US,,,,,Locker,Location Locker/Counter NA,Survey,672014143-0,Complete,4/22/24,4/27/24,5/9/24,Survey,NSA,USA,17
+930094946-2,MX,,,,,Apt Locker,Dobby NA,Survey,608017873-7,New,1/18/24,,,Survey,Redbox,USA,
+844639020-5,PT,,,,,Locker,Location Locker/Counter,,280018329-2,Scheduled,1/2/24,1/6/24,,Advertising,Redbox,EU,
+529837882-X,ES,,,,,Apt Locker,Dobby NA,Install,481414756-2,Scheduled,3/30/24,4/3/24,,Install,NSA,EU,
+251301190-2,FR,,,,,Locker,Location Locker/Counter NA,Compliance,916664047-4,Cancelled,3/9/24,3/14/24,,Permit,Brendamour,EU,
+876700635-3,JP,,,,,Apt Locker,Dobby,Compliance,723653906-6,Fulfilled,1/2/24,1/7/24,1/25/24,Permit,Brendamour,APAC,23
+231816946-2,FR,,45341,45341,,Locker,Location Locker/Counter,Closed,563145394-0,Complete,1/4/24,1/8/24,2/19/24,Install,Brendamour,EU,46
+903202371-3,US,,,,,Locker,Location Locker/Counter,Survey,036185127-8,Failure,1/19/24,1/23/24,,Survey,Redbox,USA,
+320363184-9,IT,,,,,Apt Locker,Dobby NA,,788440869-4,Fulfilled,5/3/24,5/8/24,5/21/24,Advertising,NSA,EU,18
+665350793-9,AT,,,,,Apt Locker,Dobby NA,,669683957-7,New,1/23/24,,,Decommission,NSA,EU,
+633837233-X,CA,,,,,Apt Locker,Dobby NA,,941210355-7,Failure,3/27/24,3/30/24,,Decommission,NSA,USA,
+459771118-X,JP,,,,,Apt Locker,Dobby,,128657309-2,Failure,5/29/24,6/2/24,,Removal,NSA,APAC,
+668838187-7,US,,45374,45374,,Locker,Location Locker/Counter,Closed,872139651-5,Fulfilled,2/23/24,2/26/24,3/23/24,Install,Redbox,USA,29
+057750862-8,AU,,45406,45406,45406,Locker,Location Locker/Counter NA,Closed,863578006-X,Complete,4/7/24,4/12/24,4/24/24,Decommission,NSA,APAC,17
+638717692-1,AT,,45456,45456,45456,Apt Locker,Dobby,Closed,979891750-2,Fulfilled,5/31/24,6/1/24,6/13/24,Decommission,NSA,EU,13
+606374261-1,AU,,,,,Locker,Location Locker/Counter,,823629921-X,Failure,3/18/24,3/20/24,,Advertising,Brendamour,APAC,
+790535429-6,AT,,,,,Apt Locker Pro,Location,Compliance,021156058-8,Cancelled,4/30/24,5/4/24,,Permit,Redbox,EU,
+653725082-X,FR,,,,,Apt Locker,Dobby NA,,168900086-4,Cancelled,4/19/24,4/24/24,,Removal,Brendamour,EU,
+520334235-0,MX,,,,,Apt Locker Pro,Location,Survey,059007433-4,Cancelled,1/7/24,1/8/24,,Survey,Brendamour,USA,
+783398185-0,JP,,,,,Locker,Location Locker/Counter NA,,074427762-0,Scheduled,2/2/24,2/3/24,,Advertising,Redbox,APAC,
+591067261-4,US,,,,,Apt Locker Pro,Location,Compliance,850614410-8,Failure,4/28/24,4/29/24,,Permit,NSA,USA,
+972888548-2,DE,,,,,Locker,Location Locker/Counter,,887945196-0,Scheduled,3/19/24,3/20/24,,Decommission,Redbox,EU,
+561008651-5,US,,,,,Apt Locker,Dobby,Survey,238510603-5,Failure,4/25/24,4/29/24,,Survey,Redbox,USA,
+356156730-4,US,,45474,45474,,Apt Locker Pro,Location,Closed,073387397-9,Complete,6/1/24,6/5/24,7/1/24,Install,Redbox,USA,30
+480254372-7,CA,,,,,Locker,Location Locker/Counter NA,Survey,099824325-6,Fulfilled,2/9/24,2/10/24,2/25/24,Survey,NSA,USA,16
+244820738-0,DE,,,,,Apt Locker,Dobby NA,,076557562-0,New,2/20/24,,,Removal,NSA,EU,
+612232201-6,JP,,,,,Locker,Location Locker/Counter NA,Install,664495792-7,Failure,2/7/24,2/10/24,,Install,Brendamour,APAC,
+555374746-5,AU,,,,,Apt Locker,Dobby NA,,308530619-6,Scheduled,3/1/24,3/2/24,,Decommission,Brendamour,APAC,
+910303395-3,ES,,,,,Apt Locker,Dobby NA,Survey,070716143-6,Complete,3/20/24,3/24/24,3/27/24,Survey,NSA,EU,7
+106139526-X,CA,,,,,Apt Locker,Dobby NA,,076882652-7,Fulfilled,4/19/24,4/21/24,4/26/24,Advertising,Brendamour,USA,7
+440286629-4,MX,,45422,45422,45422,Locker,Location Locker/Counter,Closed,072130346-3,Complete,4/25/24,4/26/24,5/10/24,Decommission,Redbox,USA,15
+980323855-8,JP,,,,,Locker,Location Locker/Counter NA,,964912121-8,Cancelled,4/21/24,4/24/24,,Decommission,NSA,APAC,
+305966769-1,US,,,,,Apt Locker,Dobby NA,Compliance,909751575-0,Cancelled,1/30/24,2/3/24,,Permit,NSA,USA,
+665812483-3,DE,,,,,Apt Locker,Dobby,Compliance,043992834-6,New,2/8/24,,,Permit,Redbox,EU,
+419181165-7,AT,,45388,45388,45388,Locker,Location Locker/Counter,Closed,980731267-1,Complete,3/23/24,3/28/24,4/6/24,Removal,Redbox,EU,14
+903015622-8,FR,,,,,Apt Locker Pro,Location,Survey,581836923-4,New,3/15/24,,,Survey,NSA,EU,
+211215184-3,US,,,,,Locker,Location Locker/Counter NA,Survey,208260148-X,Scheduled,5/14/24,5/19/24,,Survey,Redbox,USA,
+406707484-0,MX,,,,,Apt Locker,Dobby,,386350191-8,Complete,2/22/24,2/24/24,3/10/24,Advertising,Brendamour,USA,17
+153430727-3,MX,,,,,Apt Locker,Dobby NA,Survey,549163411-5,New,5/31/24,,,Survey,Brendamour,USA,
+764629548-5,CA,,,,,Apt Locker Pro,Location,,727669993-5,Scheduled,2/5/24,2/6/24,,Advertising,Brendamour,USA,
+568851608-9,AU,,,,,Apt Locker Pro,Location,,840745365-X,New,2/22/24,,,Decommission,Redbox,APAC,
+528573763-X,MX,,45312,45312,45312,Apt Locker Pro,Location,Closed,310987186-6,Complete,1/13/24,1/17/24,1/21/24,Decommission,NSA,USA,8
+853642128-2,AT,,,,,Apt Locker,Dobby,Install,413503780-1,Cancelled,3/27/24,4/1/24,,Install,NSA,EU,
+209813823-7,JP,,45452,45452,45452,Locker,Location Locker/Counter,Closed,505761572-6,Fulfilled,5/24/24,5/28/24,6/9/24,Removal,NSA,APAC,16
+808213682-0,CA,,,,,Locker,Location Locker/Counter,,532440111-0,Complete,4/20/24,4/25/24,4/28/24,Advertising,NSA,USA,8
+349898015-7,IT,,,,,Locker,Location Locker/Counter NA,Compliance,407502544-6,Scheduled,2/13/24,2/14/24,,Permit,NSA,EU,
+706560929-4,DE,,,,,Locker,Location Locker/Counter NA,Survey,252761207-5,Cancelled,3/18/24,3/21/24,,Survey,Brendamour,EU,
+540543636-4,AU,,,,,Apt Locker,Dobby,,657124315-6,New,3/10/24,,,Removal,Brendamour,APAC,
+664104943-4,PT,,,,,Locker,Location Locker/Counter NA,Install,941962288-6,New,5/19/24,,,Install,Redbox,EU,
+150574674-4,JP,,,,,Locker,Location Locker/Counter,Compliance,049901565-7,Fulfilled,1/5/24,1/10/24,1/21/24,Permit,Redbox,APAC,16
+516971266-9,JP,,,,,Apt Locker,Dobby,Survey,233867966-0,Cancelled,4/12/24,4/13/24,,Survey,Brendamour,APAC,
+704455713-9,AU,,,,,Locker,Location Locker/Counter NA,,216901409-8,New,4/30/24,,,Advertising,Brendamour,APAC,
+262073860-1,AT,,,,,Locker,Location Locker/Counter,,469632105-3,Failure,3/9/24,3/11/24,,Removal,NSA,EU,
+562137906-3,AT,,,,,Locker,Location Locker/Counter NA,,023540837-9,New,2/5/24,,,Removal,Brendamour,EU,
+741526805-9,AU,,,,,Locker,Location Locker/Counter,Compliance,987319344-8,Scheduled,12/31/23,1/2/24,,Permit,Redbox,APAC,
+977642981-5,IT,,45391,45391,45391,Locker,Location Locker/Counter NA,Closed,455630998-0,Complete,3/28/24,4/2/24,4/9/24,Decommission,Brendamour,EU,12
+146863770-3,MX,,,,,Apt Locker,Dobby NA,,314024669-2,Cancelled,5/24/24,5/27/24,,Removal,Brendamour,USA,
+768033162-6,IT,,,,,Locker,Location Locker/Counter,,985796512-1,Failure,5/9/24,5/13/24,,Advertising,Redbox,EU,
+238722640-2,FR,,,,,Locker,Location Locker/Counter,,942639089-8,New,1/5/24,,,Advertising,NSA,EU,
+190394028-1,FR,,,,,Locker,Location Locker/Counter NA,,687645781-8,Scheduled,2/8/24,2/11/24,,Advertising,Brendamour,EU,
+219455352-5,ES,,,,,Locker,Location Locker/Counter,Install,511519385-X,Cancelled,3/18/24,3/21/24,,Install,NSA,EU,
+697417120-X,JP,,,,,Apt Locker,Dobby NA,Install,796670243-X,Scheduled,2/24/24,2/26/24,,Install,Redbox,APAC,
+347184018-4,IT,,,,,Locker,Location Locker/Counter NA,Install,261944588-4,New,3/31/24,,,Install,NSA,EU,
+006104938-7,PT,,,,,Apt Locker Pro,Location,Compliance,578473650-7,Cancelled,5/5/24,5/6/24,,Permit,Redbox,EU,
+387752126-6,AT,,45429,45429,,Apt Locker Pro,Location,Closed,941814510-3,Complete,4/27/24,4/28/24,5/17/24,Install,NSA,EU,20
+697610847-5,IT,,,,,Apt Locker,Dobby NA,,746440183-2,Cancelled,5/1/24,5/2/24,,Advertising,NSA,EU,
+457331852-6,US,,,,,Apt Locker,Dobby,Install,349962689-6,Scheduled,3/31/24,4/5/24,,Install,NSA,USA,
+687995777-3,AT,,,,,Apt Locker Pro,Location,Install,514255066-8,New,2/5/24,,,Install,Brendamour,EU,
+197584884-5,JP,,,,,Apt Locker,Dobby NA,Survey,936264891-1,Failure,3/8/24,3/9/24,,Survey,Redbox,APAC,
+056693982-7,IT,,,,,Apt Locker Pro,Location,Survey,742926729-7,Complete,1/22/24,1/24/24,2/11/24,Survey,Brendamour,EU,20
+367982808-X,US,,,,,Apt Locker,Dobby NA,,410193078-3,New,5/9/24,,,Removal,Redbox,USA,
+025803374-6,DE,,,,,Apt Locker,Dobby,,249631764-6,Complete,1/28/24,2/2/24,2/9/24,Advertising,Brendamour,EU,12
+344067126-7,DE,,,,,Apt Locker,Dobby,,940979409-9,Scheduled,2/15/24,2/20/24,,Decommission,NSA,EU,
+767616373-0,AU,,,,,Apt Locker Pro,Location,,377357803-2,New,3/26/24,,,Removal,NSA,APAC,
+172091902-X,FR,,,,,Locker,Location Locker/Counter,Compliance,861005480-2,Failure,1/17/24,1/19/24,,Permit,NSA,EU,
+196243938-0,CA,,,,,Locker,Location Locker/Counter NA,Survey,214030354-7,Scheduled,1/27/24,1/29/24,,Survey,Redbox,USA,
+358905979-6,JP,,,,,Locker,Location Locker/Counter NA,,828982891-8,Fulfilled,1/17/24,1/22/24,1/30/24,Advertising,Redbox,APAC,13
+455456059-7,MX,,,,,Locker,Location Locker/Counter NA,Survey,607127187-8,Complete,4/19/24,4/24/24,5/6/24,Survey,Brendamour,USA,17
+783300140-6,ES,,,,,Locker,Location Locker/Counter NA,,773711983-3,Cancelled,1/26/24,1/30/24,,Decommission,Redbox,EU,
+604523900-8,ES,,,,,Locker,Location Locker/Counter,Install,167391725-9,Scheduled,5/11/24,5/16/24,,Install,NSA,EU,
+782109052-2,MX,,45371,45371,,Locker,Location Locker/Counter NA,Closed,423059581-6,Complete,3/2/24,3/7/24,3/20/24,Install,Redbox,USA,18
+349482551-3,AU,,,,,Apt Locker,Dobby NA,Install,833139368-6,New,4/15/24,,,Install,Brendamour,APAC,
+168400219-2,IT,,,,,Apt Locker Pro,Location,Compliance,111787537-7,Failure,2/2/24,2/6/24,,Permit,Redbox,EU,
+197622832-8,DE,,45389,45389,45389,Apt Locker,Dobby,Closed,064483118-9,Complete,3/23/24,3/26/24,4/7/24,Removal,Brendamour,EU,15

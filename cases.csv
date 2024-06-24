@@ -1,0 +1,981 @@
+id,region,type,status,create_date,fulfilled_date,cycle_time
+53489-369,North America,Survey,Canceled,6/17/24,,
+65517-2017,EU,Survey,Failed,3/14/24,,
+57664-003,EU,Decomm,New,2/4/24,,
+36987-1984,North America,Survey,Failed,3/20/24,,
+49348-971,North America,Survey,Fulfilled,5/12/24,6/5/24,24
+62750-052,EU,Decomm,Fulfilled,3/12/24,3/22/24,10
+0093-0088,North America,Survey,New,3/7/24,,
+49349-598,North America,Decomm,New,4/11/24,,
+64205-225,North America,Install,Fulfilled,11/28/23,12/8/23,10
+0113-0578,EU,Removal,Fulfilled,4/23/24,5/4/24,11
+68151-1712,EU,Survey,New,3/9/24,,
+59973-002,North America,Survey,New,2/17/24,,
+43063-127,North America,Decomm,Fulfilled,4/23/24,5/14/24,21
+43063-047,EU,Survey,Fulfilled,1/24/24,2/13/24,20
+45963-811,North America,Install,Canceled,2/6/24,,
+59050-444,North America,Decomm,Fulfilled,5/11/24,5/26/24,15
+58394-001,North America,Survey,Canceled,2/12/24,,
+63739-415,EU,Decomm,Fulfilled,4/24/24,5/24/24,30
+55154-0908,EU,Survey,Fulfilled,12/15/23,1/7/24,23
+62011-0102,EU,Decomm,Fulfilled,1/29/24,2/14/24,16
+0067-6290,EU,Install,Fulfilled,5/1/24,6/4/24,34
+59900-117,North America,Survey,Failed,2/16/24,,
+43063-219,North America,Removal,Canceled,4/23/24,,
+60512-8020,EU,Survey,New,3/15/24,,
+55379-404,North America,Install,New,4/19/24,,
+67046-164,North America,Removal,Fulfilled,2/20/24,3/2/24,11
+52389-198,North America,Install,Failed,12/28/23,,
+24286-1523,EU,Decomm,Canceled,11/26/23,,
+53329-069,EU,Install,Fulfilled,10/16/23,10/29/23,13
+64942-1164,North America,Decomm,Fulfilled,2/1/24,2/27/24,26
+0409-6177,North America,Removal,Fulfilled,12/10/23,1/5/24,26
+0310-0401,EU,Survey,Canceled,1/30/24,,
+64778-0393,North America,Install,Canceled,4/20/24,,
+55301-623,North America,Decomm,Canceled,5/17/24,,
+0597-0047,North America,Removal,Failed,12/20/23,,
+49288-0590,EU,Removal,Failed,12/15/23,,
+13811-640,EU,Survey,Canceled,12/9/23,,
+47593-458,North America,Removal,Failed,12/26/23,,
+76174-140,North America,Install,Canceled,6/15/24,,
+55154-4784,EU,Decomm,Failed,3/19/24,,
+12121-006,North America,Decomm,Fulfilled,12/17/23,1/16/24,30
+76237-107,North America,Decomm,New,4/5/24,,
+62839-0289,North America,Removal,Fulfilled,2/22/24,3/23/24,30
+0187-1366,EU,Survey,Fulfilled,12/12/23,12/29/23,17
+0168-0434,EU,Survey,Canceled,11/4/23,,
+68382-143,EU,Survey,Fulfilled,10/17/23,11/15/23,29
+33992-0375,EU,Survey,Fulfilled,3/11/24,3/19/24,8
+61727-310,North America,Survey,New,6/19/24,,
+0093-6108,North America,Decomm,Fulfilled,10/24/23,11/27/23,34
+54973-6020,EU,Survey,Fulfilled,4/29/24,5/23/24,24
+0781-5234,North America,Removal,New,2/20/24,,
+55154-5867,North America,Install,Failed,10/5/23,,
+51079-151,North America,Removal,New,2/1/24,,
+61811-0001,North America,Install,New,1/4/24,,
+52544-966,North America,Survey,Canceled,12/11/23,,
+11410-610,EU,Decomm,Fulfilled,6/1/24,6/13/24,12
+0406-8390,EU,Install,Failed,6/11/24,,
+64117-236,North America,Survey,Canceled,12/20/23,,
+0173-0859,North America,Removal,Fulfilled,2/26/24,3/4/24,7
+49035-368,EU,Removal,Canceled,12/6/23,,
+52125-172,North America,Install,Failed,1/26/24,,
+57520-0888,North America,Install,Fulfilled,2/22/24,3/15/24,22
+68472-117,North America,Install,Canceled,4/15/24,,
+66715-9730,EU,Removal,Fulfilled,2/27/24,3/18/24,20
+54092-189,EU,Removal,New,5/6/24,,
+52533-042,EU,Removal,Canceled,11/3/23,,
+68428-741,EU,Install,Canceled,12/25/23,,
+54458-909,North America,Survey,Failed,5/12/24,,
+0944-2963,North America,Removal,Failed,3/9/24,,
+67345-6084,EU,Removal,Fulfilled,5/1/24,5/27/24,26
+49349-830,North America,Install,New,3/2/24,,
+0440-7805,North America,Survey,Fulfilled,5/17/24,5/28/24,11
+54505-329,North America,Removal,Fulfilled,1/18/24,2/7/24,20
+36987-1422,EU,Decomm,Fulfilled,10/16/23,11/9/23,24
+42291-252,North America,Survey,Fulfilled,5/28/24,6/19/24,22
+43479-109,North America,Removal,New,12/27/23,,
+50114-5360,EU,Removal,New,5/24/24,,
+52568-006,North America,Survey,New,4/17/24,,
+43353-131,North America,Decomm,New,12/31/23,,
+55154-4350,North America,Removal,Canceled,1/22/24,,
+65643-165,EU,Removal,Failed,2/11/24,,
+51141-0239,EU,Decomm,Fulfilled,5/19/24,6/18/24,30
+59260-035,EU,Install,Failed,5/22/24,,
+0228-2143,EU,Survey,New,4/21/24,,
+49999-291,North America,Survey,New,4/24/24,,
+52125-180,North America,Survey,Failed,3/1/24,,
+55111-311,EU,Removal,Fulfilled,5/19/24,6/22/24,34
+67544-306,North America,Survey,Fulfilled,1/5/24,2/9/24,35
+68084-229,North America,Removal,Canceled,10/1/23,,
+0904-6110,North America,Removal,Fulfilled,2/8/24,2/25/24,17
+10157-9883,North America,Removal,New,4/4/24,,
+76125-783,North America,Install,Fulfilled,12/29/23,2/1/24,34
+75936-122,EU,Survey,New,5/26/24,,
+52125-776,EU,Decomm,Canceled,3/2/24,,
+37000-211,North America,Install,Canceled,3/12/24,,
+62011-0158,North America,Survey,Canceled,11/25/23,,
+0998-0615,North America,Install,Canceled,3/19/24,,
+54868-5728,EU,Removal,Fulfilled,2/15/24,2/24/24,9
+54868-5401,EU,Survey,New,1/31/24,,
+49349-782,EU,Install,Fulfilled,11/6/23,11/19/23,13
+58232-0019,EU,Survey,Canceled,4/19/24,,
+68016-142,North America,Decomm,Canceled,12/22/23,,
+59039-004,North America,Decomm,New,2/17/24,,
+59923-601,EU,Removal,Canceled,2/8/24,,
+54218-500,North America,Install,New,5/16/24,,
+60949-120,North America,Decomm,Fulfilled,11/29/23,12/12/23,13
+0472-1629,North America,Decomm,Fulfilled,5/5/24,6/8/24,34
+50730-8308,North America,Removal,New,4/26/24,,
+49281-489,EU,Removal,Canceled,4/7/24,,
+0407-1412,EU,Removal,Canceled,6/17/24,,
+57287-100,North America,Decomm,Failed,6/14/24,,
+75847-1501,North America,Removal,Canceled,4/7/24,,
+67996-938,North America,Survey,New,11/17/23,,
+42254-110,EU,Removal,New,6/6/24,,
+60916-001,EU,Install,New,6/7/24,,
+46994-335,EU,Removal,Fulfilled,11/12/23,12/11/23,29
+54868-6378,EU,Decomm,Fulfilled,5/5/24,5/17/24,12
+24385-105,North America,Survey,Canceled,6/8/24,,
+17856-1161,North America,Survey,New,5/12/24,,
+64092-204,EU,Removal,Failed,2/4/24,,
+68788-9074,North America,Install,New,4/9/24,,
+49884-822,North America,Install,Fulfilled,10/1/23,10/20/23,19
+55154-6270,North America,Removal,Failed,10/28/23,,
+0597-0081,North America,Removal,Failed,2/27/24,,
+11822-0440,EU,Decomm,Fulfilled,6/14/24,7/16/24,32
+0179-0140,EU,Removal,Failed,10/5/23,,
+42507-247,North America,Decomm,Failed,2/13/24,,
+43269-751,North America,Survey,Fulfilled,6/1/24,6/17/24,16
+68745-2002,EU,Survey,Failed,1/12/24,,
+50804-804,North America,Install,New,5/23/24,,
+0185-0157,North America,Survey,Canceled,12/30/23,,
+64117-185,EU,Install,New,6/4/24,,
+53746-111,EU,Decomm,Canceled,2/25/24,,
+0338-0551,EU,Removal,Canceled,10/3/23,,
+57955-8325,EU,Install,Fulfilled,3/16/24,3/22/24,6
+49349-478,North America,Decomm,Canceled,1/5/24,,
+46672-166,North America,Removal,Fulfilled,12/30/23,1/31/24,32
+65841-666,EU,Removal,Fulfilled,12/26/23,1/19/24,24
+49349-283,North America,Install,Failed,10/26/23,,
+66915-612,North America,Decomm,Failed,3/9/24,,
+52232-100,North America,Install,New,5/20/24,,
+42023-146,North America,Install,New,12/13/23,,
+37808-950,EU,Survey,Canceled,1/28/24,,
+63941-053,EU,Survey,Failed,3/27/24,,
+68084-763,North America,Removal,Canceled,1/11/24,,
+50458-398,North America,Install,Fulfilled,10/18/23,11/18/23,31
+49999-338,North America,Install,Canceled,1/27/24,,
+42291-342,EU,Survey,New,12/21/23,,
+60429-330,EU,Decomm,New,12/1/23,,
+0093-4125,EU,Install,New,11/30/23,,
+0093-7336,EU,Survey,Fulfilled,12/26/23,1/16/24,21
+49884-270,North America,Survey,New,11/24/23,,
+58118-0180,North America,Decomm,New,3/20/24,,
+0363-0610,EU,Install,Fulfilled,4/5/24,5/10/24,35
+49614-412,North America,Decomm,New,5/12/24,,
+11822-0527,North America,Removal,Canceled,2/11/24,,
+52584-902,North America,Survey,New,11/22/23,,
+64720-187,North America,Survey,Failed,6/17/24,,
+55154-0535,EU,Decomm,Fulfilled,5/18/24,6/6/24,19
+60429-188,EU,Survey,New,11/5/23,,
+62211-219,North America,Decomm,Canceled,3/4/24,,
+49288-0456,North America,Decomm,Failed,5/29/24,,
+64778-1371,EU,Install,Failed,6/10/24,,
+0409-0181,North America,Decomm,New,3/13/24,,
+63629-4331,EU,Survey,Failed,6/9/24,,
+0054-0543,North America,Removal,Failed,2/15/24,,
+17856-0067,North America,Install,New,1/20/24,,
+0268-1412,North America,Removal,Canceled,1/4/24,,
+45865-364,North America,Install,Canceled,2/6/24,,
+59779-863,North America,Survey,New,12/28/23,,
+61715-071,EU,Survey,Failed,12/8/23,,
+53305-075,EU,Survey,Fulfilled,11/29/23,12/17/23,18
+65044-2482,North America,Removal,Canceled,12/24/23,,
+67046-585,North America,Removal,Canceled,11/27/23,,
+49738-695,North America,Decomm,Canceled,5/18/24,,
+24236-845,EU,Removal,New,4/26/24,,
+0469-0657,EU,Decomm,Fulfilled,3/20/24,4/3/24,14
+13668-079,EU,Install,Canceled,10/20/23,,
+44924-117,EU,Survey,Fulfilled,2/1/24,2/27/24,26
+0179-0039,North America,Removal,Canceled,4/6/24,,
+0007-3236,EU,Decomm,Failed,3/28/24,,
+16729-154,North America,Decomm,Canceled,3/3/24,,
+68788-9164,EU,Removal,Fulfilled,1/1/24,1/20/24,19
+50458-602,North America,Removal,Failed,11/19/23,,
+36987-1325,North America,Removal,New,4/29/24,,
+68828-124,North America,Decomm,Canceled,11/9/23,,
+37000-754,North America,Decomm,Canceled,5/2/24,,
+64980-504,North America,Survey,New,2/6/24,,
+50201-0246,EU,Decomm,Canceled,6/8/24,,
+57913-2900,EU,Survey,New,10/28/23,,
+36987-2343,North America,Install,New,4/7/24,,
+65862-405,North America,Removal,Canceled,6/12/24,,
+62839-0808,North America,Install,Canceled,1/15/24,,
+0268-1214,EU,Removal,New,10/12/23,,
+43742-0469,EU,Install,Fulfilled,4/5/24,4/15/24,10
+31722-713,EU,Decomm,Fulfilled,12/23/23,1/17/24,25
+50458-535,North America,Decomm,Failed,2/10/24,,
+59970-174,EU,Decomm,Failed,6/5/24,,
+59779-888,EU,Install,Failed,4/28/24,,
+42508-165,North America,Install,Fulfilled,12/1/23,12/12/23,11
+46672-092,North America,Decomm,Fulfilled,5/17/24,5/26/24,9
+52584-017,EU,Survey,Fulfilled,3/2/24,3/12/24,10
+0115-2622,North America,Decomm,Fulfilled,11/1/23,11/26/23,25
+0006-0757,North America,Survey,Fulfilled,2/15/24,3/2/24,16
+55714-2279,North America,Survey,Canceled,5/25/24,,
+0009-0050,EU,Survey,Failed,2/25/24,,
+51143-069,EU,Survey,New,2/14/24,,
+75936-115,North America,Removal,Failed,3/17/24,,
+35356-051,North America,Survey,Failed,10/7/23,,
+63940-803,EU,Survey,New,1/30/24,,
+62584-683,North America,Survey,Failed,1/10/24,,
+49349-236,North America,Install,Failed,12/17/23,,
+55154-1586,North America,Install,Failed,1/16/24,,
+52125-507,EU,Survey,Fulfilled,2/14/24,3/9/24,24
+55154-5367,EU,Decomm,New,3/10/24,,
+24909-147,EU,Survey,Fulfilled,3/15/24,3/23/24,8
+0078-0597,EU,Decomm,New,4/17/24,,
+62756-017,North America,Install,Failed,3/24/24,,
+22557-001,North America,Removal,Canceled,6/20/24,,
+32909-121,EU,Decomm,Failed,12/24/23,,
+50051-0018,North America,Install,Failed,12/31/23,,
+0268-0926,North America,Survey,Canceled,3/23/24,,
+59854-301,North America,Survey,Canceled,11/26/23,,
+58503-043,EU,Survey,Canceled,10/6/23,,
+55154-5390,EU,Decomm,Fulfilled,12/31/23,2/3/24,34
+60927-115,North America,Install,Canceled,3/16/24,,
+55154-4609,North America,Decomm,New,1/7/24,,
+49999-130,EU,Removal,Canceled,3/24/24,,
+52725-495,North America,Decomm,New,1/5/24,,
+52125-307,North America,Survey,New,4/13/24,,
+49349-477,North America,Install,New,5/7/24,,
+68084-630,EU,Decomm,New,12/1/23,,
+60505-3131,EU,Survey,Fulfilled,1/10/24,1/24/24,14
+68428-729,North America,Decomm,Fulfilled,12/12/23,12/17/23,5
+0049-4960,North America,Removal,New,5/13/24,,
+50730-4301,EU,Removal,New,3/2/24,,
+61601-1120,North America,Removal,Fulfilled,5/13/24,5/22/24,9
+57520-0922,North America,Removal,Failed,5/2/24,,
+55289-410,North America,Removal,Failed,2/10/24,,
+51417-0001,EU,Survey,New,2/19/24,,
+21695-844,EU,Install,Fulfilled,5/20/24,6/19/24,30
+66715-9843,EU,Removal,Canceled,12/19/23,,
+17156-610,EU,Survey,New,6/12/24,,
+17089-346,North America,Install,Canceled,4/28/24,,
+62756-538,North America,Install,New,6/3/24,,
+36987-2167,EU,Install,Canceled,11/22/23,,
+0268-6609,North America,Removal,Canceled,5/21/24,,
+51079-454,North America,Decomm,New,3/8/24,,
+63629-3367,North America,Survey,New,11/22/23,,
+10544-106,North America,Survey,Canceled,6/7/24,,
+66472-037,North America,Survey,Fulfilled,3/23/24,4/26/24,34
+0228-2167,EU,Survey,Fulfilled,5/21/24,6/14/24,24
+0069-0153,EU,Decomm,Fulfilled,3/30/24,4/5/24,6
+43553-4134,North America,Install,Failed,10/13/23,,
+62171-050,North America,Decomm,New,4/10/24,,
+51346-080,EU,Removal,Fulfilled,6/8/24,6/21/24,13
+0113-0381,North America,Decomm,Canceled,1/2/24,,
+0007-4892,North America,Install,Failed,4/17/24,,
+0363-0685,North America,Decomm,Canceled,3/27/24,,
+68645-272,EU,Install,New,2/13/24,,
+57520-0511,EU,Decomm,Canceled,3/24/24,,
+68169-0049,EU,Removal,New,1/18/24,,
+0268-1527,EU,Removal,Failed,12/23/23,,
+37205-387,North America,Decomm,Canceled,11/7/23,,
+41190-069,North America,Decomm,Canceled,5/9/24,,
+65044-2860,EU,Decomm,Canceled,12/23/23,,
+0574-0118,North America,Decomm,Canceled,11/19/23,,
+67777-215,North America,Decomm,Failed,1/17/24,,
+59779-241,North America,Decomm,Failed,5/21/24,,
+13548-132,EU,Decomm,Failed,1/25/24,,
+30142-479,North America,Removal,Fulfilled,11/13/23,11/21/23,8
+54879-005,North America,Install,New,2/17/24,,
+49348-917,EU,Decomm,Failed,11/9/23,,
+43269-890,North America,Removal,Failed,3/29/24,,
+55037-301,North America,Removal,Failed,3/24/24,,
+63187-095,North America,Removal,Fulfilled,11/26/23,12/7/23,11
+68634-0029,EU,Removal,Fulfilled,1/5/24,2/6/24,32
+42507-886,EU,Removal,Canceled,3/7/24,,
+36987-2601,EU,Removal,Fulfilled,3/26/24,4/13/24,18
+53499-7171,EU,Removal,Canceled,3/14/24,,
+50382-051,North America,Install,Canceled,4/25/24,,
+37000-735,North America,Removal,Fulfilled,3/29/24,4/24/24,26
+63739-577,EU,Decomm,Failed,3/8/24,,
+0548-1140,North America,Survey,Failed,2/6/24,,
+16714-697,North America,Removal,Fulfilled,3/30/24,4/30/24,31
+24208-385,North America,Decomm,Failed,11/4/23,,
+54868-4842,North America,Removal,New,1/13/24,,
+0363-9200,North America,Decomm,Canceled,2/1/24,,
+50474-700,EU,Removal,New,11/29/23,,
+43386-620,EU,Removal,Canceled,1/2/24,,
+65162-193,North America,Install,Failed,11/10/23,,
+55118-540,North America,Removal,Fulfilled,1/9/24,2/13/24,35
+68745-2003,North America,Install,Fulfilled,5/25/24,6/11/24,17
+55648-925,EU,Removal,New,10/9/23,,
+54569-1115,EU,Survey,New,5/24/24,,
+64896-692,EU,Decomm,Canceled,5/28/24,,
+36987-2432,EU,Removal,Fulfilled,4/22/24,5/25/24,33
+43742-0492,North America,Removal,Canceled,10/2/23,,
+64720-140,North America,Survey,Fulfilled,3/2/24,3/11/24,9
+63323-010,EU,Decomm,Canceled,4/15/24,,
+37205-822,North America,Removal,Failed,5/28/24,,
+41163-544,North America,Survey,Canceled,3/15/24,,
+0093-1024,North America,Removal,New,6/6/24,,
+11822-0650,North America,Decomm,Fulfilled,4/28/24,5/29/24,31
+49288-0228,EU,Removal,Canceled,2/18/24,,
+42865-100,EU,Install,Fulfilled,1/6/24,1/13/24,7
+15821-101,North America,Removal,Failed,12/3/23,,
+37808-186,North America,Removal,Failed,3/14/24,,
+59746-172,North America,Survey,New,3/19/24,,
+76119-5309,EU,Decomm,Canceled,10/16/23,,
+67979-002,EU,Decomm,Canceled,11/26/23,,
+11673-461,EU,Install,Failed,12/7/23,,
+52959-539,EU,Decomm,Canceled,2/10/24,,
+41250-015,North America,Decomm,Canceled,12/24/23,,
+64942-1154,North America,Install,Failed,2/3/24,,
+41442-110,EU,Install,Failed,5/25/24,,
+64893-440,North America,Survey,Canceled,1/28/24,,
+59535-6701,North America,Survey,Canceled,2/13/24,,
+60846-806,North America,Removal,Fulfilled,1/24/24,2/16/24,23
+52125-517,North America,Decomm,Canceled,5/11/24,,
+60681-0802,EU,Install,New,5/20/24,,
+13537-024,EU,Decomm,New,4/8/24,,
+0228-2899,North America,Removal,New,1/9/24,,
+52584-215,North America,Decomm,Fulfilled,5/3/24,5/29/24,26
+98132-734,EU,Survey,Failed,11/22/23,,
+57893-303,North America,Survey,Fulfilled,4/4/24,5/3/24,29
+43066-360,North America,Removal,Canceled,11/2/23,,
+11822-4803,EU,Install,Fulfilled,5/21/24,6/5/24,15
+64725-0750,EU,Decomm,New,3/21/24,,
+66993-077,EU,Removal,Failed,10/23/23,,
+49348-361,EU,Survey,Fulfilled,10/5/23,11/2/23,28
+50436-6357,North America,Install,Canceled,10/3/23,,
+51346-015,North America,Removal,Failed,3/2/24,,
+50988-454,EU,Decomm,Fulfilled,6/4/24,6/19/24,15
+63868-951,North America,Survey,Canceled,1/3/24,,
+63010-021,North America,Decomm,Failed,3/12/24,,
+41268-105,North America,Decomm,Fulfilled,12/13/23,1/6/24,24
+0116-1061,North America,Survey,Canceled,3/31/24,,
+60760-116,EU,Removal,Fulfilled,2/9/24,3/6/24,26
+58668-6800,EU,Removal,Failed,12/10/23,,
+36987-1633,North America,Install,New,12/5/23,,
+0093-7439,North America,Survey,Canceled,1/21/24,,
+64942-1090,North America,Decomm,Canceled,5/10/24,,
+10544-158,EU,Decomm,Failed,12/14/23,,
+35356-939,EU,Removal,Failed,4/5/24,,
+58414-8723,EU,Removal,Canceled,6/7/24,,
+36987-2733,EU,Install,Failed,5/13/24,,
+47335-539,North America,Install,New,10/30/23,,
+49738-142,North America,Survey,New,5/8/24,,
+62932-146,EU,Decomm,Failed,1/22/24,,
+76332-003,North America,Survey,New,2/17/24,,
+52686-293,North America,Install,Fulfilled,3/16/24,4/11/24,26
+43063-272,North America,Removal,New,6/16/24,,
+21695-070,North America,Survey,Failed,5/11/24,,
+0409-2012,EU,Survey,Canceled,11/4/23,,
+40046-0034,EU,Survey,New,6/18/24,,
+49230-191,North America,Install,Canceled,10/21/23,,
+37000-813,North America,Survey,New,1/3/24,,
+67938-1130,EU,Survey,New,10/20/23,,
+55714-2346,North America,Removal,New,12/2/23,,
+49483-016,EU,Removal,Canceled,1/18/24,,
+41520-476,North America,Survey,Canceled,1/25/24,,
+55154-5682,North America,Survey,Fulfilled,6/16/24,7/9/24,23
+54868-5528,North America,Removal,Canceled,11/16/23,,
+65862-211,North America,Removal,Canceled,4/12/24,,
+17089-301,North America,Install,Fulfilled,3/15/24,3/22/24,7
+0173-0859,EU,Survey,New,1/21/24,,
+55289-058,EU,Install,New,11/28/23,,
+49999-797,North America,Removal,New,2/20/24,,
+43419-715,North America,Removal,Canceled,5/24/24,,
+0591-2641,North America,Decomm,Fulfilled,4/10/24,4/24/24,14
+67296-0140,EU,Decomm,Canceled,4/24/24,,
+76269-187,EU,Survey,New,3/19/24,,
+10812-340,EU,Survey,Failed,5/10/24,,
+55289-520,EU,Install,New,4/18/24,,
+45802-176,North America,Install,Canceled,5/3/24,,
+54340-813,EU,Removal,New,2/10/24,,
+41250-175,North America,Decomm,Failed,5/5/24,,
+63776-320,EU,Removal,New,4/12/24,,
+0591-0462,North America,Install,New,1/2/24,,
+34690-3001,North America,Survey,Fulfilled,5/25/24,6/25/24,31
+55312-886,North America,Decomm,New,12/4/23,,
+69184-001,North America,Decomm,New,10/14/23,,
+49693-2301,North America,Survey,Fulfilled,12/17/23,12/26/23,9
+30142-918,EU,Decomm,Fulfilled,12/18/23,1/4/24,17
+0009-0039,EU,Removal,Fulfilled,2/16/24,2/23/24,7
+11523-7374,North America,Install,Canceled,2/20/24,,
+52083-645,North America,Survey,New,2/3/24,,
+0642-0076,North America,Removal,New,3/29/24,,
+52533-157,EU,Survey,Failed,4/16/24,,
+67457-342,EU,Install,Fulfilled,12/5/23,1/2/24,28
+61578-305,EU,Removal,New,4/22/24,,
+98132-122,EU,Install,New,3/20/24,,
+42852-001,EU,Install,Canceled,1/6/24,,
+35356-806,North America,Removal,Canceled,11/1/23,,
+63981-306,North America,Removal,Failed,3/20/24,,
+49789-040,EU,Install,Fulfilled,2/3/24,3/8/24,34
+37000-699,North America,Install,Fulfilled,5/21/24,6/13/24,23
+52125-013,North America,Removal,Fulfilled,1/31/24,2/11/24,11
+49738-335,North America,Removal,Fulfilled,2/6/24,2/23/24,17
+32974 - 627,EU,Survey,Canceled,11/1/23,,
+60593 - 516,EU,Survey,Canceled,1/29/24,,
+33978 - 182,North America,Removal,Failed,4/12/24,,
+66503 - 426,North America,Survey,Canceled,10/2/23,,
+34077 - 966,EU,Survey,Fulfilled,5/24/24,6/27/24,34
+32022 - 725,North America,Survey,Canceled,3/25/24,,
+87754 - 723,North America,Decomm,Fulfilled,3/2/24,3/21/24,19
+81031 - 106,North America,Removal,Failed,3/15/24,,
+12472 - 712,EU,Removal,Fulfilled,10/27/23,11/17/23,21
+82799 - 41,EU,Survey,Failed,5/14/24,,
+68125 - 691,EU,Survey,Failed,1/2/24,,
+49856 - 479,EU,Decomm,Fulfilled,11/4/23,11/13/23,9
+30338 - 243,North America,Decomm,Failed,2/21/24,,
+16150 - 441,North America,Install,New,6/7/24,,
+38920 - 107,EU,Decomm,Fulfilled,12/10/23,12/22/23,12
+98498 - 572,North America,Install,New,4/7/24,,
+24512 - 448,North America,Install,New,12/24/23,,
+24502 - 802,North America,Decomm,Fulfilled,2/27/24,3/5/24,7
+42681 - 173,EU,Survey,Failed,3/21/24,,
+81640 - 893,EU,Install,Fulfilled,6/12/24,7/16/24,34
+30891 - 808,North America,Decomm,Canceled,10/19/23,,
+15827 - 126,North America,Removal,Canceled,5/30/24,,
+26717 - 608,EU,Survey,Failed,6/5/24,,
+42763 - 787,North America,Survey,Canceled,1/10/24,,
+53893 - 502,North America,Survey,Fulfilled,1/10/24,1/26/24,16
+22026 - 713,North America,Survey,Canceled,10/9/23,,
+15853 - 165,EU,Decomm,New,12/22/23,,
+11377 - 518,EU,Removal,Canceled,11/15/23,,
+31436 - 572,North America,Removal,Fulfilled,12/7/23,12/23/23,16
+65854 - 387,North America,Install,Failed,11/9/23,,
+66103 - 77,EU,Decomm,Fulfilled,1/7/24,2/2/24,26
+78097 - 220,North America,Survey,Failed,11/6/23,,
+16370 - 277,North America,Removal,Fulfilled,10/21/23,10/29/23,8
+10913 - 845,North America,Decomm,New,3/18/24,,
+98925 - 583,EU,Install,New,1/20/24,,
+60609 - 238,EU,Decomm,Fulfilled,5/10/24,6/3/24,24
+68282 - 931,EU,Decomm,New,6/15/24,,
+96507 - 590,EU,Survey,Failed,12/10/23,,
+28932 - 984,North America,Decomm,New,4/13/24,,
+60196 - 923,North America,Removal,Fulfilled,2/14/24,3/3/24,18
+29832 - 182,EU,Install,Canceled,2/4/24,,
+87760 - 74,North America,Install,Canceled,4/3/24,,
+69580 - 32,North America,Survey,New,2/8/24,,
+56171 - 460,North America,Install,New,2/21/24,,
+19309 - 569,North America,Survey,New,12/1/23,,
+98747 - 999,North America,Decomm,New,6/6/24,,
+96705 - 889,EU,Install,Fulfilled,4/10/24,5/4/24,24
+39504 - 596,EU,Install,Fulfilled,2/7/24,3/8/24,30
+49887 - 716,North America,Removal,Canceled,12/10/23,,
+99764 - 358,North America,Install,Canceled,1/11/24,,
+56728 - 525,EU,Install,New,10/24/23,,
+29564 - 48,North America,Removal,Canceled,12/1/23,,
+80212 - 837,North America,Survey,Canceled,2/14/24,,
+63806 - 39,North America,Removal,Failed,5/10/24,,
+60539 - 563,EU,Removal,Failed,12/11/23,,
+84463 - 850,EU,Decomm,New,2/25/24,,
+72912 - 332,EU,Decomm,Canceled,3/27/24,,
+45187 - 163,EU,Decomm,Fulfilled,5/5/24,5/10/24,5
+78301 - 488,North America,Survey,Failed,10/24/23,,
+41770 - 395,North America,Decomm,Fulfilled,2/26/24,3/18/24,21
+76022 - 858,EU,Survey,Failed,12/20/23,,
+72813 - 710,North America,Install,Failed,2/11/24,,
+19490 - 220,North America,Removal,Failed,11/5/23,,
+62648 - 665,North America,Removal,New,1/7/24,,
+83277 - 911,EU,Install,Failed,12/30/23,,
+87678 - 210,North America,Survey,New,1/11/24,,
+69976 - 844,North America,Survey,Failed,11/25/23,,
+92398 - 583,EU,Decomm,Fulfilled,5/19/24,5/29/24,10
+20049 - 28,North America,Survey,Fulfilled,12/17/23,1/14/24,28
+26876 - 46,North America,Decomm,New,1/16/24,,
+81019 - 822,North America,Survey,Canceled,3/10/24,,
+47237 - 72,EU,Survey,New,10/8/23,,
+63524 - 931,EU,Install,Failed,10/23/23,,
+52013 - 371,EU,Removal,Failed,5/1/24,,
+79459 - 596,EU,Decomm,Canceled,5/28/24,,
+54891 - 953,North America,Survey,Fulfilled,4/5/24,5/6/24,31
+62876 - 37,North America,Install,Canceled,12/9/23,,
+98410 - 810,EU,Decomm,Fulfilled,2/23/24,3/19/24,25
+63135 - 51,North America,Survey,Failed,1/29/24,,
+81083 - 631,North America,Decomm,Canceled,2/25/24,,
+74813 - 493,North America,Decomm,Canceled,4/19/24,,
+59396 - 84,North America,Install,New,6/15/24,,
+22529 - 948,North America,Decomm,Canceled,2/3/24,,
+25163 - 24,EU,Removal,Canceled,2/10/24,,
+92253 - 893,EU,Install,Failed,10/22/23,,
+78051 - 478,North America,Install,Failed,1/22/24,,
+84276 - 541,North America,Removal,Canceled,12/31/23,,
+53096 - 57,North America,Install,Canceled,4/22/24,,
+70868 - 524,EU,Decomm,Fulfilled,12/10/23,1/7/24,28
+20858 - 977,EU,Removal,New,10/9/23,,
+20443 - 381,EU,Decomm,Fulfilled,1/21/24,2/16/24,26
+70857 - 989,EU,Decomm,Canceled,4/15/24,,
+43030 - 587,North America,Survey,Fulfilled,1/16/24,1/21/24,5
+12023 - 461,North America,Survey,Canceled,4/25/24,,
+69781 - 55,EU,Removal,Failed,1/23/24,,
+95884 - 791,North America,Removal,Canceled,5/5/24,,
+70275 - 775,North America,Removal,Failed,12/28/23,,
+35945 - 894,North America,Install,Failed,1/24/24,,
+44653 - 779,North America,Removal,Fulfilled,6/10/24,7/1/24,21
+36516 - 280,EU,Removal,Failed,11/20/23,,
+62011-0102,North America,Decomm,Fulfilled,1/11/23,2/11/23,31
+0067-6290,EU,Survey,New,2/26/23,,
+59900-117,EU,Decomm,Failed,1/10/23,,
+43063-219,North America,Survey,Fulfilled,9/4/23,9/18/23,14
+60512-8020,North America,Decomm,Canceled,6/8/23,,
+55379-404,EU,Install,Failed,9/28/23,,
+67046-164,North America,Survey,Fulfilled,6/12/23,6/22/23,10
+52389-198,North America,Removal,Canceled,7/25/23,,
+24286-1523,North America,Survey,Failed,6/7/23,,
+53329-069,EU,Install,Fulfilled,3/24/23,4/15/23,22
+64942-1164,EU,Removal,Canceled,5/12/23,,
+0409-6177,North America,Install,Fulfilled,6/17/23,7/20/23,33
+0310-0401,North America,Decomm,Failed,6/22/23,,
+64778-0393,EU,Install,New,8/13/23,,
+55301-623,North America,Decomm,Canceled,3/10/23,,
+0597-0047,North America,Removal,Canceled,8/11/23,,
+49288-0590,North America,Survey,Failed,7/2/23,,
+13811-640,EU,Install,Failed,2/5/23,,
+47593-458,EU,Decomm,Canceled,6/5/23,,
+76174-140,EU,Removal,Failed,2/18/23,,
+55154-4784,EU,Removal,New,7/24/23,,
+12121-006,North America,Survey,New,9/9/23,,
+76237-107,North America,Removal,Failed,2/14/23,,
+62839-0289,EU,Install,New,1/27/23,,
+0187-1366,North America,Decomm,Fulfilled,5/7/23,5/27/23,20
+0168-0434,North America,Decomm,New,3/8/23,,
+68382-143,North America,Decomm,Failed,6/7/23,,
+33992-0375,EU,Removal,Canceled,1/27/23,,
+61727-310,EU,Survey,New,5/28/23,,
+0093-6108,North America,Survey,Canceled,5/2/23,,
+54973-6020,North America,Survey,New,1/19/23,,
+0781-5234,EU,Survey,New,3/12/23,,
+55154-5867,North America,Survey,New,8/1/23,,
+51079-151,North America,Decomm,Canceled,1/18/23,,
+61811-0001,North America,Survey,Canceled,7/20/23,,
+52544-966,EU,Removal,Fulfilled,4/10/23,5/15/23,35
+11410-610,EU,Install,Canceled,4/21/23,,
+0406-8390,North America,Removal,Canceled,3/20/23,,
+64117-236,North America,Install,Fulfilled,6/2/23,6/22/23,20
+0173-0859,EU,Survey,New,2/14/23,,
+49035-368,North America,Decomm,New,7/24/23,,
+52125-172,North America,Install,New,8/1/23,,
+57520-0888,North America,Survey,Canceled,4/17/23,,
+68472-117,EU,Removal,Fulfilled,5/22/23,6/10/23,19
+66715-9730,EU,Removal,Canceled,9/9/23,,
+54092-189,EU,Install,New,3/17/23,,
+52533-042,EU,Install,Failed,9/19/23,,
+68428-741,North America,Install,New,2/2/23,,
+54458-909,North America,Removal,Canceled,4/24/23,,
+0944-2963,EU,Removal,New,3/9/23,,
+67345-6084,North America,Removal,Failed,2/11/23,,
+49349-830,North America,Install,New,6/27/23,,
+0440-7805,North America,Survey,New,2/7/23,,
+54505-329,North America,Removal,Fulfilled,5/14/23,6/2/23,19
+36987-1422,North America,Removal,New,8/24/23,,
+42291-252,EU,Install,New,5/18/23,,
+43479-109,EU,Survey,Fulfilled,1/25/23,2/25/23,31
+50114-5360,North America,Removal,Fulfilled,3/8/23,4/7/23,30
+52568-006,North America,Decomm,Fulfilled,6/27/23,7/26/23,29
+43353-131,EU,Survey,Canceled,9/15/23,,
+55154-4350,North America,Removal,New,7/25/23,,
+65643-165,North America,Removal,New,2/13/23,,
+51141-0239,North America,Survey,Failed,8/12/23,,
+59260-035,EU,Decomm,Fulfilled,8/29/23,9/15/23,17
+0228-2143,EU,Removal,New,9/1/23,,
+49999-291,EU,Removal,New,2/27/23,,
+52125-180,EU,Decomm,Canceled,4/24/23,,
+55111-311,North America,Install,Canceled,9/13/23,,
+67544-306,North America,Survey,Failed,4/9/23,,
+68084-229,EU,Survey,Fulfilled,7/26/23,8/26/23,31
+0904-6110,North America,Survey,Fulfilled,2/3/23,3/7/23,32
+10157-9883,North America,Removal,Fulfilled,6/15/23,6/27/23,12
+76125-783,North America,Survey,Fulfilled,7/9/23,7/27/23,18
+75936-122,EU,Removal,Canceled,2/28/23,,
+52125-776,North America,Removal,Canceled,6/9/23,,
+37000-211,North America,Removal,Failed,8/2/23,,
+62011-0158,EU,Install,Canceled,3/16/23,,
+0998-0615,North America,Survey,Fulfilled,1/28/23,2/23/23,26
+54868-5728,North America,Decomm,Canceled,8/30/23,,
+54868-5401,North America,Install,Fulfilled,6/9/23,7/3/23,24
+49349-782,EU,Survey,Failed,3/9/23,,
+58232-0019,EU,Install,Fulfilled,6/13/23,6/24/23,11
+68016-142,EU,Removal,Failed,8/1/23,,
+59039-004,EU,Survey,Failed,9/1/23,,
+59923-601,North America,Install,Fulfilled,8/11/23,8/27/23,16
+54218-500,North America,Survey,Failed,3/25/23,,
+60949-120,EU,Decomm,New,8/1/23,,
+0472-1629,North America,Decomm,Fulfilled,9/28/23,10/19/23,21
+50730-8308,North America,Removal,New,8/1/23,,
+49281-489,North America,Install,New,4/10/23,,
+0407-1412,North America,Decomm,Fulfilled,2/7/23,3/13/23,34
+57287-100,North America,Decomm,Failed,2/16/23,,
+75847-1501,EU,Removal,Fulfilled,5/2/23,5/21/23,19
+67996-938,EU,Removal,Canceled,5/7/23,,
+42254-110,North America,Removal,Canceled,3/21/23,,
+60916-001,North America,Decomm,Failed,2/7/23,,
+46994-335,North America,Removal,Canceled,3/22/23,,
+54868-6378,EU,Survey,Fulfilled,7/13/23,8/6/23,24
+24385-105,EU,Removal,Canceled,1/6/23,,
+17856-1161,EU,Install,New,9/27/23,,
+64092-204,EU,Removal,Canceled,7/4/23,,
+68788-9074,North America,Decomm,Fulfilled,1/17/23,2/8/23,22
+49884-822,North America,Survey,Failed,3/18/23,,
+55154-6270,EU,Survey,Fulfilled,7/27/23,8/31/23,35
+0597-0081,North America,Removal,Failed,9/27/23,,
+11822-0440,North America,Install,Fulfilled,8/1/23,8/20/23,19
+0179-0140,North America,Install,New,2/1/23,,
+42507-247,North America,Removal,New,6/5/23,,
+43269-751,EU,Removal,Fulfilled,2/14/23,3/4/23,18
+68745-2002,EU,Decomm,New,8/17/23,,
+50804-804,North America,Removal,Failed,1/10/23,,
+0185-0157,North America,Decomm,New,1/21/23,,
+64117-185,North America,Survey,Fulfilled,9/15/23,10/5/23,20
+53746-111,EU,Survey,Canceled,3/8/23,,
+0338-0551,EU,Install,Canceled,6/23/23,,
+57955-8325,EU,Survey,New,6/5/23,,
+49349-478,EU,Install,New,2/15/23,,
+46672-166,North America,Decomm,New,4/2/23,,
+65841-666,North America,Removal,New,8/20/23,,
+49349-283,EU,Install,Fulfilled,9/2/23,9/9/23,7
+66915-612,North America,Decomm,Fulfilled,5/11/23,5/15/23,4
+52232-100,North America,Removal,Canceled,2/24/23,,
+42023-146,North America,Removal,Canceled,9/27/23,,
+37808-950,North America,Install,New,6/14/23,,
+63941-053,EU,Decomm,Canceled,2/9/23,,
+68084-763,EU,Install,Canceled,8/8/23,,
+50458-398,North America,Install,Failed,2/2/23,,
+49999-338,North America,Survey,Failed,6/7/23,,
+42291-342,EU,Survey,New,4/18/23,,
+60429-330,North America,Removal,Canceled,8/20/23,,
+0093-4125,North America,Install,Fulfilled,9/30/23,10/13/23,13
+0093-7336,EU,Install,Failed,2/20/23,,
+49884-270,EU,Survey,Fulfilled,8/21/23,9/15/23,25
+58118-0180,EU,Decomm,Failed,2/19/23,,
+0363-0610,EU,Install,Failed,1/3/23,,
+49614-412,North America,Survey,Failed,9/23/23,,
+11822-0527,North America,Survey,New,5/21/23,,
+52584-902,EU,Decomm,Failed,8/6/23,,
+64720-187,North America,Install,New,5/25/23,,
+55154-0535,North America,Decomm,Failed,3/12/23,,
+60429-188,North America,Removal,Fulfilled,9/25/23,9/29/23,4
+62211-219,North America,Survey,Fulfilled,2/10/23,3/10/23,28
+49288-0456,EU,Survey,New,1/27/23,,
+64778-1371,EU,Decomm,Canceled,3/17/23,,
+0409-0181,North America,Survey,New,3/2/23,,
+63629-4331,North America,Decomm,Failed,7/11/23,,
+0054-0543,North America,Decomm,Failed,2/16/23,,
+17856-0067,EU,Install,Canceled,3/28/23,,
+0268-1412,EU,Decomm,Fulfilled,2/14/23,3/1/23,15
+45865-364,EU,Survey,Canceled,7/11/23,,
+59779-863,EU,Removal,Fulfilled,9/8/23,10/3/23,25
+61715-071,North America,Install,Failed,3/10/23,,
+53305-075,North America,Removal,Canceled,9/7/23,,
+65044-2482,EU,Install,Canceled,9/10/23,,
+67046-585,North America,Survey,New,6/16/23,,
+49738-695,North America,Survey,Canceled,7/28/23,,
+24236-845,North America,Survey,Canceled,5/22/23,,
+0469-0657,North America,Removal,Failed,6/19/23,,
+13668-079,EU,Removal,Failed,6/30/23,,
+44924-117,EU,Decomm,Canceled,9/30/23,,
+0179-0039,North America,Removal,Canceled,4/24/23,,
+0007-3236,North America,Decomm,Fulfilled,4/11/23,5/16/23,35
+16729-154,EU,Install,New,1/17/23,,
+68788-9164,North America,Survey,Fulfilled,2/27/23,3/31/23,32
+50458-602,EU,Removal,Canceled,2/27/23,,
+36987-1325,North America,Decomm,Fulfilled,7/19/23,8/12/23,24
+68828-124,North America,Decomm,Canceled,1/23/23,,
+37000-754,North America,Removal,Failed,6/1/23,,
+64980-504,North America,Removal,Canceled,5/29/23,,
+50201-0246,North America,Removal,Failed,1/6/23,,
+57913-2900,EU,Decomm,Failed,5/12/23,,
+36987-2343,EU,Decomm,Fulfilled,2/15/23,3/5/23,18
+65862-405,North America,Survey,Failed,2/11/23,,
+62839-0808,North America,Decomm,Fulfilled,2/6/23,2/25/23,19
+0268-1214,North America,Survey,Fulfilled,1/5/23,2/1/23,27
+43742-0469,EU,Install,New,4/15/23,,
+31722-713,EU,Removal,Canceled,4/16/23,,
+50458-535,EU,Install,New,4/5/23,,
+59970-174,EU,Removal,Failed,7/27/23,,
+59779-888,North America,Install,Failed,5/14/23,,
+42508-165,EU,Decomm,Canceled,7/15/23,,
+46672-092,North America,Decomm,Fulfilled,5/19/23,5/22/23,3
+52584-017,EU,Decomm,Canceled,7/19/23,,
+0115-2622,North America,Install,Fulfilled,6/30/23,7/26/23,26
+0006-0757,North America,Install,Failed,2/11/23,,
+55714-2279,North America,Decomm,Canceled,4/21/23,,
+0009-0050,North America,Survey,Canceled,4/3/23,,
+51143-069,North America,Decomm,New,9/7/23,,
+75936-115,EU,Survey,Canceled,6/15/23,,
+35356-051,EU,Survey,Canceled,6/4/23,,
+63940-803,North America,Survey,Failed,9/13/23,,
+62584-683,North America,Survey,Failed,5/15/23,,
+49349-236,North America,Removal,Canceled,2/2/23,,
+55154-1586,EU,Survey,Canceled,8/12/23,,
+52125-507,EU,Survey,Fulfilled,3/13/23,3/30/23,17
+55154-5367,EU,Survey,New,5/19/23,,
+24909-147,North America,Install,Fulfilled,4/28/23,5/28/23,30
+0078-0597,EU,Install,Canceled,5/10/23,,
+62756-017,EU,Survey,Fulfilled,5/11/23,5/31/23,20
+22557-001,North America,Decomm,Canceled,5/13/23,,
+32909-121,North America,Survey,Failed,6/3/23,,
+50051-0018,EU,Decomm,Canceled,3/14/23,,
+0268-0926,North America,Install,Failed,4/17/23,,
+59854-301,North America,Removal,Failed,7/22/23,,
+58503-043,North America,Decomm,Fulfilled,7/11/23,7/27/23,16
+55154-5390,EU,Install,Failed,7/24/23,,
+60927-115,EU,Survey,Fulfilled,7/9/23,8/6/23,28
+55154-4609,North America,Survey,New,4/28/23,,
+49999-130,North America,Survey,Canceled,8/24/23,,
+52725-495,EU,Decomm,New,1/3/23,,
+52125-307,North America,Install,Failed,1/5/23,,
+49349-477,North America,Decomm,Failed,2/5/23,,
+68084-630,North America,Removal,Canceled,2/28/23,,
+60505-3131,EU,Decomm,Fulfilled,3/23/23,4/20/23,28
+68428-729,EU,Survey,Canceled,1/1/23,,
+0049-4960,EU,Install,Fulfilled,7/7/23,7/22/23,15
+50730-4301,EU,Decomm,Failed,9/23/23,,
+61601-1120,North America,Survey,Canceled,9/11/23,,
+57520-0922,North America,Decomm,Canceled,1/13/23,,
+55289-410,EU,Removal,New,8/10/23,,
+51417-0001,North America,Removal,Canceled,6/11/23,,
+21695-844,North America,Removal,Canceled,2/18/23,,
+66715-9843,North America,Removal,Failed,6/19/23,,
+17156-610,EU,Removal,Failed,7/5/23,,
+17089-346,EU,Survey,Canceled,2/9/23,,
+62756-538,North America,Install,Canceled,3/10/23,,
+36987-2167,North America,Removal,Fulfilled,7/20/23,7/26/23,6
+0268-6609,EU,Survey,New,9/4/23,,
+51079-454,North America,Install,Fulfilled,3/29/23,4/22/23,24
+63629-3367,North America,Install,Canceled,7/7/23,,
+10544-106,North America,Install,Fulfilled,5/1/23,5/28/23,27
+66472-037,EU,Removal,Canceled,4/29/23,,
+0228-2167,EU,Decomm,Failed,3/24/23,,
+0069-0153,North America,Survey,Canceled,7/1/23,,
+43553-4134,North America,Survey,Failed,2/4/23,,
+62171-050,EU,Survey,Failed,1/23/23,,
+51346-080,North America,Survey,Fulfilled,9/5/23,10/1/23,26
+0113-0381,North America,Decomm,Failed,4/17/23,,
+0007-4892,North America,Install,Fulfilled,1/30/23,2/17/23,18
+0363-0685,EU,Decomm,New,7/30/23,,
+68645-272,EU,Removal,Fulfilled,1/10/23,1/26/23,16
+57520-0511,EU,Decomm,Fulfilled,1/8/23,1/24/23,16
+68169-0049,EU,Install,Fulfilled,2/23/23,3/23/23,28
+0268-1527,North America,Decomm,Fulfilled,5/15/23,6/12/23,28
+37205-387,North America,Install,Fulfilled,8/13/23,9/1/23,19
+41190-069,EU,Decomm,Failed,5/9/23,,
+65044-2860,North America,Removal,New,5/14/23,,
+0574-0118,North America,Removal,Canceled,5/9/23,,
+67777-215,North America,Decomm,New,3/10/23,,
+59779-241,North America,Decomm,Failed,9/27/23,,
+13548-132,North America,Decomm,Failed,4/5/23,,
+30142-479,EU,Decomm,Canceled,1/21/23,,
+54879-005,EU,Decomm,Fulfilled,3/18/23,4/5/23,18
+49348-917,North America,Decomm,Canceled,9/3/23,,
+43269-890,North America,Decomm,Fulfilled,4/30/23,5/26/23,26
+55037-301,EU,Removal,Failed,6/2/23,,
+63187-095,North America,Install,Canceled,5/24/23,,
+68634-0029,North America,Decomm,Canceled,9/22/23,,
+42507-886,North America,Removal,New,8/22/23,,
+36987-2601,EU,Removal,Canceled,1/20/23,,
+53499-7171,EU,Removal,Canceled,2/13/23,,
+50382-051,EU,Removal,Failed,3/8/23,,
+37000-735,EU,Removal,Failed,4/8/23,,
+63739-577,North America,Removal,Canceled,6/28/23,,
+0548-1140,North America,Removal,Canceled,9/16/23,,
+16714-697,EU,Install,Fulfilled,3/1/23,3/18/23,17
+24208-385,North America,Removal,New,5/6/23,,
+54868-4842,North America,Decomm,Fulfilled,5/26/23,6/2/23,7
+0363-9200,North America,Survey,Canceled,1/17/23,,
+50474-700,EU,Removal,Fulfilled,5/2/23,5/9/23,7
+43386-620,North America,Decomm,Canceled,9/3/23,,
+65162-193,North America,Removal,Failed,1/1/23,,
+55118-540,EU,Decomm,Canceled,7/19/23,,
+68745-2003,North America,Removal,Failed,2/26/23,,
+55648-925,North America,Removal,Failed,3/15/23,,
+54569-1115,North America,Install,Fulfilled,5/15/23,6/6/23,22
+64896-692,EU,Removal,Failed,2/10/23,,
+36987-2432,EU,Install,Fulfilled,2/24/23,3/23/23,27
+43742-0492,EU,Removal,New,7/26/23,,
+64720-140,EU,Survey,Fulfilled,7/2/23,8/1/23,30
+63323-010,North America,Decomm,Fulfilled,9/24/23,10/11/23,17
+37205-822,North America,Removal,Fulfilled,2/21/23,3/28/23,35
+41163-544,EU,Removal,Fulfilled,1/8/23,1/20/23,12
+0093-1024,North America,Survey,Fulfilled,2/22/23,3/7/23,13
+11822-0650,North America,Decomm,Failed,7/5/23,,
+49288-0228,North America,Removal,New,4/13/23,,
+42865-100,North America,Survey,Canceled,7/11/23,,
+15821-101,North America,Removal,New,4/14/23,,
+37808-186,EU,Decomm,Failed,7/2/23,,
+59746-172,EU,Removal,Failed,4/18/23,,
+76119-5309,North America,Install,Canceled,4/13/23,,
+67979-002,North America,Removal,Fulfilled,6/13/23,7/3/23,20
+11673-461,North America,Removal,Canceled,5/29/23,,
+52959-539,EU,Survey,Fulfilled,7/6/23,8/5/23,30
+41250-015,EU,Decomm,Failed,3/24/23,,
+64942-1154,EU,Decomm,Canceled,7/17/23,,
+41442-110,EU,Install,Canceled,1/9/23,,
+64893-440,North America,Decomm,New,8/17/23,,
+59535-6701,North America,Decomm,Canceled,8/13/23,,
+60846-806,EU,Install,Canceled,2/9/23,,
+52125-517,North America,Install,Failed,6/1/23,,
+60681-0802,North America,Survey,Failed,9/30/23,,
+13537-024,North America,Survey,Canceled,1/18/23,,
+0228-2899,North America,Removal,Canceled,1/14/23,,
+52584-215,EU,Decomm,Fulfilled,3/24/23,4/3/23,10
+98132-734,EU,Install,New,9/6/23,,
+57893-303,North America,Decomm,Fulfilled,1/19/23,1/22/23,3
+43066-360,North America,Removal,Canceled,1/28/23,,
+11822-4803,North America,Decomm,Fulfilled,4/24/23,5/7/23,13
+64725-0750,EU,Survey,Canceled,5/28/23,,
+66993-077,EU,Survey,Failed,1/16/23,,
+49348-361,EU,Removal,Canceled,6/11/23,,
+50436-6357,EU,Install,Failed,5/13/23,,
+51346-015,North America,Decomm,Failed,1/16/23,,
+50988-454,North America,Removal,Fulfilled,6/3/23,6/29/23,26
+63868-951,EU,Survey,Failed,5/4/23,,
+63010-021,North America,Install,Fulfilled,9/19/23,9/25/23,6
+41268-105,North America,Removal,New,6/11/23,,
+0116-1061,North America,Decomm,Fulfilled,3/2/23,4/3/23,32
+60760-116,North America,Survey,Fulfilled,5/21/23,6/5/23,15
+58668-6800,EU,Decomm,Fulfilled,4/27/23,5/17/23,20
+36987-1633,EU,Decomm,Fulfilled,9/19/23,10/24/23,35
+0093-7439,North America,Survey,Fulfilled,3/10/23,3/26/23,16
+64942-1090,North America,Removal,Failed,9/28/23,,
+10544-158,EU,Removal,New,2/10/23,,
+35356-939,North America,Install,Canceled,8/9/23,,
+58414-8723,North America,Survey,New,3/10/23,,
+36987-2733,EU,Decomm,Failed,3/9/23,,
+47335-539,EU,Decomm,Failed,1/21/23,,
+49738-142,EU,Removal,Canceled,3/24/23,,
+62932-146,EU,Removal,Fulfilled,6/14/23,6/21/23,7
+76332-003,North America,Install,Canceled,7/1/23,,
+52686-293,North America,Install,Fulfilled,1/20/23,2/5/23,16
+43063-272,EU,Survey,Failed,3/30/23,,
+21695-070,North America,Decomm,Canceled,8/17/23,,
+0409-2012,North America,Survey,Canceled,7/10/23,,
+40046-0034,North America,Install,New,3/2/23,,
+49230-191,North America,Removal,Canceled,5/26/23,,
+37000-813,EU,Survey,Canceled,6/16/23,,
+67938-1130,EU,Survey,Failed,8/19/23,,
+55714-2346,North America,Survey,Failed,7/17/23,,
+49483-016,North America,Install,Canceled,3/2/23,,
+41520-476,North America,Survey,Canceled,5/24/23,,
+55154-5682,EU,Survey,Fulfilled,8/23/23,8/28/23,5
+54868-5528,EU,Removal,New,8/1/23,,
+65862-211,EU,Removal,Fulfilled,3/5/23,4/7/23,33
+17089-301,EU,Survey,Canceled,7/19/23,,
+0173-0859,North America,Survey,Fulfilled,1/24/23,2/19/23,26
+55289-058,North America,Removal,Canceled,8/23/23,,
+49999-797,EU,Removal,Failed,2/10/23,,
+43419-715,North America,Install,Canceled,2/13/23,,
+0591-2641,North America,Survey,Failed,2/4/23,,
+67296-0140,North America,Install,Failed,2/20/23,,
+76269-187,North America,Removal,Fulfilled,3/18/23,3/25/23,7
+10812-340,EU,Removal,Failed,4/4/23,,
+55289-520,EU,Decomm,Fulfilled,7/4/23,7/16/23,12
+45802-176,North America,Decomm,New,7/13/23,,
+54340-813,North America,Survey,Fulfilled,2/19/23,3/16/23,25
+41250-175,EU,Survey,Fulfilled,4/25/23,5/18/23,23
+63776-320,North America,Install,Fulfilled,3/14/23,3/25/23,11
+0591-0462,EU,Install,Fulfilled,4/22/23,5/15/23,23
+34690-3001,North America,Removal,Fulfilled,5/30/23,6/28/23,29
+55312-886,North America,Decomm,Failed,5/20/23,,
+69184-001,North America,Removal,New,5/16/23,,
+49693-2301,North America,Install,Canceled,5/16/23,,
+30142-918,North America,Survey,New,5/18/23,,
+0009-0039,EU,Decomm,Failed,4/1/23,,
+11523-7374,EU,Decomm,Failed,1/28/23,,
+52083-645,North America,Survey,Canceled,7/1/23,,
+0642-0076,North America,Decomm,Fulfilled,7/16/23,8/17/23,32
+52533-157,North America,Removal,Canceled,9/28/23,,
+67457-342,EU,Install,Fulfilled,7/23/23,8/3/23,11
+61578-305,EU,Survey,Failed,2/1/23,,
+98132-122,EU,Removal,Canceled,7/3/23,,
+42852-001,EU,Survey,Canceled,1/6/23,,
+35356-806,North America,Install,New,4/2/23,,
+63981-306,EU,Removal,Canceled,8/1/23,,
+49789-040,North America,Install,Canceled,9/20/23,,
+37000-699,EU,Install,Failed,6/3/23,,
+52125-013,North America,Removal,Failed,9/13/23,,
+49738-335,North America,Removal,Canceled,9/21/23,,
+32974 - 627,North America,Install,Canceled,5/14/23,,
+60593 - 516,North America,Install,Fulfilled,8/3/23,8/22/23,19
+33978 - 182,North America,Removal,New,9/19/23,,
+66503 - 426,EU,Removal,Fulfilled,8/17/23,8/27/23,10
+34077 - 966,EU,Survey,Canceled,1/20/23,,
+32022 - 725,North America,Survey,Fulfilled,4/1/23,4/12/23,11
+87754 - 723,North America,Removal,Canceled,7/16/23,,
+81031 - 106,North America,Survey,Failed,1/12/23,,
+12472 - 712,EU,Survey,Canceled,6/12/23,,
+82799 - 41,EU,Survey,Failed,5/2/23,,
+68125 - 691,EU,Decomm,Failed,1/4/23,,
+49856 - 479,EU,Removal,Fulfilled,6/22/23,7/3/23,11
+30338 - 243,EU,Removal,Failed,6/25/23,,
+16150 - 441,North America,Survey,Fulfilled,4/24/23,5/10/23,16
+38920 - 107,North America,Survey,New,3/10/23,,
+98498 - 572,EU,Decomm,Fulfilled,7/7/23,8/5/23,29
+24512 - 448,North America,Decomm,Fulfilled,7/16/23,8/4/23,19
+24502 - 802,North America,Install,Fulfilled,4/13/23,5/8/23,25
+42681 - 173,North America,Decomm,Fulfilled,4/24/23,5/21/23,27
+81640 - 893,EU,Install,Fulfilled,8/11/23,8/20/23,9
+30891 - 808,EU,Install,Failed,6/26/23,,
+15827 - 126,North America,Decomm,New,8/3/23,,
+26717 - 608,North America,Survey,Canceled,2/20/23,,
+42763 - 787,EU,Install,New,8/3/23,,
+53893 - 502,North America,Decomm,Failed,1/2/23,,
+22026 - 713,North America,Removal,Failed,2/20/23,,
+15853 - 165,North America,Survey,Canceled,9/24/23,,
+11377 - 518,EU,Survey,Fulfilled,6/1/23,6/7/23,6
+31436 - 572,EU,Survey,Canceled,2/12/23,,
+65854 - 387,EU,Survey,Fulfilled,6/12/23,7/5/23,23
+66103 - 77,EU,Decomm,Failed,9/10/23,,
+78097 - 220,North America,Removal,Canceled,3/28/23,,
+16370 - 277,North America,Removal,Canceled,2/26/23,,
+10913 - 845,EU,Install,New,8/6/23,,
+98925 - 583,North America,Decomm,Canceled,9/3/23,,
+60609 - 238,North America,Survey,Canceled,7/18/23,,
+68282 - 931,North America,Removal,Failed,2/12/23,,
+96507 - 590,EU,Decomm,Failed,1/8/23,,
+28932 - 984,EU,Install,Canceled,3/20/23,,
+60196 - 923,North America,Decomm,Canceled,2/11/23,,
+29832 - 182,North America,Decomm,Fulfilled,9/16/23,10/12/23,26
+87760 - 74,EU,Survey,New,9/8/23,,
+69580 - 32,North America,Decomm,Fulfilled,5/6/23,5/20/23,14
+56171 - 460,North America,Removal,Canceled,2/4/23,,
+19309 - 569,North America,Install,Fulfilled,5/26/23,6/13/23,18
+98747 - 999,EU,Install,Canceled,3/16/23,,
+96705 - 889,EU,Survey,Failed,2/21/23,,
+39504 - 596,North America,Install,Canceled,1/29/23,,
+49887 - 716,North America,Survey,Failed,4/14/23,,
+99764 - 358,EU,Decomm,Failed,5/13/23,,
+56728 - 525,North America,Install,Fulfilled,9/23/23,10/21/23,28
+29564 - 48,North America,Install,Failed,6/11/23,,
+80212 - 837,North America,Removal,Fulfilled,3/17/23,4/8/23,22
+63806 - 39,EU,Install,New,9/26/23,,
+60539 - 563,EU,Install,Fulfilled,1/22/23,2/7/23,16
+84463 - 850,EU,Removal,Fulfilled,5/16/23,5/21/23,5
+72912 - 332,EU,Survey,Fulfilled,2/20/23,3/14/23,22
+45187 - 163,North America,Removal,Fulfilled,1/23/23,2/3/23,11
+78301 - 488,North America,Removal,Fulfilled,6/6/23,6/27/23,21
+41770 - 395,EU,Decomm,Failed,9/20/23,,
+76022 - 858,North America,Decomm,New,6/1/23,,
+72813 - 710,North America,Decomm,Canceled,2/3/23,,
+19490 - 220,North America,Survey,New,9/5/23,,
+62648 - 665,North America,Decomm,Failed,7/12/23,,
+83277 - 911,North America,Survey,Failed,1/4/23,,
+87678 - 210,EU,Install,Canceled,1/25/23,,
+69976 - 844,EU,Removal,Fulfilled,7/21/23,8/12/23,22
+92398 - 583,North America,Removal,Canceled,5/21/23,,
+20049 - 28,North America,Install,Fulfilled,5/20/23,6/11/23,22
+26876 - 46,EU,Survey,Failed,1/19/23,,
+81019 - 822,North America,Survey,Canceled,5/11/23,,
+47237 - 72,North America,Decomm,Canceled,8/1/23,,
+63524 - 931,North America,Survey,New,5/25/23,,
+52013 - 371,EU,Decomm,Canceled,8/20/23,,
+79459 - 596,EU,Survey,Canceled,3/22/23,,
+54891 - 953,EU,Survey,Failed,7/19/23,,
+62876 - 37,EU,Install,Failed,2/9/23,,
+98410 - 810,North America,Removal,Canceled,5/26/23,,
+63135 - 51,North America,Decomm,Canceled,5/30/23,,
+81083 - 631,EU,Survey,Fulfilled,7/25/23,8/28/23,34
+74813 - 493,North America,Install,New,8/20/23,,
+59396 - 84,North America,Decomm,Fulfilled,3/4/23,3/27/23,23
+22529 - 948,North America,Survey,Canceled,4/16/23,,
+25163 - 24,EU,Decomm,Fulfilled,5/26/23,6/12/23,17
+92253 - 893,North America,Decomm,Canceled,9/5/23,,
+78051 - 478,North America,Install,Failed,9/1/23,,
+84276 - 541,EU,Decomm,Canceled,8/2/23,,
+53096 - 57,North America,Removal,Failed,8/18/23,,
+70868 - 524,North America,Install,Failed,8/19/23,,
+20858 - 977,North America,Install,Fulfilled,4/25/23,5/15/23,20
+20443 - 381,EU,Removal,Failed,7/17/23,,
+70857 - 989,EU,Install,Fulfilled,2/2/23,2/14/23,12
+43030 - 587,EU,Decomm,New,1/6/23,,
+12023 - 461,EU,Removal,Fulfilled,2/24/23,3/22/23,26
+69781 - 55,North America,Decomm,Fulfilled,8/30/23,9/17/23,18
+95884 - 791,North America,Decomm,Fulfilled,1/21/23,1/30/23,9
+70275 - 775,EU,Survey,Fulfilled,7/4/23,7/14/23,10
+35945 - 894,North America,Survey,Fulfilled,2/15/23,3/20/23,33
+44653 - 779,North America,Removal,Failed,4/19/23,,
